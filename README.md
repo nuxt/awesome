@@ -11,6 +11,9 @@
 > A curated list of awesome things related to Nuxt.js
 
 - [Official Resources](#official-resources)
+- [Community](#community)
+- [Tutorials](#tutorials)
+- [Official Examples](#official-examples)
 
 ### Official Resources
 
@@ -18,3 +21,17 @@
 - [API Reference](https://nuxtjs.org/api)
 - [GitHub Repo](https://github.com/nuxt/nuxt.js)
 - [Release Notes](https://github.com/nuxt/nuxt.js/releases)
+
+### Community
+
+- [Twitter](https://twitter.com/nuxt_js)
+- [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
+- [Official Blog](https://medium.com/@nuxt_js)
+
+### Tutorials
+
+- [Build a Vue.js Website in 4 Steps](https://hackernoon.com/build-a-vue-js-website-in-4-steps-56dc5db8012b)
+
+### Official Examples
+
+- [Hello World](https://hello-world.nuxtjs.org/)
