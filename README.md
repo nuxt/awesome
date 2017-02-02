@@ -10,6 +10,7 @@
 
 > A curated list of awesome things related to Nuxt.js
 
+## Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Tutorials](#tutorials)
