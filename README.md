@@ -39,3 +39,5 @@
 ### Official Examples
 
 - [Hello World](https://hello-world.nuxtjs.org/)
+- [Starter](https://starter.nuxtjs.org/)
+- [TODO MVC](https://todomvc.nuxtjs.org/)
