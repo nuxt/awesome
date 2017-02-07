@@ -15,6 +15,7 @@
 - [Community](#community)
 - [Tutorials](#tutorials)
 - [Official Examples](#official-examples)
+- [Projects Using Nuxt.js](#projects-using-nuxtjs)
 
 ### Official Resources
 
@@ -42,6 +43,10 @@
 - [Hello World](https://hello-world.nuxtjs.org/)
 - [Starter](https://starter.nuxtjs.org/)
 - [TODO MVC](https://todomvc.nuxtjs.org/)
+
+### Projects Using Nuxt.js
+
+> Welcome PR
 
 ## License
 
