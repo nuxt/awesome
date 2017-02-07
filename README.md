@@ -32,6 +32,7 @@
 
 ### Tutorials
 
+- [Build Vue.js Apps with the Vue-CLI and Nuxt.js](https://egghead.io/lessons/vue-build-vue-js-apps-with-the-vue-cli-and-nuxt-js)
 - [Build a Vue.js Website in 4 Steps](https://hackernoon.com/build-a-vue-js-website-in-4-steps-56dc5db8012b)
 - [Vue 基于 NUXT 的 SSR](https://segmentfault.com/a/1190000007933349)
 - [深入NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
