@@ -42,3 +42,7 @@
 - [Hello World](https://hello-world.nuxtjs.org/)
 - [Starter](https://starter.nuxtjs.org/)
 - [TODO MVC](https://todomvc.nuxtjs.org/)
+
+## License
+
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
