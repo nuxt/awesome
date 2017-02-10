@@ -43,6 +43,7 @@
 - [Hello World](https://hello-world.nuxtjs.org/)
 - [Starter](https://starter.nuxtjs.org/)
 - [TODO MVC](https://todomvc.nuxtjs.org/)
+- [Auth0](https://auth0.nuxtjs.org/)
 
 ### Projects Using Nuxt.js
 
