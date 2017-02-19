@@ -54,6 +54,7 @@
 - [Auth0](https://auth0.nuxtjs.org/)
 - [Middleware](https://middleware.nuxtjs.org/)
 - [Internationalization (i18n)](https://i18n.nuxtjs.org/fr/)
+- [Hackernews](https://github.com/nuxt/example-hackernews)
 
 ### Projects Using Nuxt.js
 
