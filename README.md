@@ -59,6 +59,8 @@
 
 ### Projects Using Nuxt.js
 
+ - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist.
+
 > Welcome PR
 
 ## License
