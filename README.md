@@ -60,7 +60,7 @@
 ### Projects Using Nuxt.js
 
  - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist.
-
+ - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress.
 > Welcome PR
 
 ## License
