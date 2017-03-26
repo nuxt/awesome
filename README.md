@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="https://nuxtjs.org/logo_home.png" />
+    <img src="http://imgur.com/V4LtoII.png" />
   <br>
   <br>
   <br>
