@@ -34,6 +34,7 @@
 
 ### Tutorials
 
+- [Building a Personal Site with Nuxt.js](https://medium.com/@kenrogers/building-a-personal-site-with-nuxt-js-96e5703079)
 - [Debugging Nuxt.js with Visual Studio Code](https://medium.com/@marshallswain/debugging-nuxt-js-with-visual-studio-code-724920140b8f)
 - [Build Vue.js Apps with the Vue-CLI and Nuxt.js](https://egghead.io/lessons/vue-build-vue-js-apps-with-the-vue-cli-and-nuxt-js)
 - [Build a Vue.js Website in 4 Steps](https://hackernoon.com/build-a-vue-js-website-in-4-steps-56dc5db8012b)
