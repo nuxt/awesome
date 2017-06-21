@@ -62,6 +62,7 @@
 
 ### Projects Using Nuxt.js
 
+ - [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Static Generated Vue.js web application built with Nuxt.js and hosted on Github Pages.
  - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
  - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist.
  - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress.
