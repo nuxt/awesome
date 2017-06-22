@@ -42,6 +42,7 @@
 - [Create and publish a Nuxt.js powered website on Github pages](https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372)
 - [Vue 基于 NUXT 的 SSR](https://segmentfault.com/a/1190000007933349)
 - [深入NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
+- [用 nuxt 开发部署一个 v2ex](https://segmentfault.com/a/1190000009842518)
 
 ### Starter Template
 
