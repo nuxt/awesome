@@ -46,10 +46,13 @@
 
 ### Starter Template
 
-- [nuxt/adonuxt](https://github.com/nuxt/adonuxt)
-- [nuxt/starter](https://github.com/nuxt/starter)
-- [nuxt/express](https://github.com/nuxt/express)
-- [nuxt/koa](https://github.com/nuxt/koa)
+- [nuxt/adonuxt](https://github.com/nuxt-community/adonuxt-template)
+- [nuxt/starter](https://github.com/nuxt-community/starter-template)
+- [nuxt/express](https://github.com/nuxt-community/express-template)
+- [nuxt/koa](https://github.com/nuxt-community/koa-template)
+- [nuxt/electron-template](https://github.com/nuxt-community/electron-template)
+- [nuxt/pwa-template](https://github.com/nuxt-community/pwa-template)
+- [nuxt/typescript-template](https://github.com/nuxt-community/typescript-template)
 
 ### Official Examples
 
