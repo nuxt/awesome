@@ -71,6 +71,7 @@
  - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist.
  - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress.
  - [n2ex](https://github.com/OrangeXC/n2ex) - A v2ex web app built with Nuxt
+ - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada.
 
 > Welcome PR
 
