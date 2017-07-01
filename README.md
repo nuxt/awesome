@@ -53,6 +53,7 @@
 - [nuxt/electron](https://github.com/nuxt-community/electron-template)
 - [nuxt/pwa](https://github.com/nuxt-community/pwa-template)
 - [nuxt/typescript](https://github.com/nuxt-community/typescript-template)
+- [vueniverse](https://github.com/rlindskog/vueniverse)
 
 ### Official Examples
 
