@@ -46,14 +46,14 @@
 
 ### Starter Template
 
-- [nuxt/adonuxt](https://github.com/nuxt-community/adonuxt-template)
-- [nuxt/starter](https://github.com/nuxt-community/starter-template)
-- [nuxt/express](https://github.com/nuxt-community/express-template)
-- [nuxt/koa](https://github.com/nuxt-community/koa-template)
-- [nuxt/electron](https://github.com/nuxt-community/electron-template)
-- [nuxt/pwa](https://github.com/nuxt-community/pwa-template)
-- [nuxt/typescript](https://github.com/nuxt-community/typescript-template)
-- [vueniverse](https://github.com/rlindskog/vueniverse)
+- [nuxt/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS. 
+- [nuxt/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template.
+- [nuxt/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
+- [nuxt/koa](https://github.com/nuxt-community/koa-template) - Starter template for Nuxt.js with KoaJS.
+- [nuxt/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js.
+- [nuxt/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template.
+- [nuxt/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
+- [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
 
 ### Official Examples
 
