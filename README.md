@@ -54,6 +54,7 @@
 - [nuxt/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template.
 - [nuxt/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
+- [nuxt/content](https://github.com/nuxt-community/content-template) Nuxt.js stater template for content heavy sites.
 
 ### Official Examples
 
