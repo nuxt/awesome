@@ -57,6 +57,7 @@
 - [nuxt/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites.
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork
+- [nuxt/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express
 
 
 ### Official Examples
