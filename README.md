@@ -56,6 +56,7 @@
 - [nuxt/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
 - [nuxt/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites.
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
+- [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork
 
 
 ### Official Examples
