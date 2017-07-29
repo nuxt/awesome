@@ -30,7 +30,6 @@
 - [Youtube](https://www.youtube.com/channel/UCJ9jj5YMzo-HsyM6WG9Q_Lg)
 - [Twitter](https://twitter.com/nuxt_js)
 - [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
-- [Official Blog](https://medium.com/@nuxt_js)
 
 ### Tutorials
 
