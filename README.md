@@ -77,7 +77,7 @@
  - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress.
  - [n2ex](https://github.com/OrangeXC/n2ex) - A v2ex web app built with Nuxt
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada.
- - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog.
+ - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog .
 
 > Welcome PR
 
