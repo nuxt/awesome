@@ -46,15 +46,15 @@
 
 ### Starter Template
 
-- [nuxt/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS. 
-- [nuxt/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template.
-- [nuxt/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
-- [nuxt/koa](https://github.com/nuxt-community/koa-template) - Starter template for Nuxt.js with KoaJS.
-- [nuxt/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js.
-- [nuxt/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template.
-- [nuxt/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
-- [nuxt/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites.
-- [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
+- [nuxt/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS
+- [nuxt/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template
+- [nuxt/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express
+- [nuxt/koa](https://github.com/nuxt-community/koa-template) - Starter template for Nuxt.js with KoaJS
+- [nuxt/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js
+- [nuxt/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template
+- [nuxt/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
+- [nuxt/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites
+- [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork
 - [nuxt/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express
 
@@ -71,13 +71,13 @@
 
 ### Projects Using Nuxt.js
 
- - [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Static Generated Vue.js web application built with Nuxt.js and hosted on Github Pages.
- - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
- - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist.
- - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress.
+ - [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Static Generated Vue.js web application built with Nuxt.js and hosted on Github Pages
+ - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it
+ - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist
+ - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress
  - [n2ex](https://github.com/OrangeXC/n2ex) - A v2ex web app built with Nuxt
- - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada.
- - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog .
+ - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
+ - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
 
 > Welcome PR
 
