@@ -58,6 +58,9 @@
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork
 - [nuxt/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express
 
+### Docker
+
+- [mrsunshine/docker-nuxt](https://github.com/mrsunshine/docker-nuxt) - Docker image to build and run a nuxt application in production mode.
 
 ### Official Examples
 
