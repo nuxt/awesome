@@ -32,7 +32,7 @@
 - [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
 
 ### Tutorials
-
+- [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Building a Personal Site with Nuxt.js](https://medium.com/@kenrogers/building-a-personal-site-with-nuxt-js-96e5703079)
 - [Debugging Nuxt.js with Visual Studio Code](https://medium.com/@marshallswain/debugging-nuxt-js-with-visual-studio-code-724920140b8f)
 - [Build Vue.js Apps with the Vue-CLI and Nuxt.js](https://egghead.io/lessons/vue-build-vue-js-apps-with-the-vue-cli-and-nuxt-js)
