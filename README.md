@@ -91,7 +91,7 @@
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
 
-> Please don't hesitate to make a PR if you have more resource to share :)
+> Please don't hesitate to make a PR if you have more resources to share.
 
 
 ## License
