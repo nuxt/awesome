@@ -17,6 +17,7 @@
 - [Starter Template](#starter-template)
 - [Official Examples](#official-examples)
 - [Projects Using Nuxt.js](#projects-using-nuxtjs)
+- [They are talking about Nuxt.js](#they-are-talking-about-nuxtjs)
 
 ### Official Resources
 
@@ -81,6 +82,10 @@
  - [n2ex](https://github.com/OrangeXC/n2ex) - A v2ex web app built with Nuxt
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
+
+### They are talking about Nuxt.js
+
+- [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks (Google I/O '17)](https://youtu.be/aCMbSyngXB4?t=34m45s)
 
 > Welcome PR
 
