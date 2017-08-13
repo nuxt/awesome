@@ -13,11 +13,11 @@
 ## Contents
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [Mention of Nuxt.js](#mention-of-nuxtjs)
 - [Tutorials](#tutorials)
 - [Starter Template](#starter-template)
 - [Official Examples](#official-examples)
 - [Projects Using Nuxt.js](#projects-using-nuxtjs)
-- [They are talking about Nuxt.js](#they-are-talking-about-nuxtjs)
 
 ### Official Resources
 
@@ -31,6 +31,14 @@
 - [Youtube](https://www.youtube.com/channel/UCJ9jj5YMzo-HsyM6WG9Q_Lg)
 - [Twitter](https://twitter.com/nuxt_js)
 - [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
+
+### Mention of Nuxt.js
+
+- [Evan You - State of Vue | VueConf 2017](https://youtu.be/lG0Ys-2d4MA?t=9m25s)
+- [Sean Larkin - (Webpack) Code splitting patterns in Vue.js | VueConf 2017](https://youtu.be/rn97hCNQsKI?t=12m20s)
+- [Sarah Drasner - Animating Vue | VueConf 2017](https://youtu.be/gJDyhmL9O_E?t=23m48s)
+- [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks | Google I/O '17](https://youtu.be/aCMbSyngXB4?t=34m45s)
+- [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 ### Tutorials
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
@@ -82,14 +90,6 @@
  - [n2ex](https://github.com/OrangeXC/n2ex) - A v2ex web app built with Nuxt
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
-
-### They are talking about Nuxt.js
-
-- [Evan You - State of Vue | VueConf 2017](https://youtu.be/lG0Ys-2d4MA?t=9m25s)
-- [Sean Larkin - (Webpack) Code splitting patterns in Vue.js | VueConf 2017](https://youtu.be/rn97hCNQsKI?t=12m20s)
-- [Sarah Drasner - Animating Vue | VueConf 2017](https://youtu.be/gJDyhmL9O_E?t=23m48s)
-- [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks | Google I/O '17](https://youtu.be/aCMbSyngXB4?t=34m45s)
-- [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 > Please don't hesitate to make a PR if you have more resource to share :)
 
