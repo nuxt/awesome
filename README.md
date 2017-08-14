@@ -44,7 +44,8 @@
 ### Showcase
  - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend
  - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js
- - [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Nuxt.js documentation website
+ - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website
+ - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
 
 ### Tutorials
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs?utm_content=buffer93967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#demo-repo)
