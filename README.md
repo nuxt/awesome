@@ -94,6 +94,7 @@
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
  - [front end intelligence](https://news.awesomes.cn/) - A website where you can fetch the front end news
+ - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt powered by a Laravel backend
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
