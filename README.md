@@ -45,6 +45,7 @@
  - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend
  - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js
  - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website
+ - [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
 
 ### Tutorials
