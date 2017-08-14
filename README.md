@@ -14,6 +14,7 @@
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Mention of Nuxt.js](#mention-of-nuxtjs)
+- [Showcase](#showcase)
 - [Tutorials](#tutorials)
 - [Starter Template](#starter-template)
 - [Official Examples](#official-examples)
@@ -39,6 +40,11 @@
 - [Sarah Drasner - Animating Vue | VueConf 2017](https://youtu.be/gJDyhmL9O_E?t=23m48s)
 - [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks | Google I/O '17](https://youtu.be/aCMbSyngXB4?t=34m45s)
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
+
+### Showcase
+ - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend
+ - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js
+ - [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Nuxt.js documentation website
 
 ### Tutorials
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs?utm_content=buffer93967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#demo-repo)
@@ -86,7 +92,6 @@
 
 ### Projects Using Nuxt.js
 
- - [nuxtjs.org](https://github.com/nuxt/nuxtjs.org) - Static Generated Vue.js web application built with Nuxt.js and hosted on Github Pages
  - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it
  - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist
  - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress
@@ -94,7 +99,6 @@
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
  - [front end intelligence](https://news.awesomes.cn/) - A website where you can fetch the front end news
- - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt powered by a Laravel backend
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
