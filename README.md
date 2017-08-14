@@ -93,6 +93,7 @@
  - [n2ex](https://github.com/OrangeXC/n2ex) - A v2ex web app built with Nuxt
  - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - A meta search site for ammo prices in Canada
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
+ - [front end intelligence](https://news.awesomes.cn/) - A website where you can fetch the front end news
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
