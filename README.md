@@ -47,6 +47,7 @@
  - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website
  - [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
+ - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
 
 ### Tutorials
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs?utm_content=buffer93967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#demo-repo)
