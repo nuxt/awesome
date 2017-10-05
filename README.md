@@ -37,6 +37,8 @@
 
 ### Modules
 
+<!-- A -->
+
 - [PWA](https://github.com/nuxt-community/pwa-module): ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
 - [Axios](https://github.com/nuxt-community/axios-module): Authentication module for Nuxt.js
 - [Apollo](https://github.com/nuxt-community/apollo-module): Nuxt.js module to use vue-apollo (integrates graphql-tag loader to parse .gql & .graphql files)
@@ -47,6 +49,8 @@
 - [Nuxtent](https://github.com/nuxt-community/nuxtent-module): Seamlessly use content files in your Nuxt.js sites
 - [Blog](https://github.com/nuxt-community/blog-module): Create a blog with nuxt
 - [Router](https://github.com/nuxt-community/router-module): Nuxt.js module to use router.js instead of pages/ directory
+
+<!-- B -->
 
 - [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/modules/bootstrap-vue)
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/modules/browserconfig)
@@ -60,6 +64,8 @@
 - [Toast](https://github.com/nuxt-community/modules/tree/master/modules/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/modules/vendor)
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/modules/yandex-metrika)
+
+<!-- C -->
 
 ### Mention of Nuxt.js
 
