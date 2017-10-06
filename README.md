@@ -40,7 +40,7 @@
 <!-- A -->
 
 - [PWA](https://github.com/nuxt-community/pwa-module): ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
-- [Axios](https://github.com/nuxt-community/axios-module): Authentication module for Nuxt.js
+- [Axios](https://github.com/nuxt-community/axios-module): Secure and easy Axios integration with Nuxt.js
 - [Apollo](https://github.com/nuxt-community/apollo-module): Nuxt.js module to use vue-apollo (integrates graphql-tag loader to parse .gql & .graphql files)
 - [Auth](https://github.com/nuxt-community/auth-module): Authentication module for Nuxt.js
 - [Dotenv](https://github.com/nuxt-community/dotenv-module): Loads your .env file into your application context
