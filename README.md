@@ -52,18 +52,18 @@
 
 <!-- B -->
 
-- [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/modules/bootstrap-vue)
-- [Browserconfig](https://github.com/nuxt-community/modules/tree/master/modules/browserconfig)
-- [Bulma](https://github.com/nuxt-community/modules/tree/master/modules/bulma)
-- [Component-cache](https://github.com/nuxt-community/modules/tree/master/modules/component-cache)
-- [Font-awesome](https://github.com/nuxt-community/modules/tree/master/modules/font-awesome)
-- [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/modules/google-tag-manager)
-- [Localtunnel](https://github.com/nuxt-community/modules/tree/master/modules/localtunnel)
-- [Markdownit](https://github.com/nuxt-community/modules/tree/master/modules/markdownit)
-- [Proxy](https://github.com/nuxt-community/modules/tree/master/modules/proxy)
-- [Toast](https://github.com/nuxt-community/modules/tree/master/modules/toast)
-- [Vendor](https://github.com/nuxt-community/modules/tree/master/modules/vendor)
-- [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/modules/yandex-metrika)
+- [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/packages/bootstrap-vue)
+- [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig)
+- [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma)
+- [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache)
+- [Font-awesome](https://github.com/nuxt-community/modules/tree/master/packages/font-awesome)
+- [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/packages/google-tag-manager)
+- [Localtunnel](https://github.com/nuxt-community/modules/tree/master/packages/localtunnel)
+- [Markdownit](https://github.com/nuxt-community/modules/tree/master/packages/markdownit)
+- [Proxy](https://github.com/nuxt-community/modules/tree/master/packages/proxy)
+- [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
+- [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
+- [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
 
 <!-- C -->
 
