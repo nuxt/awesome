@@ -11,8 +11,10 @@
 > A curated list of awesome things related to Nuxt.js
 
 ## Contents
+
 - [Official Resources](#official-resources)
 - [Community](#community)
+- [Modules](#modules)
 - [Mention of Nuxt.js](#mention-of-nuxtjs)
 - [Showcase](#showcase)
 - [Tutorials](#tutorials)
@@ -33,6 +35,38 @@
 - [Twitter](https://twitter.com/nuxt_js)
 - [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
 
+### Modules
+
+<!-- A -->
+
+- [PWA](https://github.com/nuxt-community/pwa-module): ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
+- [Axios](https://github.com/nuxt-community/axios-module): Authentication module for Nuxt.js
+- [Apollo](https://github.com/nuxt-community/apollo-module): Nuxt.js module to use vue-apollo (integrates graphql-tag loader to parse .gql & .graphql files)
+- [Auth](https://github.com/nuxt-community/auth-module): Authentication module for Nuxt.js
+- [Dotenv](https://github.com/nuxt-community/dotenv-module): Loads your .env file into your application context
+- [Google-analytics](https://github.com/nuxt-community/analytics-module): Google Analytics integration for Nuxt.js with vue-analytics
+- [Sitemap](https://github.com/nuxt-community/sitemap-module): Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects
+- [Nuxtent](https://github.com/nuxt-community/nuxtent-module): Seamlessly use content files in your Nuxt.js sites
+- [Blog](https://github.com/nuxt-community/blog-module): Create a blog with nuxt
+- [Router](https://github.com/nuxt-community/router-module): Nuxt.js module to use router.js instead of pages/ directory
+
+<!-- B -->
+
+- [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/modules/bootstrap-vue)
+- [Browserconfig](https://github.com/nuxt-community/modules/tree/master/modules/browserconfig)
+- [Bulma](https://github.com/nuxt-community/modules/tree/master/modules/bulma)
+- [Component-cache](https://github.com/nuxt-community/modules/tree/master/modules/component-cache)
+- [Font-awesome](https://github.com/nuxt-community/modules/tree/master/modules/font-awesome)
+- [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/modules/google-tag-manager)
+- [Localtunnel](https://github.com/nuxt-community/modules/tree/master/modules/localtunnel)
+- [Markdownit](https://github.com/nuxt-community/modules/tree/master/modules/markdownit)
+- [Proxy](https://github.com/nuxt-community/modules/tree/master/modules/proxy)
+- [Toast](https://github.com/nuxt-community/modules/tree/master/modules/toast)
+- [Vendor](https://github.com/nuxt-community/modules/tree/master/modules/vendor)
+- [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/modules/yandex-metrika)
+
+<!-- C -->
+
 ### Mention of Nuxt.js
 
 - [Evan You - State of Vue | VueConf 2017](https://youtu.be/lG0Ys-2d4MA?t=9m25s)
@@ -50,6 +84,7 @@
  - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
 
 ### Tutorials
+
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs?utm_content=buffer93967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#demo-repo)
 - [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/?utm_content=buffer2cbd9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
