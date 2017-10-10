@@ -82,6 +82,7 @@
  - [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
  - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
+ - [pro.ekiten.jp](https://pro.ekiten.jp) - Janapese matching website for professionals based on Nuxt.js powered by a Go backend on ECS
 
 ### Tutorials
 
