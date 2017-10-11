@@ -57,6 +57,7 @@
 - [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma)
 - [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache)
 - [Font-awesome](https://github.com/nuxt-community/modules/tree/master/packages/font-awesome)
+- [Font-awesome 5](https://github.com/Qonfucius/nuxt-fontawesome)
 - [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/packages/google-tag-manager)
 - [Localtunnel](https://github.com/nuxt-community/modules/tree/master/packages/localtunnel)
 - [Markdownit](https://github.com/nuxt-community/modules/tree/master/packages/markdownit)
