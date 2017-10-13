@@ -85,6 +85,8 @@
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
  - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
  - [pro.ekiten.jp](https://pro.ekiten.jp) - Janapese matching website for professionals based on Nuxt.js powered by a Go backend on ECS
+ - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses.
+ - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs. 
 
 ### Tutorials
 
@@ -146,7 +148,6 @@
  - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology
 
 > Please don't hesitate to make a PR if you have more resources to share.
-
 
 ## License
 
