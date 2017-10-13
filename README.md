@@ -64,7 +64,7 @@
 - [Proxy](https://github.com/nuxt-community/modules/tree/master/packages/proxy)
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
-- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt.
+- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
 
 <!-- C -->
@@ -85,13 +85,13 @@
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
  - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
  - [pro.ekiten.jp](https://pro.ekiten.jp) - Janapese matching website for professionals based on Nuxt.js powered by a Go backend on ECS
- - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses.
- - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs. 
+ - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses
+ - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs
 
 ### Tutorials
 
-- [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs?utm_content=buffer93967&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#demo-repo)
-- [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/?utm_content=buffer2cbd9&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs)
+- [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt.js](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [Building a Personal Site with Nuxt.js](https://medium.com/@kenrogers/building-a-personal-site-with-nuxt-js-96e5703079)
 - [Debugging Nuxt.js with Visual Studio Code](https://medium.com/@marshallswain/debugging-nuxt-js-with-visual-studio-code-724920140b8f)
