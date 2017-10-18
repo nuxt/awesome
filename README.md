@@ -49,6 +49,7 @@
 - [Nuxtent](https://github.com/nuxt-community/nuxtent-module): Seamlessly use content files in your Nuxt.js sites
 - [Blog](https://github.com/nuxt-community/blog-module): Create a blog with nuxt
 - [Router](https://github.com/nuxt-community/router-module): Nuxt.js module to use router.js instead of pages/ directory
+- [OAuth](https://github.com/samtgarson/nuxt-oauth): Simple OAuth2 integration for your Nuxt app
 
 <!-- B -->
 
