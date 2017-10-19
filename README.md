@@ -51,8 +51,12 @@
 - [Router](https://github.com/nuxt-community/router-module): Nuxt.js module to use router.js instead of pages/ directory
 - [OAuth](https://github.com/samtgarson/nuxt-oauth): Simple OAuth2 integration for your Nuxt app
 - [Sentry](https://github.com/nuxt-community/sentry-module): Enables error logging through [Sentry](https://sentry.io)
-- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module): Monitor nuxt webpack optimization metrics through the development process using webpackmonitor
+- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module): Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
 - [AdSense](https://github.com/nuxt-community/adsense-module): Google AdSense integration for Nuxt.js
+
+<!-- From community <3 -->
+
+- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt
 
 <!-- From nuxt-community/modules -->
 
@@ -69,10 +73,6 @@
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
-
-<!-- From community <3 -->
-
-- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt
 
 ### Mention of Nuxt.js
 
