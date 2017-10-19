@@ -39,24 +39,24 @@
 
 <!-- From nuxt-community-* -->
 
-- [PWA](https://github.com/nuxt-community/pwa-module): ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
-- [Axios](https://github.com/nuxt-community/axios-module): Secure and easy Axios integration with Nuxt.js
-- [Apollo](https://github.com/nuxt-community/apollo-module): Nuxt.js module to use vue-apollo (integrates graphql-tag loader to parse .gql & .graphql files)
-- [Auth](https://github.com/nuxt-community/auth-module): Authentication module for Nuxt.js
-- [Dotenv](https://github.com/nuxt-community/dotenv-module): Loads your .env file into your application context
-- [Google-analytics](https://github.com/nuxt-community/analytics-module): Google Analytics integration for Nuxt.js with vue-analytics
-- [Sitemap](https://github.com/nuxt-community/sitemap-module): Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects
-- [Nuxtent](https://github.com/nuxt-community/nuxtent-module): Seamlessly use content files in your Nuxt.js sites
-- [Blog](https://github.com/nuxt-community/blog-module): Create a blog with nuxt
-- [Router](https://github.com/nuxt-community/router-module): Nuxt.js module to use router.js instead of pages/ directory
-- [OAuth](https://github.com/samtgarson/nuxt-oauth): Simple OAuth2 integration for your Nuxt app
-- [Sentry](https://github.com/nuxt-community/sentry-module): Enables error logging through [Sentry](https://sentry.io)
-- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module): Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
-- [AdSense](https://github.com/nuxt-community/adsense-module): Google AdSense integration for Nuxt.js
+- [PWA](https://github.com/nuxt-community/pwa-module) - ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
+- [Axios](https://github.com/nuxt-community/axios-module) - Secure and easy Axios integration with Nuxt.js
+- [Apollo](https://github.com/nuxt-community/apollo-module) - Nuxt.js module to use vue-apollo (integrates graphql-tag loader to parse .gql & .graphql files)
+- [Auth](https://github.com/nuxt-community/auth-module) - Authentication module for Nuxt.js
+- [Dotenv](https://github.com/nuxt-community/dotenv-module) - Loads your .env file into your application context
+- [Google-analytics](https://github.com/nuxt-community/analytics-module) - Google Analytics integration for Nuxt.js with vue-analytics
+- [Sitemap](https://github.com/nuxt-community/sitemap-module) - Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects
+- [Nuxtent](https://github.com/nuxt-community/nuxtent-module) - Seamlessly use content files in your Nuxt.js sites
+- [Blog](https://github.com/nuxt-community/blog-module) - Create a blog with nuxt
+- [Router](https://github.com/nuxt-community/router-module) - Nuxt.js module to use router.js instead of pages/ directory
+- [OAuth](https://github.com/samtgarson/nuxt-oauth) - Simple OAuth2 integration for your Nuxt app
+- [Sentry](https://github.com/nuxt-community/sentry-module) - Enables error logging through [Sentry](https://sentry.io)
+- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
+- [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js
 
 <!-- From community <3 -->
 
-- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt
+- [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
 
 <!-- From nuxt-community/modules -->
 
