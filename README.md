@@ -37,7 +37,7 @@
 
 ### Modules
 
-<!-- From nuxt-community-* -->
+#### From nuxt-community-*
 
 - [PWA](https://github.com/nuxt-community/pwa-module) - ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
 - [Axios](https://github.com/nuxt-community/axios-module) - Secure and easy Axios integration with Nuxt.js
@@ -54,11 +54,11 @@
 - [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
 - [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js
 
-<!-- From community <3 -->
+#### From community <3
 
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
 
-<!-- From nuxt-community/modules -->
+#### From nuxt-community/modules
 
 - [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/packages/bootstrap-vue)
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig)
