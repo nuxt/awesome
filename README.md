@@ -37,7 +37,7 @@
 
 ### Modules
 
-<!-- A -->
+<!-- From nuxt-community-* -->
 
 - [PWA](https://github.com/nuxt-community/pwa-module): ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
 - [Axios](https://github.com/nuxt-community/axios-module): Secure and easy Axios integration with Nuxt.js
@@ -50,8 +50,11 @@
 - [Blog](https://github.com/nuxt-community/blog-module): Create a blog with nuxt
 - [Router](https://github.com/nuxt-community/router-module): Nuxt.js module to use router.js instead of pages/ directory
 - [OAuth](https://github.com/samtgarson/nuxt-oauth): Simple OAuth2 integration for your Nuxt app
+- [Sentry](https://github.com/nuxt-community/sentry-module): Enables error logging through [Sentry](https://sentry.io)
+- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module): Monitor nuxt webpack optimization metrics through the development process using webpackmonitor
+- [AdSense](https://github.com/nuxt-community/adsense-module): Google AdSense integration for Nuxt.js
 
-<!-- B -->
+<!-- From nuxt-community/modules -->
 
 - [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/packages/bootstrap-vue)
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig)
@@ -65,10 +68,11 @@
 - [Proxy](https://github.com/nuxt-community/modules/tree/master/packages/proxy)
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
-- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
 
-<!-- C -->
+<!-- From community <3 -->
+
+- [Xui](https://github.com/MetaCorp/xui-module): Light module to help design websites with Nuxt
 
 ### Mention of Nuxt.js
 
