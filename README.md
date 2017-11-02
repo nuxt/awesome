@@ -115,18 +115,19 @@
 
 ### Starter Template
 
-- [nuxt/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS
-- [nuxt/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template
-- [nuxt/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express
-- [nuxt/koa](https://github.com/nuxt-community/koa-template) - Starter template for Nuxt.js with KoaJS
-- [nuxt/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js
-- [nuxt/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template
-- [nuxt/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
-- [nuxt/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites
+- [nuxt-community/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS
+- [nuxt-community/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template
+- [nuxt-community/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express
+- [nuxt-community/koa](https://github.com/nuxt-community/koa-template) - Starter template for Nuxt.js with KoaJS
+- [nuxt-community/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js
+- [nuxt-community/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template
+- [nuxt-community/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
+- [nuxt-community/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork
-- [nuxt/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express
-- [nuxt-community/module-template](https://github.com/nuxt-community/module-template): Starter template for Nuxt.js Modules
+- [nuxt-community/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express
+- [nuxt-community/module-template](https://github.com/nuxt-community/module-template) - Starter template for Nuxt.js Modules
+- [nuxt-community/nuxtent-template](https://github.com/nuxt-community/nuxtent-template) - Starter template for content heavy sites
 
 ### Docker
 
