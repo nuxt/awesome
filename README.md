@@ -92,6 +92,7 @@
  - [pro.ekiten.jp](https://pro.ekiten.jp) - Janapese matching website for professionals based on Nuxt.js powered by a Go backend on ECS
  - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses
  - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs
+ - [LibCrowds](https://github.com/LibCrowds/libcrowds) - A crowdsourcing platform built with Nuxt.js. 
 
 ### Tutorials
 
@@ -154,7 +155,7 @@
  - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - A portal about where to buy good meat online, including a personal blog
  - [front end intelligence](https://news.awesomes.cn/) - A website where you can fetch the front end news
  - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology
-  - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+ - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
