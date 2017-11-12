@@ -93,7 +93,7 @@
  - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses
  - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs
  - [LibCrowds](https://github.com/LibCrowds/libcrowds) - A crowdsourcing platform built with Nuxt.js
- - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - A Singapore-based real estate search engine based on Nuxt.js
+ - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - A Singapore-based real estate agent search engine based on Nuxt.js
 
 ### Tutorials
 
