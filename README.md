@@ -57,6 +57,7 @@
 #### From community <3
 
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
+- [WP-API](https://github.com/yashha/wp-nuxt) - Easy Wordpress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
 
 #### From nuxt-community/modules
 
