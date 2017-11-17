@@ -95,6 +95,7 @@
  - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs
  - [LibCrowds](https://github.com/LibCrowds/libcrowds) - A crowdsourcing platform built with Nuxt.js
  - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - A Singapore-based real estate agent search engine based on Nuxt.js
+ - [travelme.jp](https://travelme.jp/articles/) - A website in Japan introducing a lot of travel articles.
 
 ### Tutorials
 
