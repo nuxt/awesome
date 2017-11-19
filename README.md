@@ -159,6 +159,7 @@
  - [front end intelligence](https://news.awesomes.cn/) - A website where you can fetch the front end news
  - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology
  - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
+ - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
