@@ -70,8 +70,7 @@
 
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
 - [WP-API](https://github.com/yashha/wp-nuxt) - Easy Wordpress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
-- [Bootstrap-vue](https://bootstrap-vue.js.org/docs/#nuxt-js)
-
+- [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js
 
 ### Mention of Nuxt.js
 
