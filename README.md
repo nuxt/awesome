@@ -37,7 +37,7 @@
 
 ### Modules
 
-#### From nuxt-community-*
+#### Offcial
 
 - [PWA](https://github.com/nuxt-community/pwa-module) - ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
 - [Axios](https://github.com/nuxt-community/axios-module) - Secure and easy Axios integration with Nuxt.js
@@ -53,15 +53,6 @@
 - [Sentry](https://github.com/nuxt-community/sentry-module) - Enables error logging through [Sentry](https://sentry.io)
 - [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
 - [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js
-
-#### From community <3
-
-- [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
-- [WP-API](https://github.com/yashha/wp-nuxt) - Easy Wordpress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
-
-#### From nuxt-community/modules
-
-- [Bootstrap-vue](https://github.com/nuxt-community/modules/tree/master/packages/bootstrap-vue)
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig)
 - [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma)
 - [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache)
@@ -74,6 +65,13 @@
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
+
+#### Community
+
+- [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
+- [WP-API](https://github.com/yashha/wp-nuxt) - Easy Wordpress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
+- [Bootstrap-vue](https://bootstrap-vue.js.org/docs/#nuxt-js)
+
 
 ### Mention of Nuxt.js
 
