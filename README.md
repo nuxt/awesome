@@ -93,6 +93,7 @@
  - [LibCrowds](https://github.com/LibCrowds/libcrowds) - A crowdsourcing platform built with Nuxt.js
  - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - A Singapore-based real estate agent search engine based on Nuxt.js
  - [travelme.jp](https://travelme.jp/articles/) - A website in Japan introducing a lot of travel articles.
+ - [tipe.io](https://tipe.io) - A Meta CMS that allows you to create and manage your content with GraphQL or REST API
 
 ### Tutorials
 
@@ -157,6 +158,7 @@
  - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology
  - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
  - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum
+ - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
