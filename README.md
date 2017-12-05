@@ -71,6 +71,7 @@
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
 - [WP-API](https://github.com/yashha/wp-nuxt) - Easy Wordpress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
 - [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js
+- [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - facebook and twitter.
 
 ### Mention of Nuxt.js
 
