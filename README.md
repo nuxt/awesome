@@ -96,6 +96,7 @@
  - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - A Singapore-based real estate agent search engine based on Nuxt.js
  - [travelme.jp](https://travelme.jp/articles/) - A website in Japan introducing a lot of travel articles.
  - [tipe.io](https://tipe.io) - A Meta CMS that allows you to create and manage your content with GraphQL or REST API
+ - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk
 
 ### Tutorials
 
@@ -161,7 +162,6 @@
  - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
  - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum
  - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
- - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
