@@ -64,6 +64,7 @@
 - [Proxy](https://github.com/nuxt-community/modules/tree/master/packages/proxy)
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
+- [Vuetify](https://github.com/nuxt-community/modules/tree/master/packages/vuetify) - Material Component Framework
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
 
 #### Community
