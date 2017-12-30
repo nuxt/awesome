@@ -53,6 +53,7 @@
 - [Sentry](https://github.com/nuxt-community/sentry-module) - Enables error logging through [Sentry](https://sentry.io)
 - [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
 - [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js
+- [Vuetify](https://github.com/nuxt-community/modules/tree/master/packages/vuetify) - Material Component Framework
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig)
 - [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma)
 - [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache)
@@ -64,7 +65,6 @@
 - [Proxy](https://github.com/nuxt-community/modules/tree/master/packages/proxy)
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
-- [Vuetify](https://github.com/nuxt-community/modules/tree/master/packages/vuetify) - Material Component Framework
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
 
 #### Community
