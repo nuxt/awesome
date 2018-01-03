@@ -164,6 +164,7 @@
  - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
  - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum
  - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+ - [Rewind 2017](https://www.lexpress.mu/2017) - A retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd. 
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
