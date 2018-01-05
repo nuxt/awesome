@@ -37,7 +37,7 @@
 
 ### Modules
 
-#### Offcial
+#### Official
 
 - [PWA](https://github.com/nuxt-community/pwa-module) - ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution
 - [Axios](https://github.com/nuxt-community/axios-module) - Secure and easy Axios integration with Nuxt.js
@@ -47,7 +47,7 @@
 - [Google-analytics](https://github.com/nuxt-community/analytics-module) - Google Analytics integration for Nuxt.js with vue-analytics
 - [Sitemap](https://github.com/nuxt-community/sitemap-module) - Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects
 - [Nuxtent](https://github.com/nuxt-community/nuxtent-module) - Seamlessly use content files in your Nuxt.js sites
-- [Blog](https://github.com/nuxt-community/blog-module) - Create a blog with nuxt
+- [Blog](https://github.com/nuxt-community/blog-module) - Create a blog with Nuxt
 - [Router](https://github.com/nuxt-community/router-module) - Nuxt.js module to use router.js instead of pages/ directory
 - [OAuth](https://github.com/samtgarson/nuxt-oauth) - Simple OAuth2 integration for your Nuxt app
 - [Sentry](https://github.com/nuxt-community/sentry-module) - Enables error logging through [Sentry](https://sentry.io)
@@ -70,9 +70,9 @@
 #### Community
 
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
-- [WP-API](https://github.com/yashha/wp-nuxt) - Easy Wordpress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
+- [WP-API](https://github.com/yashha/wp-nuxt) - Easy WordPress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
 - [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js
-- [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - facebook and twitter.
+- [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter.
 - [Vue Material](https://github.com/vaso2/nuxt-vue-material) - Vue Material framework integration with Nuxt
 - [Simple Line Icons](https://github.com/vaso2/nuxt-simple-line-icons) - Simple Line Icons for Nuxt
 
@@ -91,7 +91,7 @@
  - [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter
  - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website
  - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend
- - [pro.ekiten.jp](https://pro.ekiten.jp) - Janapese matching website for professionals based on Nuxt.js powered by a Go backend on ECS
+ - [pro.ekiten.jp](https://pro.ekiten.jp) - Japanese matching website for professionals based on Nuxt.js powered by a Go backend on ECS
  - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses
  - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs
  - [LibCrowds](https://github.com/LibCrowds/libcrowds) - A crowdsourcing platform built with Nuxt.js
@@ -99,6 +99,7 @@
  - [travelme.jp](https://travelme.jp/articles/) - A website in Japan introducing a lot of travel articles.
  - [tipe.io](https://tipe.io) - A Meta CMS that allows you to create and manage your content with GraphQL or REST API
  - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk
+ - [opportunitiis.com](https://www.opportunitiis.com/) - A tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
 
 ### Tutorials
 
@@ -119,7 +120,7 @@
 - [Integrate Vue InstantSearch with Nuxt.js for server side rendered search with Algolia](https://community.algolia.com/vue-instantsearch/advanced/integrate-with-nuxt.html)
 - [Handling server side rendering and SEO with nuxt.js](https://medium.com/@devlob/handling-server-side-rendering-and-seo-with-nuxt-js-fa8a2b0ae2ee)
 - [Create a static site in 15 minutes or less using Vue/Nuxt and Netlify](https://codeburst.io/create-a-static-site-in-15-minutes-or-less-using-vue-js-e4e2a9945ee6)
-- [A complete tutorial of Nuxt.js in spanish 🇪🇸](https://github.com/i62navpm/Tutorial-Nuxt)
+- [A complete tutorial of Nuxt.js in Spanish 🇪🇸](https://github.com/i62navpm/Tutorial-Nuxt)
 
 ### Starter Template
 
@@ -139,7 +140,7 @@
 
 ### Docker
 
-- [mrsunshine/docker-nuxt](https://github.com/mrsunshine/docker-nuxt) - Docker image to build and run a nuxt application in production mode.
+- [mrsunshine/docker-nuxt](https://github.com/mrsunshine/docker-nuxt) - Docker image to build and run a Nuxt application in production mode.
 
 ### Official Examples
 
