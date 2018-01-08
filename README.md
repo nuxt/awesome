@@ -122,6 +122,7 @@
 - [Create a static site in 15 minutes or less using Vue/Nuxt and Netlify](https://codeburst.io/create-a-static-site-in-15-minutes-or-less-using-vue-js-e4e2a9945ee6)
 - [A complete tutorial of Nuxt.js in Spanish 🇪🇸](https://github.com/i62navpm/Tutorial-Nuxt)
 - [How to use a headless CMS with Nuxt](https://www.storyblok.com/tp/headless-cms-nuxtjs)
+- [Using Nuxt with Firebase and Firebase Auth](https://ohdoylerules.com/web/nuxt-firebase-starter/)
 
 ### Starter Template
 
