@@ -100,6 +100,7 @@
  - [tipe.io](https://tipe.io) - A Meta CMS that allows you to create and manage your content with GraphQL or REST API
  - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk
  - [opportunitiis.com](https://www.opportunitiis.com/) - A tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
+  - [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API
 
 ### Tutorials
 
