@@ -172,6 +172,7 @@
  - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
  - [Rewind 2017](https://www.lexpress.mu/2017) - A retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd. 
  - [thalitajacinda.com](http://thalitajacinda.com/) - thalitajacinda is an blog influencer minimalist life style.
+ - [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js.
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
