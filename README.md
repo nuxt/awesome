@@ -102,7 +102,7 @@
  - [opportunitiis.com](https://www.opportunitiis.com/) - A tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
  - [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API
  - [Koala](https://au.koala.com) - :koala: An ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
-
+ - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
 ### Tutorials
 
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs)
