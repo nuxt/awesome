@@ -144,6 +144,7 @@
 - [nuxt-community/module-template](https://github.com/nuxt-community/module-template) - Starter template for Nuxt.js Modules
 - [nuxt-community/nuxtent-template](https://github.com/nuxt-community/nuxtent-template) - Starter template for content heavy sites
 - [cretueusebiu/laravel-nuxt](https://github.com/cretueusebiu/laravel-nuxt) - Nuxt.js + Laravel starter template with examples
+- [nekdolan/express-hot](https://github.com/nekdolan/express-template-hot) - Starter template based on express-template using hot reload
 
 ### Docker
 
