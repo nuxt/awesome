@@ -105,6 +105,7 @@
  - [Koala](https://au.koala.com) - :koala: An ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
  - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
  - [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots
+ - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames
 
 ### Tutorials
 
