@@ -184,6 +184,7 @@
  - [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js.
  - [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design.
  - [VueBlog](https://github.com/wmui/vueblog) - A blog system [@wmui](https://github.com/wmui)
+ - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
