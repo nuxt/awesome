@@ -185,6 +185,7 @@
  - [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design.
  - [VueBlog](https://github.com/wmui/vueblog) - A blog system [@wmui](https://github.com/wmui)
  - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL
+ - [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
