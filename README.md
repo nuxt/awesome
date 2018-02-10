@@ -78,6 +78,7 @@
 - [nuxt-sass-resources-loader](https://github.com/anteriovieira/nuxt-sass-resources-loader) - SASS resources (e.g. variables, mixins etc.) module for NuxtJs
 - [laravel-nuxt](https://github.com/skyrpex/laravel-nuxt-js) - Build a SPA with Laravel and Nuxt.
 - [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR.
+- [Buefy](https://github.com/buefy/nuxt-buefy) Lightweight UI components for Vue.js based on Bulma for Nuxt.
 
 ### Mention of Nuxt.js
 
