@@ -111,6 +111,7 @@
  - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
  - [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots
  - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames
+ - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/)
 
 ### Tutorials
 
