@@ -51,34 +51,33 @@
 - [Router](https://github.com/nuxt-community/router-module) - Nuxt.js module to use router.js instead of pages/ directory
 - [OAuth](https://github.com/samtgarson/nuxt-oauth) - Simple OAuth2 integration for your Nuxt app
 - [Sentry](https://github.com/nuxt-community/sentry-module) - Enables error logging through [Sentry](https://sentry.io)
-- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics  using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
+- [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor)
 - [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js
 - [Vuetify](https://github.com/nuxt-community/modules/tree/master/packages/vuetify) - Material Component Framework
-- [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig)
-- [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma)
-- [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache)
-- [Font-awesome](https://github.com/nuxt-community/modules/tree/master/packages/font-awesome)
-- [Font-awesome 5](https://github.com/Qonfucius/nuxt-fontawesome)
-- [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/packages/google-tag-manager)
-- [Localtunnel](https://github.com/nuxt-community/modules/tree/master/packages/localtunnel)
-- [Markdownit](https://github.com/nuxt-community/modules/tree/master/packages/markdownit)
-- [Proxy](https://github.com/nuxt-community/modules/tree/master/packages/proxy)
-- [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast)
-- [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor)
-- [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika)
+- [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig) - Adds XML browser configuration support
+- [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma) - Leverage bulma CSS
+- [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache) - vue-server-renderer has built-in support for component-level caching. This module automatically adds a LRU cache to project
+- [Font-awesome](https://github.com/nuxt-community/modules/tree/master/packages/font-awesome) - Leverage Font Awesome the iconic font and CSS toolkit
+- [Font-awesome 5](https://github.com/Qonfucius/nuxt-fontawesome) - Use fontawesome 5 as a nuxtJS module
+- [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/packages/google-tag-manager) - Add Google Tag Manager (GTM) to your nuxt.js application. This plugins automatically sends first page and route change events to GTM
+- [Localtunnel](https://github.com/nuxt-community/modules/tree/master/packages/localtunnel) - Localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes
+- [Markdownit](https://github.com/nuxt-community/modules/tree/master/packages/markdownit) - Using markdownit-loader and markdown-it
+- [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast) - 😍 Responsive Touch Compatible Toast plugin for Nuxt.js using vue-toasted
+- [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor) - This awesome little modules creates junction symlinks from nodule_modules into static/vendor so you can directly serve node modules inside web. Useful for runtime dependencies
+- [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika) - Add Yandex Metrika to your nuxt.js application
 
 #### Community
 
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt
 - [WP-API](https://github.com/yashha/wp-nuxt) - Easy WordPress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app
 - [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js
-- [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter.
+- [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter
 - [Vue Material](https://github.com/vaso2/nuxt-vue-material) - Vue Material framework integration with Nuxt
 - [Simple Line Icons](https://github.com/vaso2/nuxt-simple-line-icons) - Simple Line Icons for Nuxt
 - [nuxt-sass-resources-loader](https://github.com/anteriovieira/nuxt-sass-resources-loader) - SASS resources (e.g. variables, mixins etc.) module for NuxtJs
 - [laravel-nuxt](https://github.com/skyrpex/laravel-nuxt-js) - Build a SPA with Laravel and Nuxt.
-- [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR.
-- [Buefy](https://github.com/buefy/nuxt-buefy) Lightweight UI components for Vue.js based on Bulma for Nuxt.
+- [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR
+- [Buefy](https://github.com/buefy/nuxt-buefy) - Lightweight UI components for Vue.js based on Bulma for Nuxt.
 - [Font Awesome 5](https://github.com/vaso2/nuxt-fontawesome) - Alternative module for Fontawesome 5 integration with ES6 imports and tree shaking
 
 ### Mention of Nuxt.js
@@ -105,10 +104,10 @@
  - [travelme.jp](https://travelme.jp/articles/) - A website in Japan introducing a lot of travel articles.
  - [tipe.io](https://tipe.io) - A Meta CMS that allows you to create and manage your content with GraphQL or REST API
  - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk
- - [opportunitiis.com](https://www.opportunitiis.com/) - A tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
+ - [opportunitiis.com](https://www.opportunitiis.com/) - A tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs
  - [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API
- - [Koala](https://au.koala.com) - :koala: An ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
- - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
+ - [Koala](https://au.koala.com) - :koala: An ecommerce Progressive Web Application made with Nuxt.js on top of Shopify
+ - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS
  - [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots
  - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames
  - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/)
@@ -159,7 +158,7 @@
 
 ### Docker
 
-- [mrsunshine/docker-nuxt](https://github.com/mrsunshine/docker-nuxt) - Docker image to build and run a Nuxt application in production mode.
+- [mrsunshine/docker-nuxt](https://github.com/mrsunshine/docker-nuxt) - Docker image to build and run a Nuxt application in production mode
 
 ### Official Examples
 
@@ -183,15 +182,15 @@
  - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology
  - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
  - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum
- - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
- - [Rewind 2017](https://www.lexpress.mu/2017) - A retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd. 
- - [thalitajacinda.com](http://thalitajacinda.com/) - thalitajacinda.com is personal website of a minimalist lifestyle influencer.
- - [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js.
- - [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design.
+ - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API
+ - [Rewind 2017](https://www.lexpress.mu/2017) - A retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd
+ - [thalitajacinda.com](http://thalitajacinda.com/) - thalitajacinda.com is personal website of a minimalist lifestyle influencer
+ - [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js
+ - [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design
  - [VueBlog](https://github.com/wmui/vueblog) - A blog system [@wmui](https://github.com/wmui)
  - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL
  - [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma
-> Please don't hesitate to make a PR if you have more resources to share.
+> Please don't hesitate to make a PR if you have more resources to share
 
 ## License
 
