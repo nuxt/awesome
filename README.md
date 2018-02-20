@@ -81,6 +81,7 @@
 - [Font Awesome 5](https://github.com/vaso2/nuxt-fontawesome) - Alternative module for Fontawesome 5 integration with ES6 imports and tree shaking
 - [Matomo](https://github.com/pimlie/nuxt-matomo) - Matomo/Piwik integration for Nuxt
 - [RealFaviconGenerator Icons](https://github.com/pimlie/nuxt-rfg-icon) - Automatically generate favicons and app icons using RealFaviconGenerator.net's api
+- [Nuxt Validate](https://github.com/lewyuburi/nuxt-validate) Simple Nuxt input validation module using vee-validate
 
 ### Mention of Nuxt.js
 
