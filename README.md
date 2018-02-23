@@ -160,6 +160,7 @@
 - [cretueusebiu/laravel-nuxt](https://github.com/cretueusebiu/laravel-nuxt) - Nuxt.js + Laravel starter template with examples
 - [nekdolan/express-hot](https://github.com/nekdolan/express-template-hot) - Starter template based on express-template using hot reload
 - [vuetifyjs/nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template
+- [ckgrafico/frontend-noilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt-dev) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises
 
 ### Docker
 
