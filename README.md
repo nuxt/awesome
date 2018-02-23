@@ -118,7 +118,7 @@
  - [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estete) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API 
  - [Bunk](https://www.bunkhistory.org/) - A unique view for connecting topics and events to their context in American history (Nuxt.js + Rest API).
  - [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
- - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/)  - Static annual report.
+ - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
 
  
 ### Tutorials
