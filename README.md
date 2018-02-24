@@ -116,6 +116,7 @@
  - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames
  - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/)
  - [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estete) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API 
+ - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
 
 ### Tutorials
 
@@ -160,6 +161,7 @@
 - [cretueusebiu/laravel-nuxt](https://github.com/cretueusebiu/laravel-nuxt) - Nuxt.js + Laravel starter template with examples
 - [nekdolan/express-hot](https://github.com/nekdolan/express-template-hot) - Starter template based on express-template using hot reload
 - [vuetifyjs/nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template
+- [ckgrafico/frontend-noilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt-dev) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises
 
 ### Docker
 
@@ -196,6 +198,8 @@
  - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL
  - [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma
  - [Colle McVoy](https://www.collemcvoy.com/) - Agency website built using Nuxt & Craft CMS.
+ - [Back Market](https://www.backmarket.fr) - an E-commerce website, the #1 marketplace of refurbished product.
+ 
 > Please don't hesitate to make a PR if you have more resources to share
 
 ## License
