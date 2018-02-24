@@ -182,6 +182,7 @@
 
 ### Projects Using Nuxt.js
 
+ - [sum.cumo](https://www.sumcumo.com/en) - sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
  - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it
  - [gustavo](https://github.com/eggplanetio/gustavo) - A (mostly) headless blogging platform built atop Nuxt & Gist
  - [surmon.me](https://github.com/surmon-china/surmon.me) - A SSR web application(blog) built with Nuxt.js for nodepress
