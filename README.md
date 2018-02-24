@@ -116,6 +116,7 @@
  - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames
  - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/)
  - [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estete) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API 
+ - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
 
 ### Tutorials
 
