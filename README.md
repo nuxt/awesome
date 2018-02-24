@@ -195,6 +195,7 @@
  - [VueBlog](https://github.com/wmui/vueblog) - A blog system [@wmui](https://github.com/wmui)
  - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL
  - [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma
+ - [Back Market](https://www.backmarket.fr) - an E-commerce website, the #1 marketplace of refurbished product.
 > Please don't hesitate to make a PR if you have more resources to share
 
 ## License
