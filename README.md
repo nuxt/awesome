@@ -120,6 +120,7 @@
  - [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
  - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
  - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
+ - [academind.com](https://academind.com) - Online Education Site built with Nuxt.js (and teaching Nuxt.js!)
  
 ### Tutorials
 
@@ -145,6 +146,7 @@
 - [Using Nuxt with Firebase and Firebase Auth](https://ohdoylerules.com/web/nuxt-firebase-starter/)
 - [Create and deploy a Nuxt.js application on Clever-Cloud in a few moments](https://medium.com/@k33g_org/create-and-deploy-a-nuxt-js-application-on-clever-cloud-in-a-few-moments-47474059d849)
 - [The complete guide to build a full blown multilanguage website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
+- [What Nuxt.js Is All About](https://academind.com/learn/vue-js/nuxt-js-tutorial-introduction/)
 
 ### Starter Template
 
