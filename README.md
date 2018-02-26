@@ -120,6 +120,7 @@
  - [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
  - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
  - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
+ - [academind.com](https://academind.com) - Online Education Site built with Nuxt.js (and teaching Nuxt.js!)
  
 ### Tutorials
 
