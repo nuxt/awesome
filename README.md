@@ -83,6 +83,7 @@
 - [RealFaviconGenerator Icons](https://github.com/pimlie/nuxt-rfg-icon) - Automatically generate favicons and app icons using RealFaviconGenerator.net's api
 - [Nuxt Validate](https://github.com/lewyuburi/nuxt-validate) Simple Nuxt input validation module using vee-validate
 - [nuxt-bulma-slim](https://github.com/mustardamus/nuxt-bulma-slim) - Module to automatically make a slim Bulma build of used features
+- [Nuxt7](https://github.com/nuxt-community/nuxt7) - Framework7-Vue Nuxt integration
 
 ### Mention of Nuxt.js
 
