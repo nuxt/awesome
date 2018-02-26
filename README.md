@@ -146,6 +146,7 @@
 - [Using Nuxt with Firebase and Firebase Auth](https://ohdoylerules.com/web/nuxt-firebase-starter/)
 - [Create and deploy a Nuxt.js application on Clever-Cloud in a few moments](https://medium.com/@k33g_org/create-and-deploy-a-nuxt-js-application-on-clever-cloud-in-a-few-moments-47474059d849)
 - [The complete guide to build a full blown multilanguage website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
+- [What Nuxt.js Is All About](https://academind.com/learn/vue-js/nuxt-js-tutorial-introduction/)
 
 ### Starter Template
 
