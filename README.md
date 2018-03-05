@@ -207,6 +207,7 @@
  - [PWA Builder](https://github.com/pwa-builder/manifoldjs-site/tree/dev) - Generate your Progressive Web App
  - [Colle McVoy](https://www.collemcvoy.com/) - Agency website built using Nuxt & Craft CMS.
  - [Back Market](https://www.backmarket.fr) - an E-commerce website, the #1 marketplace of refurbished product.
+ - [kevinpeters.net](https://github.com/igeligel/personal-site) - Personal site & blog built as PWA with custom styling
  
 > Please don't hesitate to make a PR if you have more resources to share
 
