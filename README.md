@@ -84,6 +84,7 @@
 - [Nuxt Validate](https://github.com/lewyuburi/nuxt-validate) Simple Nuxt input validation module using vee-validate
 - [nuxt-bulma-slim](https://github.com/mustardamus/nuxt-bulma-slim) - Module to automatically make a slim Bulma build of used features
 - [Nuxt7](https://github.com/nuxt-community/nuxt7) - Framework7-Vue Nuxt integration
+- [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration
 
 ### Mention of Nuxt.js
 
