@@ -212,7 +212,8 @@
  - [Back Market](https://www.backmarket.fr) - an E-commerce website, the #1 marketplace of refurbished product.
  - [kevinpeters.net](https://github.com/igeligel/personal-site) - Personal site & blog built as PWA with custom styling
  - [5se7en.com](https://github.com/se7en-1992/5se7en.com) - 5se7en's Personal website. Built with Nuxt.js,express,vuex.
- 
+ - [charlyzenger.ch](https://charlyzenger.ch/) - Charly Zenger Jewelry - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
+
 > Please don't hesitate to make a PR if you have more resources to share
 
 ## License
