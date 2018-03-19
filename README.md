@@ -15,6 +15,7 @@
 - [Official Resources](#official-resources)
 - [Community](#community)
 - [Modules](#modules)
+- [Tools](#tools)
 - [Mention of Nuxt.js](#mention-of-nuxtjs)
 - [Showcase](#showcase)
 - [Tutorials](#tutorials)
@@ -85,6 +86,10 @@
 - [nuxt-bulma-slim](https://github.com/mustardamus/nuxt-bulma-slim) - Module to automatically make a slim Bulma build of used features
 - [Nuxt7](https://github.com/nuxt-community/nuxt7) - Framework7-Vue Nuxt integration
 - [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration for Nuxt
+
+### Tools
+
+- [nuxt-community/nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for nuxt.js
 
 ### Mention of Nuxt.js
 
