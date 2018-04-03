@@ -87,6 +87,7 @@
 - [Nuxt7](https://github.com/nuxt-community/nuxt7) - Framework7-Vue Nuxt integration
 - [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration for Nuxt
 - [Nuxt Express](https://github.com/uptownhr/nuxt-express-module) - An express module for Nuxt (hot reload)
+- [Vue.js Warehouse](https://github.com/bazzite/vue-warehouse) - A Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 
 ### Tools
 
