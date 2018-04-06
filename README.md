@@ -224,6 +224,7 @@
  - [charlyzenger.ch](https://charlyzenger.ch/) - Charly Zenger Jewelry - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
  - [wandsworth.town](https://wandsworth.town) - It's the official site for Wandsworth Town council in London
  - [buefy-shop](https://buefy-shop.now.sh/) - A sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions
+ - [DBAdventure](https://github.com/DBAdventure/web) - A simple PHP and VueJs game where players embody a Dragon Ball character. (Using express, vue-i18n, vuex, api, iviewui, etc)
 
 > Please don't hesitate to make a PR if you have more resources to share
 
