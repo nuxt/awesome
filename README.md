@@ -10,6 +10,8 @@
 
 > A curated list of awesome things related to [Nuxt.js](https://github.com/nuxt/nuxt.js).
 
+Nuxt.js is a framework for creating Universal Vue.js Applications.
+
 ## Contents
 
 - [Official Resources](#official-resources)
