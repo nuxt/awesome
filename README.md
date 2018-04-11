@@ -227,6 +227,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [wandsworth.town](https://wandsworth.town) - It's the official site for Wandsworth Town council in London.
  - [buefy-shop](https://buefy-shop.now.sh/) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
  - [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
+ - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - A setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
