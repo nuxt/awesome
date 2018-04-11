@@ -136,7 +136,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Cambridge Epigenetix](https://cambridge-epigenetix.com/) - Cambridge Epigenetix is pioneering the development and application of novel epigenetics-based diagnostics and therapeutics that will revolutionise the way we detect and treat disease.
  - [Developmint.de](https://developmint.de/?ref=awesome-nuxt) - Company page built with NuxtJS and TailwindCSS, including i18n, meta/og-tags and more!
  - [Maestromusic.today](https://maestromusic.today) - Classical music platform built with NuxtJS and WordPress REST API.
- - [Path to Product](https://www.pathtoproduct.com) - Product management job board built with Nuxt, Rails API, and deployed to Netlify
+ - [Path to Product](https://www.pathtoproduct.com) - Product management job board built with Nuxt, Rails API, and deployed to Netlify.
  
 ### Tutorials
 
@@ -228,7 +228,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [wandsworth.town](https://wandsworth.town) - It's the official site for Wandsworth Town council in London.
  - [buefy-shop](https://buefy-shop.now.sh/) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
  - [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
- - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - A setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
+ - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
