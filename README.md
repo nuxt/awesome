@@ -225,7 +225,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [kevinpeters.net](https://github.com/igeligel/personal-site) - Personal site & blog built as PWA with custom styling.
  - [5se7en.com](https://github.com/se7en-1992/5se7en.com) - 5se7en's Personal website. Built with Nuxt.js,express,vuex.
  - [charlyzenger.ch](https://charlyzenger.ch/) - Charly Zenger Jewelry - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
- - [wandsworth.town](https://wandsworth.town) - It's the official site for Wandsworth Town council in London.
  - [buefy-shop](https://buefy-shop.now.sh/) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
  - [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
  - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
