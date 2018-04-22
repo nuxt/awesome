@@ -231,6 +231,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
  - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
  - [wandsworth.town](https://wandsworth.town) - Wandsworth Town Business Improvement District (BID) puts businesses at the heart of what we do; shaping the future of Wandsworth Town.
+ - [antilophia.com](https://antilophia.com) - Antilophia offers a boutique luxury travel service, delivering carefully crafted travel experiences within Africa & the Indian Ocean and Latin America & the Caribbean.
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
