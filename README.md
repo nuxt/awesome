@@ -232,7 +232,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
  - [wandsworth.town](https://wandsworth.town) - Wandsworth Town Business Improvement District (BID) puts businesses at the heart of what we do; shaping the future of Wandsworth Town.
  - [antilophia.com](https://antilophia.com) - Antilophia offers a boutique luxury travel service, delivering carefully crafted travel experiences within Africa & the Indian Ocean and Latin America & the Caribbean.
- - [renka.de](https://antilophia.com) - Agency website built with Nuxt and WordPress.
+ - [renka.de](https://renka.de) - Agency website built with Nuxt and WordPress.
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
