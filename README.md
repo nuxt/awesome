@@ -92,6 +92,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration for Nuxt.
 - [Nuxt Express](https://github.com/uptownhr/nuxt-express-module) - Express module for Nuxt (hot reload).
 - [Vue.js Warehouse](https://github.com/bazzite/vue-warehouse) - Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
+- [Nuxt Typescript Module](https://github.com/chanlito/nuxt-ts-module) - A tiny module to use Typescript within Nuxt.js application.
 
 ### Tools
 
