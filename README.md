@@ -94,6 +94,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Nuxt Express](https://github.com/uptownhr/nuxt-express-module) - Express module for Nuxt (hot reload).
 - [Vue.js Warehouse](https://github.com/bazzite/vue-warehouse) - Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 - [Nuxt Typescript Module](https://github.com/chanlito/nuxt-ts-module) - A tiny module to use Typescript within Nuxt.js application.
+- [nurdism/nuxtjs-electron](https://github.com/nurdism/nuxtjs-electron) - A utility module that helps you work with electron inside nuxt.
 
 ### Tools
 
@@ -189,6 +190,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nekdolan/express-hot](https://github.com/nekdolan/express-template-hot) - Starter template based on express-template using hot reload.
 - [vuetifyjs/nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template.
 - [ckgrafico/frontend-noilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt-dev) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises.
+- [nurdism/electron-nuxt-boilerplate](https://github.com/nurdism/electron-nuxt-boilerplate) - Electron application boilerplate based on nuxt for rapid application development.
 
 ### Docker
 
