@@ -95,6 +95,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Vue.js Warehouse](https://github.com/bazzite/vue-warehouse) - Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
 - [Nuxt Typescript Module](https://github.com/chanlito/nuxt-ts-module) - A tiny module to use Typescript within Nuxt.js application.
 - [nurdism/nuxtjs-electron](https://github.com/nurdism/nuxtjs-electron) - A utility module that helps you work with electron inside nuxt.
+- [nuxt-babel](https://github.com/wemake-services/nuxt-babel) - This plugin allows to have a traditional `.babelrc` file with your nuxt app.
 
 ### Tools
 
