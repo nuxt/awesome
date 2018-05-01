@@ -209,6 +209,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Projects Using Nuxt.js
 
+ - [santihans.com](https://santihans.com) - Next-level communications agency for tomorrow's digital experiences. Website built with Nuxt and Tipe.io.
  - [sum.cumo](https://www.sumcumo.com/en) - sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
  - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
  - [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
