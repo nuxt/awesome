@@ -193,6 +193,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [vuetifyjs/nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template.
 - [ckgrafico/frontend-noilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt-dev) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises.
 - [nurdism/electron-nuxt-boilerplate](https://github.com/nurdism/electron-nuxt-boilerplate) - Electron application boilerplate based on nuxt for rapid application development.
+- [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge `vue` + `nuxt` template focused on code quality and developer happiness. Including meaningful docs, `flow`, and `jest`
 
 ### Docker
 
