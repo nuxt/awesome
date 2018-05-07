@@ -173,6 +173,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Books
 
+- [Nuxt tech book(Japanese)](https://potato4d.booth.pm/items/824745)
+
 ### Starter Template
 
 - [nuxt-community/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS.
