@@ -248,6 +248,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [antilophia.com](https://antilophia.com) - Antilophia offers a boutique luxury travel service, delivering carefully crafted travel experiences within Africa & the Indian Ocean and Latin America & the Caribbean.
  - [renka.de](https://renka.de) - Agency website built with Nuxt and WordPress.
  - [santihans.com](https://santihans.com) - Next-level communications agency for tomorrow's digital experiences. Website built with Nuxt and Tipe.io.
+ - [alainperrier.me](https://alainperrier.me) - Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS.
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
