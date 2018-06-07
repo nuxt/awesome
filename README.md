@@ -147,6 +147,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Maestromusic.today](https://maestromusic.today) - Classical music platform built with NuxtJS and WordPress REST API.
  - [Path to Product](https://www.pathtoproduct.com) - Product management job board built with Nuxt, Rails API, and deployed to Netlify.
  - [Teak & Twine](https://www.teakandtwine.com) - Custom e-commerce site built on Nuxt with a RESTful Laravel backend.
+ - [Parkmaven](https://parkmaven.com/?ref=awesome-nuxt) - Frontend for an online parking management platform, built on Nuxt + Adonis.js, powered by a Laravel API.
  
 ### Tutorials
 
