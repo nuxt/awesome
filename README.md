@@ -154,7 +154,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Parkmaven](https://parkmaven.com/?ref=awesome-nuxt) - Frontend for an online parking management platform, built on Nuxt + Adonis.js, powered by a Laravel API.
  - [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework
  - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated staticly
- 
+ - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter signup. 
+
 ### Tutorials
 
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs)
