@@ -155,6 +155,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework
  - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated staticly
  - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter signup. 
+ - [Cotabox](https://cotabox.com.br) - A commercial platform for supply chain and B2B sell's.
 
 ### Tutorials
 
@@ -209,6 +210,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge `vue` + `nuxt` template focused on code quality and developer happiness. Including meaningful docs, `flow`, and `jest`
 - [galvez/nuxpress](https://github.com/galvez/nuxpress) - A Markdown blogging engine and boilerplate written in Nuxt.js
 - [baisheng/nuxt-thinkjs3](https://github.com/baisheng/nuxt-thinkjs3) - Nuxt.js + Thinkjs FrameWork
+- [kavalcante/nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) - Nuxt.js + Element (with custom Theme) + Apollo
 
 ### Docker
 
