@@ -222,7 +222,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Starter](https://starter.nuxtjs.org/)
 - [TODO MVC](https://todomvc.nuxtjs.org/)
 - [Auth0](https://auth0.nuxtjs.org/)
-- [Middleware](https://middleware.nuxtjs.org/)
+- [Middleware](https://nuxtjs.org/guide/routing#middleware/)
 - [Internationalization (i18n)](https://i18n.nuxtjs.org/fr/)
 - [Hackernews](https://github.com/nuxt/hackernews)
 
