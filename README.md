@@ -196,7 +196,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-community/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js.
 - [nuxt-community/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template.
 - [nuxt-community/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
-- [nuxt-community/content](https://github.com/nuxt-community/content-template) -  Nuxt.js stater template for content heavy sites.
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork.
 - [nuxt-community/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express.
