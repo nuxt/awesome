@@ -107,6 +107,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 ### Tools
 
 - [nuxt-community/nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for nuxt.js.
+- [acidjazz/aeonian](https://github.com/acidjazz/aeonian) - Automate the deployment of your nuxt.js app on AWS S3 + CloudFront
 
 ### Mention of Nuxt.js
 
