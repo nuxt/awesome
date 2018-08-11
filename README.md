@@ -159,6 +159,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter signup. 
  - [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
  - [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
+ - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
 
 ### Tutorials
 
