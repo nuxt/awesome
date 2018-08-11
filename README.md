@@ -255,7 +255,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Back Market](https://www.backmarket.fr) - E-commerce website, the #1 marketplace of refurbished product.
  - [kevinpeters.net](https://github.com/igeligel/personal-site) - Personal site & blog built as PWA with custom styling.
  - [5se7en.com](https://github.com/se7en-1992/5se7en.com) - 5se7en's Personal website. Built with Nuxt.js,express,vuex.
- - [charlyzenger.ch](https://charlyzenger.ch/) - Charly Zenger Jewelry - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
+ - [charlyzenger.ch](https://charlyzenger.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
  - [buefy-shop](https://buefy-shop.now.sh/) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
  - [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
  - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
@@ -265,6 +265,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [santihans.com](https://santihans.com) - Next-level communications agency for tomorrow's digital experiences. Website built with Nuxt and Tipe.io.
  - [alainperrier.me](https://alainperrier.me) - Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS.
  - [MONO](https://mono-1.com) - Agency website built with Nuxt and Craft CMS.
+ - [axure-broker.ch](https://axure-broker.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, TweenMax and SVG morphing.
  
 > Please don't hesitate to make a PR if you have more resources to share.
 
