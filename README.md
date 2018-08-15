@@ -187,6 +187,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [The complete guide to build a full blown multilanguage website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
 - [What Nuxt.js Is All About](https://academind.com/learn/vue-js/nuxt-js-tutorial-introduction/)
 - [Create Awesome Vue.js Apps With Nuxt.js](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js)
+- [Send Emails through Nuxt.js](https://blog.lichter.io/posts/sending-emails-through-nuxtjs?ref=awesome-nuxt) 
 
 ### Blogs
 
