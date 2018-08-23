@@ -222,6 +222,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [galvez/nuxpress](https://github.com/galvez/nuxpress) - A Markdown blogging engine and boilerplate written in Nuxt.js
 - [baisheng/nuxt-thinkjs3](https://github.com/baisheng/nuxt-thinkjs3) - Nuxt.js + Thinkjs FrameWork.
 - [kavalcante/nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) - Nuxt.js + Element (with custom Theme) + Apollo.
+- [tomimick/tm-nuxtjs-starter](https://github.com/tomimick/tm-nuxtjs-starter) - A minimal starter/demo with axios/localstorage, SASS, static site export, live demo
 
 ### Docker
 
