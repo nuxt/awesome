@@ -161,6 +161,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
  - [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
  - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
+ - [beCamp](https://be.camp) - Open source website for a community-organized tech conference in Charlottesville, VA.
 
 ### Tutorials
 
