@@ -73,6 +73,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika) - Add Yandex Metrika to your nuxt.js application.
 - [Feed](https://github.com/nuxt-community/feed-module) - Add RSS, ATOM and JSON feeds to your application.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
+- [I18n](https://github.com/nuxt-community/nuxt-i18n) - Add i18n capabilities to your Nuxt project.
 
 #### Community
 
@@ -105,7 +106,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [kenticocloud-nuxt-module](https://github.com/Domitnator/kenticocloud-nuxt-module) - Add Kentico Cloud super power to your nuxt app.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
-
+- [Nuxt Vuex Router Sync](nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
 
 ### Tools
 
