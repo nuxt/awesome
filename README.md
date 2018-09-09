@@ -107,6 +107,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
 - [Nuxt Vuex Router Sync](https://github.com/paulgv/nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
+- [nuxt-rollbar-module](https://github.com/zevran/nuxt-rollbar-module) - Rollbar module for NuxtJS 
 
 ### Tools
 
