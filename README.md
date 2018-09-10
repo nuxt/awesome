@@ -192,8 +192,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [What Nuxt.js Is All About](https://academind.com/learn/vue-js/nuxt-js-tutorial-introduction/)
 - [Create Awesome Vue.js Apps With Nuxt.js](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js)
 - [Send Emails through Nuxt.js](https://blog.lichter.io/posts/sending-emails-through-nuxtjs?ref=awesome-nuxt) 
-- [Change the Nuxt.js server error page](https://blog.lichter.io/posts/change-the-nuxtjs-server-error-page?re=awesome-nuxt)
-
+- [Change the Nuxt.js server error page](https://blog.lichter.io/posts/change-the-nuxtjs-server-error-page?ref=awesome-nuxt)
+- [Use Nuxt.js with Brotli compression](https://blog.lichter.io/posts/nuxtjs-on-brotli?ref=awesome-nuxt)
 ### Blogs
 
 - [blog.Lichter.io](https://blog.lichter.io/?ref=awesome-nuxt)
