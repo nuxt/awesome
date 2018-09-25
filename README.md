@@ -283,7 +283,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [MONO](https://mono-1.com) - Agency website built with Nuxt and Craft CMS.
  - [axure-broker.ch](https://axure-broker.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, TweenMax and SVG morphing.
  - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt. 
-  - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/). 
+ - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/). 
  
 > Please don't hesitate to make a PR if you have more resources to share.
 
