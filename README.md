@@ -108,6 +108,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
 - [Nuxt Vuex Router Sync](https://github.com/paulgv/nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
 - [nuxt-rollbar-module](https://github.com/zevran/nuxt-rollbar-module) - Rollbar module for NuxtJS.
+- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) - 
+A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 
 ### Tools
 
