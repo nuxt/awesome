@@ -205,6 +205,9 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Cooking a Deliveroo clone with Nuxt (Vue.js), GraphQL, Strapi and Stripe - 🏗️ Setup (part 1/7)](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-setup-part-1-7/)
 - [Firebase Server-Side Render Vue Apps with Nuxt.js (Server-side Rendering with JavaScript Frameworks)](https://www.youtube.com/watch?v=ZYUWsjUxxUQ)
 - [Firebase Measuring Vue SSR Performance with Nuxt.js (Server-side Rendering with JavaScript Frameworks)](https://www.youtube.com/watch?v=Y5XX2lruhxs)
+- [How to build a shop with Nuxt, Storyblok and Snipcart](https://www.storyblok.com/tp/how-to-build-a-shop-with-nuxt-storyblok-and-snipcart)
+- [Implementing Authentication in a Nuxt.js App](https://scotch.io/tutorials/implementing-authentication-in-nuxtjs-app)
+- [Learn NUXT 2 by Example - A Crash Course for Beginners](https://www.youtube.com/watch?v=IkrbIFZz_IM)
 
 ### Blogs
 
