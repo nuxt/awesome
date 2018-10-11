@@ -208,6 +208,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [How to build a shop with Nuxt, Storyblok and Snipcart](https://www.storyblok.com/tp/how-to-build-a-shop-with-nuxt-storyblok-and-snipcart)
 - [Implementing Authentication in a Nuxt.js App](https://scotch.io/tutorials/implementing-authentication-in-nuxtjs-app)
 - [Learn NUXT 2 by Example - A Crash Course for Beginners](https://www.youtube.com/watch?v=IkrbIFZz_IM)
+- [Quickly Building RESTful UI’s in NuxtJS](https://itnext.io/quickly-building-restful-uis-in-nuxtjs-782bce539440)
 
 ### Blogs
 
