@@ -111,6 +111,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) - 
 A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Nuxt-Storage](https://github.com/mazipan/nuxt-storage) - Utilities for easy read and write browser's storage in Nuxt.js project.
+- [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - Load your SVGs as you'd load your Vue components.
 
 ### Tools
 
