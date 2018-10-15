@@ -148,7 +148,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
  - [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots.
  - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames.
  - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/).
- - [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estete) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API.
+ - [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estate) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API.
  - [Bunk](https://www.bunkhistory.org/) - Unique view for connecting topics and events to their context in American history (Nuxt.js + Rest API).
  - [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
  - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
@@ -162,8 +162,8 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
  - [Teak & Twine](https://www.teakandtwine.com) - Custom e-commerce site built on Nuxt with a RESTful Laravel backend.
  - [Parkmaven](https://parkmaven.com/?ref=awesome-nuxt) - Frontend for an online parking management platform, built on Nuxt + Adonis.js, powered by a Laravel API.
  - [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework
- - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated staticly.
- - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter signup. 
+ - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated statically.
+ - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter sign up.
  - [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
  - [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
  - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
