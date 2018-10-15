@@ -128,6 +128,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 ### Showcase
+ - [homefinder.com](https://homefinder.com) - A nation-wide real estate portal in the US.  Find or or sell your home on HomeFinder!
  - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
  - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
  - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js.
