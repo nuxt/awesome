@@ -74,7 +74,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Feed](https://github.com/nuxt-community/feed-module) - Add RSS, ATOM and JSON feeds to your application.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
 - [I18n](https://github.com/nuxt-community/nuxt-i18n) - Add i18n capabilities to your Nuxt project.
-- [Separate Env](https://github.com/nuxt-community/separate-env-module) - Tear apart your variables and split them up for client/server bundle
+- [Separate Env](https://github.com/nuxt-community/separate-env-module) - Tear apart your variables and split them up for client/server bundle!
 
 #### Community
 
