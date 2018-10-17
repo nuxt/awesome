@@ -216,6 +216,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Implementing Authentication in a Nuxt.js App](https://scotch.io/tutorials/implementing-authentication-in-nuxtjs-app)
 - [Learn NUXT 2 by Example - A Crash Course for Beginners](https://www.youtube.com/watch?v=IkrbIFZz_IM)
 - [Quickly Building RESTful UI’s in NuxtJS](https://itnext.io/quickly-building-restful-uis-in-nuxtjs-782bce539440)
+- [Creating Server-side Rendered Vue.js Apps Using Nuxt.js](https://www.toptal.com/vue-js/server-side-rendered-vue-js-using-nuxt-js)
 
 ### Blogs
 
