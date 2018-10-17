@@ -109,7 +109,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
 - [Nuxt Vuex Router Sync](https://github.com/paulgv/nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
 - [nuxt-rollbar-module](https://github.com/zevran/nuxt-rollbar-module) - Rollbar module for NuxtJS.
-- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) - 
+- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) -
 A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Nuxt-Storage](https://github.com/mazipan/nuxt-storage) - Utilities for easy read and write browser's storage in Nuxt.js project.
 - [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - Load your SVGs as you'd load your Vue components.
@@ -171,7 +171,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
  - [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
  - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
  - [beCamp](https://be.camp) - Open source website for a community-organized tech conference in Charlottesville, VA.
- - [CrossFit 701](https://crossfit701.com) - Custom website designed with Nuxt and using [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) plugin to create nice transitions and animations. 
+ - [CrossFit 701](https://crossfit701.com) - Custom website designed with Nuxt and using [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) plugin to create nice transitions and animations.
  - [BTZhai](https://www.btzhai.top/) - Fast and modern torrent search engine, built on ElasticSearch + NuxtJS + Nuxt-i18n + SpringBoot. Searches and downloads the latest and hottest resources around the world!
  - [Blogram](https://blogram.me) - Iranian microblogging platform.
  - [Nunziella Design Portfolio](https://nunziellasalluce.com) - Digital Designer portfolio made with Nuxt.js and WordPress REST API.
@@ -206,7 +206,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [The complete guide to build a full blown multilanguage website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
 - [What Nuxt.js Is All About](https://academind.com/learn/vue-js/nuxt-js-tutorial-introduction/)
 - [Create Awesome Vue.js Apps With Nuxt.js](https://school.programwitherik.com/p/create-awesome-vue-js-apps-with-nuxt-js)
-- [Send Emails through Nuxt.js](https://blog.lichter.io/posts/sending-emails-through-nuxtjs?ref=awesome-nuxt) 
+- [Send Emails through Nuxt.js](https://blog.lichter.io/posts/sending-emails-through-nuxtjs?ref=awesome-nuxt)
 - [Change the Nuxt.js server error page](https://blog.lichter.io/posts/change-the-nuxtjs-server-error-page?ref=awesome-nuxt)
 - [Use Nuxt.js with Brotli compression](https://blog.lichter.io/posts/nuxtjs-on-brotli?ref=awesome-nuxt)
 - [Cooking a Deliveroo clone with Nuxt (Vue.js), GraphQL, Strapi and Stripe - 🏗️ Setup (part 1/7)](https://blog.strapi.io/cooking-a-deliveroo-clone-with-nuxt-vue-js-graphql-strapi-and-stripe-setup-part-1-7/)
@@ -223,6 +223,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 
 ### Books
 
+- [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma<[@potato4d](https://github.com/potato4d)>).
 - [Nuxt tech book(Japanese)](https://potato4d.booth.pm/items/824745)
 
 ### Starter Template
@@ -303,10 +304,10 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
  - [alainperrier.me](https://alainperrier.me) - Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS.
  - [MONO](https://mono-1.com) - Agency website built with Nuxt and Craft CMS.
  - [axure-broker.ch](https://axure-broker.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, TweenMax and SVG morphing.
- - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt. 
+ - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt.
  - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/).
  - [mistretta.ch](https://mistretta.ch/) - Creative corporate website for a Swiss Coiffure. Built with Nuxt.js, vue-i18n and GSAP.
- 
+
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
