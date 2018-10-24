@@ -264,11 +264,10 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 ### Official Examples
 
 - [Hello World](https://hello-world.nuxtjs.org/)
-- [Starter](https://starter.nuxtjs.org/)
-- [TODO MVC](https://todomvc.nuxtjs.org/)
-- [Auth0](https://auth0.nuxtjs.org/)
-- [Middleware](https://nuxtjs.org/guide/routing#middleware/)
-- [Internationalization (i18n)](https://i18n.nuxtjs.org/fr/)
+- [TODO MVC](https://github.com/nuxt/todomvc)
+- [Auth0](https://github.com/nuxt/example-auth0)
+- [Middleware](https://nuxtjs.org/examples/middleware)
+- [Internationalization (i18n)](https://nuxtjs.org/examples/i18n)
 - [Hackernews](https://github.com/nuxt/hackernews)
 
 ### Projects Using Nuxt.js
