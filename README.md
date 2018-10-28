@@ -45,7 +45,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 #### Official
 
-- [PWA](https://github.com/nuxt-community/pwa-module) - ⚡ Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
+- [PWA](https://github.com/nuxt-community/pwa-module) - Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
 - [Axios](https://github.com/nuxt-community/axios-module) - Secure and easy Axios integration with Nuxt.js.
 - [Apollo](https://github.com/nuxt-community/apollo-module) - Nuxt.js module to use vue-apollo (integrates graphql-tag loader to parse .gql & .graphql files).
 - [Auth](https://github.com/nuxt-community/auth-module) - Authentication module for Nuxt.js.
@@ -62,7 +62,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Vuetify](https://github.com/nuxt-community/modules/tree/master/packages/vuetify) - Material Component Framework.
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig) - Adds XML browser configuration support.
 - [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma) - Leverage bulma CSS.
-- [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache) - vue-server-renderer has built-in support for component-level caching. This module automatically adds a LRU cache to project.
+- [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache) - The vue-server-renderer has built-in support for component-level caching. This module automatically adds a LRU cache to project.
 - [Font-awesome](https://github.com/nuxt-community/modules/tree/master/packages/font-awesome) - Leverage Font Awesome the iconic font and CSS toolkit.
 - [Font-awesome 5](https://github.com/Qonfucius/nuxt-fontawesome) - Use fontawesome 5 as a nuxtJS module.
 - [Google-tag-manager](https://github.com/nuxt-community/modules/tree/master/packages/google-tag-manager) - Add Google Tag Manager (GTM) to your nuxt.js application. This plugins automatically sends first page and route change events to GTM.
@@ -91,7 +91,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Font Awesome 5](https://github.com/vaso2/nuxt-fontawesome) - Alternative module for Fontawesome 5 integration with ES6 imports and tree shaking.
 - [Matomo](https://github.com/pimlie/nuxt-matomo) - Matomo/Piwik integration for Nuxt.
 - [RealFaviconGenerator Icons](https://github.com/pimlie/nuxt-rfg-icon) - Automatically generate favicons and app icons using RealFaviconGenerator.net's api.
-- [Nuxt Validate](https://github.com/lewyuburi/nuxt-validate) Simple Nuxt input validation module using vee-validate.
+- [Nuxt Validate](https://github.com/lewyuburi/nuxt-validate) - Simple Nuxt input validation module using vee-validate.
 - [nuxt-bulma-slim](https://github.com/mustardamus/nuxt-bulma-slim) - Module to automatically make a slim Bulma build of used features.
 - [Nuxt7](https://github.com/nuxt-community/nuxt7) - Framework7-Vue Nuxt integration.
 - [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration for Nuxt.
@@ -103,14 +103,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-babel](https://github.com/wemake-services/nuxt-babel) - Use normal `.babelrc` file with your Nuxt app.
 - [nuxt-imagemin](https://github.com/wemake-services/nuxt-imagemin) - Nuxt module to minify your images. Works with: `png`, `jpeg`, `gif`, and `svg`.
 - [nuxt-neo](https://github.com/ezypeeze/nuxt-neo) - Create your middleware api using a universal access point approach from your vue pages.
-- [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - vue-mq module for Nuxt.js.
+- [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - A vue-mq module for Nuxt.js.
 - [kenticocloud-nuxt-module](https://github.com/Domitnator/kenticocloud-nuxt-module) - Add Kentico Cloud super power to your nuxt app.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
 - [Nuxt Vuex Router Sync](https://github.com/paulgv/nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
 - [nuxt-rollbar-module](https://github.com/zevran/nuxt-rollbar-module) - Rollbar module for NuxtJS.
-- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) -
-A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
+- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) - A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Nuxt-Storage](https://github.com/mazipan/nuxt-storage) - Utilities for easy read and write browser's storage in Nuxt.js project.
 - [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - Load your SVGs as you'd load your Vue components.
 - [nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS!
@@ -164,7 +163,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Path to Product](https://www.pathtoproduct.com) - Product management job board built with Nuxt, Rails API, and deployed to Netlify.
 - [Teak & Twine](https://www.teakandtwine.com) - Custom e-commerce site built on Nuxt with a RESTful Laravel backend.
 - [Parkmaven](https://parkmaven.com/?ref=awesome-nuxt) - Frontend for an online parking management platform, built on Nuxt + Adonis.js, powered by a Laravel API.
-- [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework
+- [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework.
 - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated statically.
 - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter sign up.
 - [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
@@ -190,7 +189,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Build Vue.js Apps with the Vue-CLI and Nuxt.js](https://egghead.io/lessons/vue-build-vue-js-apps-with-the-vue-cli-and-nuxt-js)
 - [Build a Vue.js Website in 4 Steps](https://hackernoon.com/build-a-vue-js-website-in-4-steps-56dc5db8012b)
 - [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5)
-- [Create and publish a Nuxt.js powered website on Github pages](https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372)
+- [Create and publish a Nuxt.js powered website on GitHub pages](https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372)
 - [Introduction To Server Rendered Vue.js Apps With Nuxt](https://medium.com/codingthesmartway-com-blog/introduction-to-server-rendered-vue-js-apps-with-nuxt-91dbfd80795a)
 - [Simple Server Side Rendering, Routing, and Page Transitions with Nuxt](https://css-tricks.com/simple-server-side-rendering-routing-page-transitions-nuxt-js/)
 - [Vue 基于 NUXT 的 SSR](http://orangexc.xyz/2016/12/27/Vue-nuxt-based-ssr)
@@ -226,7 +225,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 
 ### Books
 
-- [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma<[@potato4d](https://github.com/potato4d)>).
+- [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma [@potato4d](https://github.com/potato4d)).
 - [Nuxt tech book(Japanese)](https://potato4d.booth.pm/items/824745)
 
 ### Starter Template
@@ -249,7 +248,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [ckgrafico/frontend-boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises.
 - [nurdism/electron-nuxt-boilerplate](https://github.com/nurdism/electron-nuxt-boilerplate) - Electron application boilerplate based on nuxt for rapid application development.
 - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge `vue` + `nuxt` template focused on code quality and developer happiness. Including meaningful docs, `flow`, and `jest`.
-- [galvez/nuxpress](https://github.com/galvez/nuxpress) - A Markdown blogging engine and boilerplate written in Nuxt.js
+- [galvez/nuxpress](https://github.com/galvez/nuxpress) - A Markdown blogging engine and boilerplate written in Nuxt.js.
 - [baisheng/nuxt-thinkjs3](https://github.com/baisheng/nuxt-thinkjs3) - Nuxt.js + Thinkjs FrameWork.
 - [kavalcante/nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) - Nuxt.js + Element (with custom Theme) + Apollo.
 - [mandaputtra/nuxtbulma-starter](https://github.com/mandaputtra/nuxtbulma-starter) - Nuxt.js + Bulma project scafolding.
@@ -273,7 +272,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 
 ### Projects Using Nuxt.js
 
-- [sum.cumo](https://www.sumcumo.com/en) - sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
+- [sum.cumo](https://www.sumcumo.com/en) - Sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
 - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
 - [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
 - [surmon.me](https://github.com/surmon-china/surmon.me) - SSR web application(blog) built with Nuxt.js for nodepress.
@@ -282,7 +281,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - Portal about where to buy good meat online, including a personal blog.
 - [front end intelligence](https://news.awesomes.cn/) - Website where you can fetch the front end news.
 - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology.
-- [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js.
+- [Hare](https://github.com/clarkdo/hare) - Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js. 🐇
 - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 - [Rewind 2017](https://www.lexpress.mu/2017) - Retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd.
