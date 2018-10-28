@@ -128,57 +128,57 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 ### Showcase
- - [homefinder.com](https://homefinder.com) - A nation-wide real estate portal in the US.  Find or or sell your home on HomeFinder!
- - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
- - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
- - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js.
- - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website.
- - [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter.
- - [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website.
- - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend.
- - [pro.ekiten.jp](https://pro.ekiten.jp) - Japanese matching website for professionals based on Nuxt.js powered by a Go backend on ECS.
- - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses.
- - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs.
- - [LibCrowds](https://github.com/LibCrowds/libcrowds) - Crowdsourcing platform built with Nuxt.js.
- - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - Singapore-based real estate agent search engine based on Nuxt.js.
- - [travelme.jp](https://travelme.jp/articles/) - Website in Japan introducing a lot of travel articles.
- - [tipe.io](https://tipe.io) - Meta CMS that allows you to create and manage your content with GraphQL or REST API.
- - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk.
- - [opportunitiis.com](https://www.opportunitiis.com/) - Tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
- - [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API.
- - [Koala](https://au.koala.com) - Ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
- - [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
- - [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots.
- - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames.
- - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/).
- - [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estate) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API.
- - [Bunk](https://www.bunkhistory.org/) - Unique view for connecting topics and events to their context in American history (Nuxt.js + Rest API).
- - [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
- - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
- - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
- - [academind.com](https://academind.com) - Online Education Site built with Nuxt.js (and teaching Nuxt.js!).
- - [Holadu.com](https://holadu.com) - Holadu | Find events near you.
- - [Cambridge Epigenetix](https://cambridge-epigenetix.com/) - Cambridge Epigenetix is pioneering the development and application of novel epigenetics-based diagnostics and therapeutics that will revolutionise the way we detect and treat disease.
- - [Developmint.de](https://developmint.de/?ref=awesome-nuxt) - Company page built with NuxtJS and TailwindCSS, including i18n, meta/og-tags and more!
- - [Maestromusic.today](https://maestromusic.today) - Classical music platform built with NuxtJS and WordPress REST API.
- - [Path to Product](https://www.pathtoproduct.com) - Product management job board built with Nuxt, Rails API, and deployed to Netlify.
- - [Teak & Twine](https://www.teakandtwine.com) - Custom e-commerce site built on Nuxt with a RESTful Laravel backend.
- - [Parkmaven](https://parkmaven.com/?ref=awesome-nuxt) - Frontend for an online parking management platform, built on Nuxt + Adonis.js, powered by a Laravel API.
- - [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework
- - [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated statically.
- - [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter sign up.
- - [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
- - [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
- - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
- - [beCamp](https://be.camp) - Open source website for a community-organized tech conference in Charlottesville, VA.
- - [CrossFit 701](https://crossfit701.com) - Custom website designed with Nuxt and using [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) plugin to create nice transitions and animations.
- - [BTZhai](https://www.btzhai.top/) - Fast and modern torrent search engine, built on ElasticSearch + NuxtJS + Nuxt-i18n + SpringBoot. Searches and downloads the latest and hottest resources around the world!
- - [Blogram](https://blogram.me) - Iranian microblogging platform.
- - [Nunziella Design Portfolio](https://nunziellasalluce.com) - Digital Designer portfolio made with Nuxt.js and WordPress REST API.
- - [Portfolio of Jenil Gogari - Computational Designer](https://jgog.in) - Crafted using Chota, Vue.js, Nuxt.js and Simple Icons. Typeface is Inter UI.
- - [thesettlement.co.nz](https://thesettlement.co.nz) - Co Working Startup Based in Wellington, New Zealand. Developed with Vue.js & Nuxt.js.
- - [COM-ENT Annual Report](http://www.communicationetentreprise.com/rapportannuel2017/) - COM-ENT Digital annual report. COM-ENT is a professionnal association for communication agencies and freelancers. Static site generated with Nuxt.js.
- - [Amundi Annual Report](http://rapportannuel.amundi.com/fr/) - Amundi 1027 Digital annual report. Amundi is a french asset management company. Static site generated with Nuxt.js.
+- [homefinder.com](https://homefinder.com) - A nation-wide real estate portal in the US.  Find or or sell your home on HomeFinder!
+- [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
+- [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
+- [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js.
+- [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website.
+- [vuejsradar.com](http://www.vuejsradar.com/) - Vue.js blog and newsletter.
+- [nuxtjs.org](https://nuxtjs.org) - Nuxt.js documentation website.
+- [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend.
+- [pro.ekiten.jp](https://pro.ekiten.jp) - Japanese matching website for professionals based on Nuxt.js powered by a Go backend on ECS.
+- [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses.
+- [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs.
+- [LibCrowds](https://github.com/LibCrowds/libcrowds) - Crowdsourcing platform built with Nuxt.js.
+- [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - Singapore-based real estate agent search engine based on Nuxt.js.
+- [travelme.jp](https://travelme.jp/articles/) - Website in Japan introducing a lot of travel articles.
+- [tipe.io](https://tipe.io) - Meta CMS that allows you to create and manage your content with GraphQL or REST API.
+- [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk.
+- [opportunitiis.com](https://www.opportunitiis.com/) - Tech industry based job listing site with Nuxt(PWA) application instances backed by Python(Flask) APIs.
+- [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API.
+- [Koala](https://au.koala.com) - Ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
+- [Lichter.io](https://lichter.io) - Open-source portfolio website based on Nuxt.js and TailwindCSS.
+- [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots.
+- [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames.
+- [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/).
+- [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estate) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API.
+- [Bunk](https://www.bunkhistory.org/) - Unique view for connecting topics and events to their context in American history (Nuxt.js + Rest API).
+- [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
+- [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
+- [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
+- [academind.com](https://academind.com) - Online Education Site built with Nuxt.js (and teaching Nuxt.js!).
+- [Holadu.com](https://holadu.com) - Holadu | Find events near you.
+- [Cambridge Epigenetix](https://cambridge-epigenetix.com/) - Cambridge Epigenetix is pioneering the development and application of novel epigenetics-based diagnostics and therapeutics that will revolutionise the way we detect and treat disease.
+- [Developmint.de](https://developmint.de/?ref=awesome-nuxt) - Company page built with NuxtJS and TailwindCSS, including i18n, meta/og-tags and more!
+- [Maestromusic.today](https://maestromusic.today) - Classical music platform built with NuxtJS and WordPress REST API.
+- [Path to Product](https://www.pathtoproduct.com) - Product management job board built with Nuxt, Rails API, and deployed to Netlify.
+- [Teak & Twine](https://www.teakandtwine.com) - Custom e-commerce site built on Nuxt with a RESTful Laravel backend.
+- [Parkmaven](https://parkmaven.com/?ref=awesome-nuxt) - Frontend for an online parking management platform, built on Nuxt + Adonis.js, powered by a Laravel API.
+- [VuePeople](https://vuepeople.org) - VuePeople lists and connects Vue.JS developers around the world. Built with Nuxt + Axios, Proxy and Analytics module, on top of Django Rest Framework
+- [Y-Verge](https://yverge.com) - Company website built with NuxtJS and all pages generated statically.
+- [Bael Theme](https://bael-theme.jake101.com) - Free Nuxt.js-based blog template that [deploys to Netlify](http://templates.netlify.com/template/nuxt-bael-blog-template/) in one click. The backend runs on Netlify CMS and includes a serverless function for email newsletter sign up.
+- [Cotabox](https://cotabox.com.br) - The commercial platform for supply chain and B2B sell's.
+- [Deligram](https://www.deligram.com/) - Bangladesh based e-commerce website.
+- [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
+- [beCamp](https://be.camp) - Open source website for a community-organized tech conference in Charlottesville, VA.
+- [CrossFit 701](https://crossfit701.com) - Custom website designed with Nuxt and using [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) plugin to create nice transitions and animations.
+- [BTZhai](https://www.btzhai.top/) - Fast and modern torrent search engine, built on ElasticSearch + NuxtJS + Nuxt-i18n + SpringBoot. Searches and downloads the latest and hottest resources around the world!
+- [Blogram](https://blogram.me) - Iranian microblogging platform.
+- [Nunziella Design Portfolio](https://nunziellasalluce.com) - Digital Designer portfolio made with Nuxt.js and WordPress REST API.
+- [Portfolio of Jenil Gogari - Computational Designer](https://jgog.in) - Crafted using Chota, Vue.js, Nuxt.js and Simple Icons. Typeface is Inter UI.
+- [thesettlement.co.nz](https://thesettlement.co.nz) - Co Working Startup Based in Wellington, New Zealand. Developed with Vue.js & Nuxt.js.
+- [COM-ENT Annual Report](http://www.communicationetentreprise.com/rapportannuel2017/) - COM-ENT Digital annual report. COM-ENT is a professionnal association for communication agencies and freelancers. Static site generated with Nuxt.js.
+- [Amundi Annual Report](http://rapportannuel.amundi.com/fr/) - Amundi 1027 Digital annual report. Amundi is a french asset management company. Static site generated with Nuxt.js.
 
 ### Tutorials
 
@@ -273,44 +273,44 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 
 ### Projects Using Nuxt.js
 
- - [sum.cumo](https://www.sumcumo.com/en) - sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
- - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
- - [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
- - [surmon.me](https://github.com/surmon-china/surmon.me) - SSR web application(blog) built with Nuxt.js for nodepress.
- - [n2ex](https://github.com/OrangeXC/n2ex) - Web app of v2ex built with Nuxt.
- - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - Meta search site for ammo prices in Canada.
- - [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - Portal about where to buy good meat online, including a personal blog.
- - [front end intelligence](https://news.awesomes.cn/) - Website where you can fetch the front end news.
- - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology.
- - [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js.
- - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum.
- - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
- - [Rewind 2017](https://www.lexpress.mu/2017) - Retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd.
- - [thalitajacinda.com](http://thalitajacinda.com/) - Personal website of a minimalist lifestyle influencer.
- - [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js.
- - [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design.
- - [VueBlog](https://github.com/wmui/vueblog) - Blog system [@wmui](https://github.com/wmui).
- - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL.
- - [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma.
- - [PWA Builder](https://github.com/pwa-builder/manifoldjs-site/tree/dev) - Generate your Progressive Web App.
- - [Colle McVoy](https://www.collemcvoy.com/) - Agency website built using Nuxt & Craft CMS.
- - [Back Market](https://www.backmarket.fr) - E-commerce website, the #1 marketplace of refurbished product.
- - [kevinpeters.net](https://github.com/igeligel/personal-site) - Personal site & blog built as PWA with custom styling.
- - [5se7en.com](https://github.com/se7en-1992/5se7en.com) - 5se7en's Personal website. Built with Nuxt.js,express,vuex.
- - [charlyzenger.ch](https://charlyzenger.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
- - [buefy-shop](https://buefy-shop.now.sh/) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
- - [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
- - [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
- - [wandsworth.town](https://wandsworth.town) - Wandsworth Town Business Improvement District (BID) puts businesses at the heart of what we do; shaping the future of Wandsworth Town.
- - [antilophia.com](https://antilophia.com) - Antilophia offers a boutique luxury travel service, delivering carefully crafted travel experiences within Africa & the Indian Ocean and Latin America & the Caribbean.
- - [renka.de](https://renka.de) - Agency website built with Nuxt and WordPress.
- - [santihans.com](https://santihans.com) - Next-level communications agency for tomorrow's digital experiences. Website built with Nuxt and Tipe.io.
- - [alainperrier.me](https://alainperrier.me) - Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS.
- - [MONO](https://mono-1.com) - Agency website built with Nuxt and Craft CMS.
- - [axure-broker.ch](https://axure-broker.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, TweenMax and SVG morphing.
- - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt.
- - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/).
- - [mistretta.ch](https://mistretta.ch/) - Creative corporate website for a Swiss Coiffure. Built with Nuxt.js, vue-i18n and GSAP.
+- [sum.cumo](https://www.sumcumo.com/en) - sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
+- [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
+- [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
+- [surmon.me](https://github.com/surmon-china/surmon.me) - SSR web application(blog) built with Nuxt.js for nodepress.
+- [n2ex](https://github.com/OrangeXC/n2ex) - Web app of v2ex built with Nuxt.
+- [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - Meta search site for ammo prices in Canada.
+- [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - Portal about where to buy good meat online, including a personal blog.
+- [front end intelligence](https://news.awesomes.cn/) - Website where you can fetch the front end news.
+- [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology.
+- [Hare](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js.
+- [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum.
+- [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+- [Rewind 2017](https://www.lexpress.mu/2017) - Retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd.
+- [thalitajacinda.com](http://thalitajacinda.com/) - Personal website of a minimalist lifestyle influencer.
+- [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js.
+- [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design.
+- [VueBlog](https://github.com/wmui/vueblog) - Blog system [@wmui](https://github.com/wmui).
+- [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL.
+- [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma.
+- [PWA Builder](https://github.com/pwa-builder/manifoldjs-site/tree/dev) - Generate your Progressive Web App.
+- [Colle McVoy](https://www.collemcvoy.com/) - Agency website built using Nuxt & Craft CMS.
+- [Back Market](https://www.backmarket.fr) - E-commerce website, the #1 marketplace of refurbished product.
+- [kevinpeters.net](https://github.com/igeligel/personal-site) - Personal site & blog built as PWA with custom styling.
+- [5se7en.com](https://github.com/se7en-1992/5se7en.com) - 5se7en's Personal website. Built with Nuxt.js,express,vuex.
+- [charlyzenger.ch](https://charlyzenger.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, custom routes and TweenMax.
+- [buefy-shop](https://buefy-shop.now.sh/) - Sample shop, open source, built with Nuxt, Stripe, Firebase, Bulma and Serverless Functions.
+- [DBAdventure](https://github.com/DBAdventure/web) - Simple PHP and VueJs game where players embody a Dragon Ball character.
+- [NuxtDoc by Storyblok](https://github.com/storyblok/nuxtdoc) - The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.
+- [wandsworth.town](https://wandsworth.town) - Wandsworth Town Business Improvement District (BID) puts businesses at the heart of what we do; shaping the future of Wandsworth Town.
+- [antilophia.com](https://antilophia.com) - Antilophia offers a boutique luxury travel service, delivering carefully crafted travel experiences within Africa & the Indian Ocean and Latin America & the Caribbean.
+- [renka.de](https://renka.de) - Agency website built with Nuxt and WordPress.
+- [santihans.com](https://santihans.com) - Next-level communications agency for tomorrow's digital experiences. Website built with Nuxt and Tipe.io.
+- [alainperrier.me](https://alainperrier.me) - Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS.
+- [MONO](https://mono-1.com) - Agency website built with Nuxt and Craft CMS.
+- [axure-broker.ch](https://axure-broker.ch/) - Corporate website. Built with Nuxt.js, vue-i18n, TweenMax and SVG morphing.
+- [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt.
+- [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/).
+- [mistretta.ch](https://mistretta.ch/) - Creative corporate website for a Swiss Coiffure. Built with Nuxt.js, vue-i18n and GSAP.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
