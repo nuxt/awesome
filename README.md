@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="http://imgur.com/V4LtoII.png" />
+    <img width="153" height="153" src="http://imgur.com/V4LtoII.png" />
   <br>
   <br>
   <br>
@@ -308,6 +308,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt.
 - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/).
 - [mistretta.ch](https://mistretta.ch/) - Creative corporate website for a Swiss Coiffure. Built with Nuxt.js, vue-i18n and GSAP.
+- [Rivalry.gg](https://www.rivalry.gg/) - Esports Sportsbook, multiple languages, prismic.io driven content integration, built with Nuxt.js.
+
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
