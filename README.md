@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img src="http://imgur.com/V4LtoII.png" />
+    <img width="153" height="153" src="http://imgur.com/V4LtoII.png" />
   <br>
   <br>
   <br>
@@ -113,6 +113,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Nuxt-Storage](https://github.com/mazipan/nuxt-storage) - Utilities for easy read and write browser's storage in Nuxt.js project.
 - [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - Load your SVGs as you'd load your Vue components.
+- [nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS!
 - [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify 
 
 ### Tools
@@ -218,6 +219,8 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Learn NUXT 2 by Example - A Crash Course for Beginners](https://www.youtube.com/watch?v=IkrbIFZz_IM)
 - [Quickly Building RESTful UI’s in NuxtJS](https://itnext.io/quickly-building-restful-uis-in-nuxtjs-782bce539440)
 - [Creating Server-side Rendered Vue.js Apps Using Nuxt.js](https://www.toptal.com/vue-js/server-side-rendered-vue-js-using-nuxt-js)
+- [The guide to write universal, SSR-ready Vue components](https://blog.lichter.io/posts/the-guide-to-write-universal-ssr-ready-vue-compon?ref=awesome-nuxt)
+- [Use Nuxt’s build.templates property to contextually generate files](https://medium.com/ax2-inc/use-nuxts-build-templates-property-to-contextually-generate-files-587761251f78)
 
 ### Blogs
 
@@ -245,7 +248,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [cretueusebiu/laravel-nuxt](https://github.com/cretueusebiu/laravel-nuxt) - Nuxt.js + Laravel starter template with examples.
 - [nekdolan/express-hot](https://github.com/nekdolan/express-template-hot) - Starter template based on express-template using hot reload.
 - [vuetifyjs/nuxt](https://github.com/vuetifyjs/nuxt) - Nuxt.js + Vuetify.js starter project template.
-- [ckgrafico/frontend-boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt-dev) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises.
+- [ckgrafico/frontend-boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises.
 - [nurdism/electron-nuxt-boilerplate](https://github.com/nurdism/electron-nuxt-boilerplate) - Electron application boilerplate based on nuxt for rapid application development.
 - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge `vue` + `nuxt` template focused on code quality and developer happiness. Including meaningful docs, `flow`, and `jest`.
 - [galvez/nuxpress](https://github.com/galvez/nuxpress) - A Markdown blogging engine and boilerplate written in Nuxt.js
@@ -255,6 +258,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [woodgates/feathers-nuxt](https://github.com/woodgates/feathers-nuxt) - Implementation of nuxt 1.4.2 with full template feathers 3.2.1 (expressjs, socket.io, hooks, etc).
 - [bitkris-dev/bolide-nuxt-template](https://github.com/bitkris-dev/bolide-nuxt-template) - Question-based template (CSS framework choice + preinstalled modules).
 - [melrefaie/nuxt-cypress](https://github.com/melrefaie/nuxt-cypress) - A Nuxt.js + Cypress starter project template.
+- [muhibbudins/nuxt-multiple](https://github.com/muhibbudins/nuxt-multiple) - Nuxt.js starter template for Nuxt Multiple instance with Express Backpack, Element UI, Axios & Example APIs, SASS / SCSS Loader, Vuex Store.
 
 ### Docker
 
@@ -263,11 +267,10 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 ### Official Examples
 
 - [Hello World](https://hello-world.nuxtjs.org/)
-- [Starter](https://starter.nuxtjs.org/)
-- [TODO MVC](https://todomvc.nuxtjs.org/)
-- [Auth0](https://auth0.nuxtjs.org/)
-- [Middleware](https://nuxtjs.org/guide/routing#middleware/)
-- [Internationalization (i18n)](https://i18n.nuxtjs.org/fr/)
+- [TODO MVC](https://github.com/nuxt/todomvc)
+- [Auth0](https://github.com/nuxt/example-auth0)
+- [Middleware](https://nuxtjs.org/examples/middleware)
+- [Internationalization (i18n)](https://nuxtjs.org/examples/i18n)
 - [Hackernews](https://github.com/nuxt/hackernews)
 
 ### Projects Using Nuxt.js
@@ -310,6 +313,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
  - [thegaelicpoint.ie](https://thegaelicpoint.ie/) - Sports analytics tool for gaelic football data. Built with Vuetify and Nuxt.
  - [nuxt-elm](https://github.com/EasyTuan/nuxt-elm/) - Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/).
  - [mistretta.ch](https://mistretta.ch/) - Creative corporate website for a Swiss Coiffure. Built with Nuxt.js, vue-i18n and GSAP.
+ - [Rivalry.gg](https://www.rivalry.gg/) - Esports Sportsbook, multiple languages, prismic.io driven content integration, built with Nuxt.js.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
