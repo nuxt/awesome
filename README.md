@@ -176,6 +176,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [thesettlement.co.nz](https://thesettlement.co.nz) - Co Working Startup Based in Wellington, New Zealand. Developed with Vue.js & Nuxt.js.
 - [COM-ENT Annual Report](http://www.communicationetentreprise.com/rapportannuel2017/) - COM-ENT Digital annual report. COM-ENT is a professionnal association for communication agencies and freelancers. Static site generated with Nuxt.js.
 - [Amundi Annual Report](http://rapportannuel.amundi.com/fr/) - Amundi 1027 Digital annual report. Amundi is a french asset management company. Static site generated with Nuxt.js.
+- [Rentcars.com](https://www.rentcars.com/) - We are a global company that connects people to the best car rentals options available.
 
 ### Tutorials
 
