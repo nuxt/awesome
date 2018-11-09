@@ -103,13 +103,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-babel](https://github.com/wemake-services/nuxt-babel) - Use normal `.babelrc` file with your Nuxt app.
 - [nuxt-imagemin](https://github.com/wemake-services/nuxt-imagemin) - Nuxt module to minify your images. Works with: `png`, `jpeg`, `gif`, and `svg`.
 - [nuxt-neo](https://github.com/ezypeeze/nuxt-neo) - Create your middleware api using a universal access point approach from your vue pages.
-- [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - A vue-mq module for Nuxt.js.
+- [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - vue-mq module for Nuxt.js.
 - [kenticocloud-nuxt-module](https://github.com/Domitnator/kenticocloud-nuxt-module) - Add Kentico Cloud super power to your nuxt app.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
 - [Nuxt Vuex Router Sync](https://github.com/paulgv/nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
 - [nuxt-rollbar-module](https://github.com/zevran/nuxt-rollbar-module) - Rollbar module for NuxtJS.
-- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) - A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
+- [Nuxt Image Loader Module](https://github.com/reallifedigital/nuxt-image-loader-module) - Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Nuxt-Storage](https://github.com/mazipan/nuxt-storage) - Utilities for easy read and write browser's storage in Nuxt.js project.
 - [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - Load your SVGs as you'd load your Vue components.
 - [nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS!
@@ -130,7 +130,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 ### Showcase
-- [homefinder.com](https://homefinder.com) - A nation-wide real estate portal in the US.  Find or or sell your home on HomeFinder!
+- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
 - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
 - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js.
@@ -250,13 +250,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [ckgrafico/frontend-boilerplates](https://github.com/CKGrafico/Frontend-Boilerplates/tree/nuxt) - Frontend Boilerplate using Nuxtjs + TypeScript + SASS + Some Frontend good practises.
 - [nurdism/electron-nuxt-boilerplate](https://github.com/nurdism/electron-nuxt-boilerplate) - Electron application boilerplate based on nuxt for rapid application development.
 - [wemake-vue-template](https://github.com/wemake-services/wemake-vue-template) - Bleeding edge `vue` + `nuxt` template focused on code quality and developer happiness. Including meaningful docs, `flow`, and `jest`.
-- [galvez/nuxpress](https://github.com/galvez/nuxpress) - A Markdown blogging engine and boilerplate written in Nuxt.js.
+- [galvez/nuxpress](https://github.com/galvez/nuxpress) - Markdown blogging engine and boilerplate written in Nuxt.js.
 - [baisheng/nuxt-thinkjs3](https://github.com/baisheng/nuxt-thinkjs3) - Nuxt.js + Thinkjs FrameWork.
 - [kavalcante/nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) - Nuxt.js + Element (with custom Theme) + Apollo.
 - [mandaputtra/nuxtbulma-starter](https://github.com/mandaputtra/nuxtbulma-starter) - Nuxt.js + Bulma project scafolding.
 - [woodgates/feathers-nuxt](https://github.com/woodgates/feathers-nuxt) - Implementation of nuxt 1.4.2 with full template feathers 3.2.1 (expressjs, socket.io, hooks, etc).
 - [bitkris-dev/bolide-nuxt-template](https://github.com/bitkris-dev/bolide-nuxt-template) - Question-based template (CSS framework choice + preinstalled modules).
-- [melrefaie/nuxt-cypress](https://github.com/melrefaie/nuxt-cypress) - A Nuxt.js + Cypress starter project template.
+- [melrefaie/nuxt-cypress](https://github.com/melrefaie/nuxt-cypress) - Nuxt.js + Cypress starter project template.
 - [muhibbudins/nuxt-multiple](https://github.com/muhibbudins/nuxt-multiple) - Nuxt.js starter template for Nuxt Multiple instance with Express Backpack, Element UI, Axios & Example APIs, SASS / SCSS Loader, Vuex Store.
 
 ### Docker
@@ -265,12 +265,12 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Official Examples
 
-- [Hello World](https://nuxtjs.org/examples/) - A simple Nuxt.js Hello World Example.
-- [TODO MVC](https://github.com/nuxt/todomvc) - A [TodoMVC](http://todomvc.com/) example app.
+- [Hello World](https://nuxtjs.org/examples/) - Simple Nuxt.js Hello World Example.
+- [TODO MVC](https://github.com/nuxt/todomvc) - [TodoMVC](http://todomvc.com/) example app.
 - [Auth0](https://github.com/nuxt/example-auth0) - Basic app with auth0 as authentication provider.
-- [Middleware](https://nuxtjs.org/examples/middleware) - An example about how to properly use Middleware in Nuxt.js.
+- [Middleware](https://nuxtjs.org/examples/middleware) - Example about how to properly use Middleware in Nuxt.js.
 - [Internationalization (i18n)](https://nuxtjs.org/examples/i18n) - Nuxt.js app with i18n support and implementation.
-- [Hackernews](https://github.com/nuxt/hackernews) - A Nuxt.js Hackernews clone.
+- [Hackernews](https://github.com/nuxt/hackernews) - Nuxt.js Hackernews clone.
 
 ### Projects Using Nuxt.js
 
