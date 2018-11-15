@@ -314,7 +314,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [mistretta.ch](https://mistretta.ch/) - Creative corporate website for a Swiss Coiffure. Built with Nuxt.js, vue-i18n and GSAP.
 - [Rivalry.gg](https://www.rivalry.gg/) - Esports Sportsbook, multiple languages, prismic.io driven content integration, built with Nuxt.js.
 - [Ouestfrance-immo.com](https://www.ouestfrance-immo.com/) - OuestFrance-Immo.com is the first real estate portal in the west of France with more than 3,500,000 monthly. [The real estate directory](https://www.ouestfrance-immo.com/annuaire-immobilier/) is built with Nuxt.js, Axios and Bootstrap-vue.
-
+- [Statusfy](https://statusfy.co/) - Statusfy is a simple Open Source Status Page system designed to be built and maintained with minimum effort.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
