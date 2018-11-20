@@ -222,6 +222,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [The guide to write universal, SSR-ready Vue components](https://blog.lichter.io/posts/the-guide-to-write-universal-ssr-ready-vue-compon?ref=awesome-nuxt)
 - [Use Nuxt’s build.templates property to contextually generate files](https://medium.com/ax2-inc/use-nuxts-build-templates-property-to-contextually-generate-files-587761251f78)
 - [Deploying a Nuxt.js (v2) App to Google App Engine (Google Cloud Platform)](https://medium.com/@pascalluther/deploying-a-nuxt-js-v2-app-to-google-app-engine-google-cloud-platform-69c9008531bc)
+- [Nuxt.js (v2), Firestore & SSR 🔥](https://medium.com/@pascalluther/nuxt-js-v2-firestore-ssr-938d8fb7d2b0)
 
 ### Blogs
 
