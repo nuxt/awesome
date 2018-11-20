@@ -182,6 +182,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Amundi Annual Report](http://rapportannuel.amundi.com/fr/) - Amundi 1027 Digital annual report. Amundi is a french asset management company. Static site generated with Nuxt.js.
 - [Rentcars.com](https://www.rentcars.com/) - We are a global company that connects people to the best car rentals options available.
 - [Agence Debord](https://www.agencedebord.com/) - Web agency website based on Nuxt.js powered by the WordPress Rest API.
+- [Flagpack](https://flag.pk) - An opensource flag icon library. Website is powered by Vue.js & Nuxt.js.
 
 ### Tutorials
 
