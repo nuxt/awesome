@@ -114,7 +114,7 @@ A Nuxt module to automatically resize, rotate, blur, watermark and crop images.
 - [Nuxt-Storage](https://github.com/mazipan/nuxt-storage) - Utilities for easy read and write browser's storage in Nuxt.js project.
 - [nuxt-svg-loader](https://github.com/Developmint/nuxt-svg-loader) - Load your SVGs as you'd load your Vue components.
 - [nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS!
-- [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify 
+- [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify.
 
 ### Tools
 
