@@ -117,6 +117,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [prismic-nuxt](https://github.com/jamespegg/prismic-nuxt) - Prismic.io headless CMS integration for Nuxt.
 - [nuxt-fire](https://github.com/lupas/nuxt-fire) - Easily intergrate Firebase into your Nuxt 2 project. 🔥
 - [nuxt-webfontloader](https://github.com/Developmint/nuxt-webfontloader) - Efficient web font loading has never been easier!
+- [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify.
 
 ### Tools
 
@@ -228,6 +229,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Nuxt.js (v2), Firestore & SSR 🔥](https://medium.com/@pascalluther/nuxt-js-v2-firestore-ssr-938d8fb7d2b0)
 - [Organize and decouple your API calls in Nuxt.js](https://blog.lichter.io/posts/organize-and-decouple-your-api-calls-in-nuxtjs)
 - [PM2 Blue/Green Zero-Downtime Deployment Demo](https://github.com/CurtisBelt/pm2-nuxt-blue-green-deploy)
+- [VPS Deployment manual for Nuxt.js](https://gist.github.com/DreaMinder/e9fc988295378d8373521a93c3ca6d18)
 
 ### Blogs
 
