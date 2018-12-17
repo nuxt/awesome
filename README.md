@@ -117,7 +117,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [prismic-nuxt](https://github.com/jamespegg/prismic-nuxt) - Prismic.io headless CMS integration for Nuxt.
 - [nuxt-fire](https://github.com/lupas/nuxt-fire) - Easily intergrate Firebase into your Nuxt 2 project. 🔥
 - [nuxt-webfontloader](https://github.com/Developmint/nuxt-webfontloader) - Efficient web font loading has never been easier!
-- [nuxt-sweetalert2](https://github.com/ImreC/nuxt-sweetalert2) - Sweetalert2 module based on vue-sweetalert2 with global options. 
+- [nuxt-sweetalert2](https://github.com/ImreC/nuxt-sweetalert2) - Sweetalert2 module based on vue-sweetalert2 with global options.
 - [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify.
 - [nuxt-svg-sprite-module](https://github.com/gaven/nuxt-svg-sprite-module) - Add an inline svg sprite to your Nuxt app.
 
@@ -187,6 +187,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Rentcars.com](https://www.rentcars.com/) - We are a global company that connects people to the best car rentals options available.
 - [Agence Debord](https://www.agencedebord.com/) - Web agency website based on Nuxt.js powered by the WordPress Rest API.
 - [Flagpack](https://flag.pk) - An opensource flag icon library. Website is powered by Vue.js & Nuxt.js.
+- [Tyneside Lettings](https://www.tynesidelettings.com/) - Student and young professional accommodation specialists in Newcastle upon Tyne.
+- [R6Stats](https://r6stats.com/) - Search, view and compare Rainbow Six: Siege stats with thousands of players around the world.
 
 ### Tutorials
 
