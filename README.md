@@ -120,6 +120,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-sweetalert2](https://github.com/ImreC/nuxt-sweetalert2) - Sweetalert2 module based on vue-sweetalert2 with global options. 
 - [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify.
 - [nuxt-svg-sprite-module](https://github.com/gaven/nuxt-svg-sprite-module) - Add an inline svg sprite to your Nuxt app.
+- [nuxt-fullpage.js](https://github.com/vaso2/nuxt-fullpage.js) - Nuxt module for fullPage.js, create fullscreen scrolling websites.
 
 ### Tools
 
