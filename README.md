@@ -331,6 +331,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Ouestfrance-immo.com](https://www.ouestfrance-immo.com/) - OuestFrance-Immo.com is the first real estate portal in the west of France with more than 3,500,000 monthly. [The real estate directory](https://www.ouestfrance-immo.com/annuaire-immobilier/) is built with Nuxt.js, Axios and Bootstrap-vue.
 - [Statusfy](https://statusfy.co/) - Statusfy is a simple Open Source Status Page system designed to be built and maintained with minimum effort.
 - [Predictice](https://predictice.com/) - Predictice, Legal Intelligence solution build with NuxtJS and Elasticsearch.
+- [Beerbay](https://beerbay.net/) - Beerbay is a craft beer e-commerce built with NUXT and WP api.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
