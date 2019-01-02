@@ -117,11 +117,12 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [prismic-nuxt](https://github.com/jamespegg/prismic-nuxt) - Prismic.io headless CMS integration for Nuxt.
 - [nuxt-fire](https://github.com/lupas/nuxt-fire) - Easily intergrate Firebase into your Nuxt 2 project. 🔥
 - [nuxt-webfontloader](https://github.com/Developmint/nuxt-webfontloader) - Efficient web font loading has never been easier!
-- [nuxt-sweetalert2](https://github.com/ImreC/nuxt-sweetalert2) - Sweetalert2 module based on vue-sweetalert2 with global options. 
+- [nuxt-sweetalert2](https://github.com/ImreC/nuxt-sweetalert2) - Sweetalert2 module based on vue-sweetalert2 with global options.
 - [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify.
 - [nuxt-svg-sprite-module](https://github.com/gaven/nuxt-svg-sprite-module) - Add an inline svg sprite to your Nuxt app.
 - [nuxt-fullpage.js](https://github.com/vaso2/nuxt-fullpage.js) - Nuxt module for fullPage.js, create fullscreen scrolling websites.
 - [fullpage-nuxt](https://github.com/vaso2/fullpage-nuxt) - Nuxt module for fullpage-nuxt directive, pure Vue implementation of per-page scrolling.
+- [nuxt-user-agent](https://github.com/fukuiretu/nuxt-user-agent) - Nuxt module for handling User-Agent.
 
 ### Tools
 
