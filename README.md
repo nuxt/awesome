@@ -276,6 +276,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [melrefaie/nuxt-cypress](https://github.com/melrefaie/nuxt-cypress) - Nuxt.js + Cypress starter project template.
 - [muhibbudins/nuxt-multiple](https://github.com/muhibbudins/nuxt-multiple) - Nuxt.js starter template for Nuxt Multiple instance with Express Backpack, Element UI, Axios & Example APIs, SASS / SCSS Loader, Vuex Store.
 - [feathers-nuxt/template-app](https://github.com/feathers-nuxt/template-app) - Batteries included Sao template for full stack feathers and nuxt apps.
+- [exeteres/electron-nuxt-ts](https://github.com/exeteres/electron-nuxt-ts) - Another Electron starter template with separation of the renderer process and the main process that fully written in TypeScript.
 
 ### Docker
 
