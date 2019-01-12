@@ -194,7 +194,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Flagpack](https://flag.pk) - An opensource flag icon library. Website is powered by Vue.js & Nuxt.js.
 - [TecnoSpeed](https://tecnospeed.com.br) - An brazilian business focused in make solutions to others developers.
 - [PlugNotas](https://plugnotas.com.br) - An service to emit service invoices in Brazil.
-
+- [Oak Hill Cafe](https://www.oakhillcafe.com/) - A farm-to-table restaurant based in Greenville, SC built with Vue.js, Nuxt.js, and Prismic.io.
 ### Tutorials
 
 - [A Tutorial to Bundle Cockpit CMS & Nuxt.js in a full JAMstack](https://snipcart.com/blog/cockpit-cms-tutorial-nuxtjs)
