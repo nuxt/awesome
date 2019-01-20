@@ -75,9 +75,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
 - [I18n](https://github.com/nuxt-community/nuxt-i18n) - Add i18n capabilities to your Nuxt project.
 - [Separate Env](https://github.com/nuxt-community/separate-env-module) - Tear apart your variables and split them up for client/server bundle!
-- [Nuxt Logrocket](https://github.com/nuxt-community/nuxt-logrocket) - LogRocket module for Nuxt.js
-- [Nuxt Universal Storage Module](https://github.com/nuxt-community/universal-storage) - Universal Storage Utilities for Nuxt.js
-- [nuxt Google Optimize](https://github.com/nuxt-community/google-optimize) - SSR friendly Google Optimize module for Nuxt.js
+- [Logrocket](https://github.com/nuxt-community/nuxt-logrocket) - LogRocket module for Nuxt.js
+- [Universal Storage Module](https://github.com/nuxt-community/universal-storage) - Universal Storage Utilities for Nuxt.js
+- [Google Optimize](https://github.com/nuxt-community/google-optimize) - SSR friendly Google Optimize module for Nuxt.js
 
 #### Community
 
