@@ -127,6 +127,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [fullpage-nuxt](https://github.com/vaso2/fullpage-nuxt) - Nuxt module for fullpage-nuxt directive, pure Vue implementation of per-page scrolling.
 - [nuxt-user-agent](https://github.com/fukuiretu/nuxt-user-agent) - Nuxt module for handling User-Agent.
 - [nuxt-basic-auth-module](https://github.com/potato4d/nuxt-basic-auth-module) - Provide basic auth your Nuxt.js application.
+- [nuxt-wizard](https://www.npmjs.com/package/nuxt-wizard) - Command-line interface for scaffolding Nuxt projects.
 
 ### Tools
 
