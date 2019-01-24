@@ -244,6 +244,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Organize and decouple your API calls in Nuxt.js](https://blog.lichter.io/posts/organize-and-decouple-your-api-calls-in-nuxtjs)
 - [PM2 Blue/Green Zero-Downtime Deployment Demo](https://github.com/CurtisBelt/pm2-nuxt-blue-green-deploy)
 - [VPS Deployment manual for Nuxt.js](https://gist.github.com/DreaMinder/e9fc988295378d8373521a93c3ca6d18)
+- [Selectively enable SSR or SPA mode](https://blog.lichter.io/posts/selectively-enable-ssr-or-spa-mode-in-a-nuxtjs-ap?ref=awesome-nuxt)
 
 ### Blogs
 
