@@ -200,7 +200,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [PlugNotas](https://plugnotas.com.br) - An service to emit service invoices in Brazil.
 - [Oak Hill Cafe](https://www.oakhillcafe.com/) - A farm-to-table restaurant based in Greenville, SC built with Vue.js, Nuxt.js, and Prismic.io.
 - [PusatMarket](https://pusatmarket.com/) - PusatMarket is a marketplace that built with Nuxt.js.
-- [VueJS Dublin](https://www.vuejsdublin.com/) - Website for the local Vue meetup group in Dublin, Ireland
+- [VueJS Dublin](https://www.vuejsdublin.com/) - Website for the local Vue meetup group in Dublin, Ireland.
 
 ### Tutorials
 
