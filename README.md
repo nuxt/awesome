@@ -196,6 +196,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Rentcars.com](https://www.rentcars.com/) - We are a global company that connects people to the best car rentals options available.
 - [Agence Debord](https://www.agencedebord.com/) - Web agency website based on Nuxt.js powered by the WordPress Rest API.
 - [Flagpack](https://flag.pk) - An opensource flag icon library. Website is powered by Vue.js & Nuxt.js.
+- [Tyneside Lettings](https://www.tynesidelettings.com/) - Student and young professional accommodation specialists in Newcastle upon Tyne.
+- [R6Stats](https://r6stats.com/) - Search, view and compare Rainbow Six: Siege stats with thousands of players around the world.
 - [TecnoSpeed](https://tecnospeed.com.br) - An brazilian business focused in make solutions to others developers.
 - [PlugNotas](https://plugnotas.com.br) - An service to emit service invoices in Brazil.
 - [Oak Hill Cafe](https://www.oakhillcafe.com/) - A farm-to-table restaurant based in Greenville, SC built with Vue.js, Nuxt.js, and Prismic.io.
