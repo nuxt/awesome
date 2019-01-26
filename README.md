@@ -75,6 +75,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
 - [I18n](https://github.com/nuxt-community/nuxt-i18n) - Add i18n capabilities to your Nuxt project.
 - [Separate Env](https://github.com/nuxt-community/separate-env-module) - Tear apart your variables and split them up for client/server bundle!
+- [Logrocket](https://github.com/nuxt-community/nuxt-logrocket) - LogRocket module for Nuxt.js
+- [Universal Storage Module](https://github.com/nuxt-community/universal-storage) - Universal Storage Utilities for Nuxt.js
+- [Google Optimize](https://github.com/nuxt-community/google-optimize) - SSR friendly Google Optimize module for Nuxt.js
 
 #### Community
 
@@ -115,11 +118,16 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-purgecss](https://github.com/Developmint/nuxt-purgecss) - Drop superfluous CSS!
 - [nuxt-bundle-buddy](https://github.com/Developmint/nuxt-bundle-buddy) - Don't fight your webpack bundle, become friends!
 - [prismic-nuxt](https://github.com/jamespegg/prismic-nuxt) - Prismic.io headless CMS integration for Nuxt.
-- [nuxt-fire](https://github.com/lupas/nuxt-fire) - Easily intergrate Firebase into your Nuxt 2 project. 🔥
+- [nuxt-fire](https://github.com/lupas/nuxt-fire) - Easily integrate Firebase into your Nuxt 2 project. 🔥
 - [nuxt-webfontloader](https://github.com/Developmint/nuxt-webfontloader) - Efficient web font loading has never been easier!
 - [nuxt-sweetalert2](https://github.com/ImreC/nuxt-sweetalert2) - Sweetalert2 module based on vue-sweetalert2 with global options.
 - [nuxt-netlify-http2-server-push](https://github.com/jmblog/nuxt-netlify-http2-server-push) - Enable HTTP/2 server push on Netlify.
 - [nuxt-svg-sprite-module](https://github.com/gaven/nuxt-svg-sprite-module) - Add an inline svg sprite to your Nuxt app.
+- [nuxt-fullpage.js](https://github.com/vaso2/nuxt-fullpage.js) - Nuxt module for fullPage.js, create fullscreen scrolling websites.
+- [fullpage-nuxt](https://github.com/vaso2/fullpage-nuxt) - Nuxt module for fullpage-nuxt directive, pure Vue implementation of per-page scrolling.
+- [nuxt-user-agent](https://github.com/fukuiretu/nuxt-user-agent) - Nuxt module for handling User-Agent.
+- [nuxt-basic-auth-module](https://github.com/potato4d/nuxt-basic-auth-module) - Provide basic auth your Nuxt.js application.
+- [nuxt-wizard](https://www.npmjs.com/package/nuxt-wizard) - Command-line interface for scaffolding Nuxt projects.
 
 ### Tools
 
@@ -135,7 +143,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 ### Showcase
-- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or or sell your home on HomeFinder!
+- [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
+- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
 - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
 - [yineo.fr](https://yineo.fr/) - Freelance website based on Nuxt.js.
@@ -189,6 +198,11 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Flagpack](https://flag.pk) - An opensource flag icon library. Website is powered by Vue.js & Nuxt.js.
 - [Tyneside Lettings](https://www.tynesidelettings.com/) - Student and young professional accommodation specialists in Newcastle upon Tyne.
 - [R6Stats](https://r6stats.com/) - Search, view and compare Rainbow Six: Siege stats with thousands of players around the world.
+- [TecnoSpeed](https://tecnospeed.com.br) - An brazilian business focused in make solutions to others developers.
+- [PlugNotas](https://plugnotas.com.br) - An service to emit service invoices in Brazil.
+- [Oak Hill Cafe](https://www.oakhillcafe.com/) - A farm-to-table restaurant based in Greenville, SC built with Vue.js, Nuxt.js, and Prismic.io.
+- [PusatMarket](https://pusatmarket.com/) - PusatMarket is a marketplace that built with Nuxt.js.
+- [VueJS Dublin](https://www.vuejsdublin.com/) - Website for the local Vue meetup group in Dublin, Ireland.
 
 ### Tutorials
 
@@ -234,6 +248,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Organize and decouple your API calls in Nuxt.js](https://blog.lichter.io/posts/organize-and-decouple-your-api-calls-in-nuxtjs)
 - [PM2 Blue/Green Zero-Downtime Deployment Demo](https://github.com/CurtisBelt/pm2-nuxt-blue-green-deploy)
 - [VPS Deployment manual for Nuxt.js](https://gist.github.com/DreaMinder/e9fc988295378d8373521a93c3ca6d18)
+- [Selectively enable SSR or SPA mode](https://blog.lichter.io/posts/selectively-enable-ssr-or-spa-mode-in-a-nuxtjs-ap?ref=awesome-nuxt)
 
 ### Blogs
 
@@ -273,6 +288,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [melrefaie/nuxt-cypress](https://github.com/melrefaie/nuxt-cypress) - Nuxt.js + Cypress starter project template.
 - [muhibbudins/nuxt-multiple](https://github.com/muhibbudins/nuxt-multiple) - Nuxt.js starter template for Nuxt Multiple instance with Express Backpack, Element UI, Axios & Example APIs, SASS / SCSS Loader, Vuex Store.
 - [feathers-nuxt/template-app](https://github.com/feathers-nuxt/template-app) - Batteries included Sao template for full stack feathers and nuxt apps.
+- [exeteres/electron-nuxt-ts](https://github.com/exeteres/electron-nuxt-ts) - Another Electron starter template with separation of the renderer process and the main process that fully written in TypeScript.
+- [muhibbudins/nuxt-coreui](https://github.com/muhibbudins/nuxt-coreui) - Unofficial Nuxt + CoreUI project, free to use boilerplate for every need.
+- [Tarrask/sails-template](https://github.com/Tarrask/sails-template) - Starter template for Nuxt.js with Sails.js.
 
 ### Docker
 
@@ -331,6 +349,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Ouestfrance-immo.com](https://www.ouestfrance-immo.com/) - OuestFrance-Immo.com is the first real estate portal in the west of France with more than 3,500,000 monthly. [The real estate directory](https://www.ouestfrance-immo.com/annuaire-immobilier/) is built with Nuxt.js, Axios and Bootstrap-vue.
 - [Statusfy](https://statusfy.co/) - Statusfy is a simple Open Source Status Page system designed to be built and maintained with minimum effort.
 - [Predictice](https://predictice.com/) - Predictice, Legal Intelligence solution build with NuxtJS and Elasticsearch.
+- [Beerbay](https://beerbay.net/) - Beerbay is a craft beer e-commerce built with NUXT and WP api.
+- [alibaba.aero](https://www.alibaba.aero) - Alibaba Travels Co is Iran's leading travel website built with Nuxt.js.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
