@@ -262,7 +262,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
  - [santihans.com](https://santihans.com) - Next-level communications agency for tomorrow's digital experiences. Website built with Nuxt and Tipe.io.
  - [alainperrier.me](https://alainperrier.me) - Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS.
  - [MONO](https://mono-1.com) - Agency website built with Nuxt and Craft CMS.
- - [Akunyi](https://akunyi.com) - Charity Website
+ - [Akunyi](https://akunyi.com) - Charity Website.
  
 > Please don't hesitate to make a PR if you have more resources to share.
 
