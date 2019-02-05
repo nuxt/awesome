@@ -143,7 +143,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 
 ### Showcase
-- [Scale Leap](https://www.scaleleap.com/) - Custom Software Development For Amazon Sellers.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
@@ -204,6 +203,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Oak Hill Cafe](https://www.oakhillcafe.com/) - A farm-to-table restaurant based in Greenville, SC built with Vue.js, Nuxt.js, and Prismic.io.
 - [PusatMarket](https://pusatmarket.com/) - PusatMarket is a marketplace that built with Nuxt.js.
 - [VueJS Dublin](https://www.vuejsdublin.com/) - Website for the local Vue meetup group in Dublin, Ireland.
+- [Scale Leap](https://www.scaleleap.com/) - Custom Software Development For Amazon Sellers.
 
 ### Tutorials
 
