@@ -59,7 +59,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Sentry](https://github.com/nuxt-community/sentry-module) - Enables error logging through [Sentry](https://sentry.io).
 - [Webpack Monitor](https://github.com/nuxt-community/webpackmonitor-module) - Monitor nuxt webpack optimization metrics using [webpackmonitor](https://github.com/webpackmonitor/webpackmonitor).
 - [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js.
-- [Vuetify](https://github.com/nuxt-community/modules/tree/master/packages/vuetify) - Material Component Framework.
+- [Vuetify](https://github.com/nuxt-community/vuetify-module) - Material Component Framework.
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig) - Adds XML browser configuration support.
 - [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma) - Leverage bulma CSS.
 - [Component-cache](https://github.com/nuxt-community/modules/tree/master/packages/component-cache) - The vue-server-renderer has built-in support for component-level caching. This module automatically adds a LRU cache to project.
