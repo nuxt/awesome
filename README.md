@@ -142,6 +142,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Sarah Drasner - Animating Vue | VueConf 2017](https://youtu.be/gJDyhmL9O_E?t=23m48s)
 - [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks | Google I/O '17](https://youtu.be/aCMbSyngXB4?t=34m45s)
 - [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
+- [Google - Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Showcase
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
