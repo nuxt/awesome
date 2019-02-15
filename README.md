@@ -209,6 +209,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [PusatMarket](https://pusatmarket.com/) - PusatMarket is a marketplace that built with Nuxt.js.
 - [VueJS Dublin](https://www.vuejsdublin.com/) - Website for the local Vue meetup group in Dublin, Ireland.
 - [Scale Leap](https://www.scaleleap.com/) - Custom Software Development For Amazon Sellers.
+- [El Cable Amarillo](https://www.elcableamarillo.cc/) - Open source project for the use of programming and robotics in educational centers using software tools and free hardware.
 
 ### Tutorials
 
