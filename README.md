@@ -359,7 +359,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Beerbay](https://beerbay.net/) - Beerbay is a craft beer e-commerce built with NUXT and WP api.
 - [alibaba.aero](https://www.alibaba.aero) - Alibaba Travels Co is Iran's leading travel website built with Nuxt.js.
 - [vue-org-chart](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
-- [前站导航](https://www.frontendjs.com/) - 基于nuxt.js构建的前端导航网站，收录关于前端的网址、社区、文档
+- [frontendjs](https://www.frontendjs.com/) - Front-end navigation website, including web sites, communities, documents about the front-end.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
