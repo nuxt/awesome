@@ -134,7 +134,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-payload-extractor](https://github.com/DreaMinder/nuxt-payload-extractor) - Module that saves external API data to static JSON files on 'nuxt generate' command, making your project fully static.
 - [cloudcms-nuxt](https://github.com/gitana/cloudcms-nuxt) - Cloud CMS Nuxt integration.
 - [nuxt-vue-multiselect](https://github.com/spektrummedia/nuxt-vue-multiselect) - Single / multiple select plugin for Nuxt.js using vue-multiselect.
-- [Nuxt Optimized Images](https://github.com/bazzite/nuxt-optimized-images) - Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
+- [nuxt-optimized-images](https://github.com/bazzite/nuxt-optimized-images) - Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
+- [nuxt-netlify](https://github.com/bazzite/nuxt-netlify) - Dynamically generate `_headers` and `_redirects` files for Netlify in your Nuxt.js projects.
+
 
 ### Tools
 
@@ -317,6 +319,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Projects Using Nuxt.js
 
+- [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches  content from Strapi using Apollo.
 - [sum.cumo](https://www.sumcumo.com/en) - Sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
 - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
 - [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
