@@ -216,6 +216,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [VueJS Dublin](https://www.vuejsdublin.com/) - Website for the local Vue meetup group in Dublin, Ireland.
 - [Scale Leap](https://www.scaleleap.com/) - Custom Software Development For Amazon Sellers.
 - [El Cable Amarillo](https://www.elcableamarillo.cc/) - Open source project for the use of programming and robotics in educational centers using software tools and free hardware.
+- [Zip Stores](https://zip.co/stores/) - Zip Pay and Zip Money Stores Directory. Zip is simple, fair and transparent credit and payment solutions that improve lives every day. We allow people to own the things they love now, and pay later, interest free.
 
 ### Tutorials
 
