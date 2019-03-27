@@ -368,6 +368,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [alibaba.aero](https://www.alibaba.aero) - Alibaba Travels Co is Iran's leading travel website built with Nuxt.js.
 - [vue-org-chart](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), free and no webserver required.
 - [Ide.ma](https://ide.ma/) - Personal blog built with Vue.js, Nuxt.js and a Laravel driven backend.
+- [i-consent.network](https://i-consent.network) - Master thesis driven by Nuxt.js and Storyblok.
 - [FoodFire.info](https://foodfire.info/) - Simple Food Ordering PWA app built with Nuxt.js + Firebase.
 
 
