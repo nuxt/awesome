@@ -371,6 +371,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Ide.ma](https://ide.ma/) - Personal blog built with Vue.js, Nuxt.js and a Laravel driven backend.
 - [i-consent.network](https://i-consent.network) - Master thesis driven by Nuxt.js and Storyblok.
 - [FoodFire.info](https://foodfire.info/) - Simple Food Ordering PWA app built with Nuxt.js + Firebase.
+- [lepshey.ru](https://lepshey.ru/) - SSR and PWA studio site.
 
 
 > Please don't hesitate to make a PR if you have more resources to share.
