@@ -154,6 +154,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Google - Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Showcase
+- [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern) - Artifical Intelligence platform for Disasters.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
@@ -283,6 +284,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-community/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js.
 - [nuxt-community/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template.
 - [nuxt-community/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
+- [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz) - Laravel + Nuxt.js using the official proxy jmodule
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork.
 - [nuxt-community/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express.
