@@ -154,7 +154,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Google - Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Showcase
-- [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern) - Artifical Intelligence platform for Disasters.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
@@ -219,6 +218,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [El Cable Amarillo](https://www.elcableamarillo.cc/) - Open source project for the use of programming and robotics in educational centers using software tools and free hardware.
 - [Zip Stores](https://zip.co/stores/) - Zip Pay and Zip Money Stores Directory. Zip is simple, fair and transparent credit and payment solutions that improve lives every day. We allow people to own the things they love now, and pay later, interest free.
 - [61 Financial News](https://news.61financial.com.au) - Australia financial news platform for Chinese readers, powered by Nuxt.js with best practices and well-tuned performance.
+- [OneConcern](https://oneconcern.com) [source](https://github.com/acidjazz/oneconcern) - Artifical Intelligence platform for Disasters.
 
 ### Tutorials
 
@@ -284,7 +284,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-community/electron](https://github.com/nuxt-community/electron-template) - Electron starter with nuxt.js.
 - [nuxt-community/pwa](https://github.com/nuxt-community/pwa-template) - PWA template for vue-cli based on the starter template.
 - [nuxt-community/typescript](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js.
-- [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz) - Laravel + Nuxt.js using the official proxy jmodule
 - [vueniverse](https://github.com/rlindskog/vueniverse) - Vueniverse is a full-stack JavaScript starter project.
 - [liyanlong/nuxt-egg](https://github.com/liyanlong/nuxt-egg) - Nuxt.js + Egg FrameWork.
 - [nuxt-community/micro](https://github.com/nuxt-community/nuxt-micro-template) - Starter Template for Nuxt.js with [Micro](https://github.com/zeit/micro) instead of Express.
@@ -308,6 +307,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [exeteres/electron-nuxt-ts](https://github.com/exeteres/electron-nuxt-ts) - Another Electron starter template with separation of the renderer process and the main process that fully written in TypeScript.
 - [muhibbudins/nuxt-coreui](https://github.com/muhibbudins/nuxt-coreui) - Unofficial Nuxt + CoreUI project, free to use boilerplate for every need.
 - [Tarrask/sails-template](https://github.com/Tarrask/sails-template) - Starter template for Nuxt.js with Sails.js.
+- [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - by [@acidjazz](https://github.com/acidjazz) - Laravel + Nuxt.js using the official proxy jmodule
 
 ### Docker
 
