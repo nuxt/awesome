@@ -38,8 +38,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 - [YouTube](https://www.youtube.com/channel/UCJ9jj5YMzo-HsyM6WG9Q_Lg)
 - [Twitter](https://twitter.com/nuxt_js)
-- [Gitter Chat Room](https://gitter.im/nuxt/nuxt.js)
-- [Discord](https://discordapp.com/invite/VApZF5W)
+- [Discord](https://discord.nuxtjs.org)
 
 ### Modules
 
@@ -137,6 +136,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-optimized-images](https://github.com/bazzite/nuxt-optimized-images) - Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
 - [nuxt-netlify](https://github.com/bazzite/nuxt-netlify) - Dynamically generate `_headers` and `_redirects` files for Netlify in your Nuxt.js projects.
 - [nuxt-shopify](https://github.com/Gomah/nuxt-shopify) - Seamless Shopify Buy SDK integration with Nuxt.js.
+- [nuxt-ghost-starter](https://github.com/Maxbrain0/nuxt-ghost-starter) - Generate a static blog using Ghost's Content API.
 
 
 ### Tools
@@ -219,6 +219,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [El Cable Amarillo](https://www.elcableamarillo.cc/) - Open source project for the use of programming and robotics in educational centers using software tools and free hardware.
 - [Zip Stores](https://zip.co/stores/) - Zip Pay and Zip Money Stores Directory. Zip is simple, fair and transparent credit and payment solutions that improve lives every day. We allow people to own the things they love now, and pay later, interest free.
 - [61 Financial News](https://news.61financial.com.au) - Australia financial news platform for Chinese readers, powered by Nuxt.js with best practices and well-tuned performance.
+- [OneConcern](https://oneconcern.com) ([source](https://github.com/acidjazz/oneconcern)) - Artifical Intelligence platform for Disasters.
 
 ### Tutorials
 
@@ -307,6 +308,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [exeteres/electron-nuxt-ts](https://github.com/exeteres/electron-nuxt-ts) - Another Electron starter template with separation of the renderer process and the main process that fully written in TypeScript.
 - [muhibbudins/nuxt-coreui](https://github.com/muhibbudins/nuxt-coreui) - Unofficial Nuxt + CoreUI project, free to use boilerplate for every need.
 - [Tarrask/sails-template](https://github.com/Tarrask/sails-template) - Starter template for Nuxt.js with Sails.js.
+- [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - Laravel + Nuxt.js using the official proxy module.
 
 ### Docker
 
