@@ -139,6 +139,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-netlify](https://github.com/bazzite/nuxt-netlify) - Dynamically generate `_headers` and `_redirects` files for Netlify in your Nuxt.js projects.
 - [nuxt-shopify](https://github.com/Gomah/nuxt-shopify) - Seamless Shopify Buy SDK integration with Nuxt.js.
 - [nuxt-ghost-starter](https://github.com/Maxbrain0/nuxt-ghost-starter) - Generate a static blog using Ghost's Content API.
+- [nuxt-zendesk](https://github.com/DansMaCulotte/nuxt-zendesk) - Nuxt module for Zendesk Web Widget.
 
 
 ### Tools
