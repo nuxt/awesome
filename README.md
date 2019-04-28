@@ -93,6 +93,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Simple Line Icons](https://github.com/vaso2/nuxt-simple-line-icons) - Simple Line Icons for Nuxt.
 - [nuxt-sass-resources-loader](https://github.com/anteriovieira/nuxt-sass-resources-loader) - SASS resources (e.g. variables, mixins etc.) module for NuxtJs.
 - [laravel-nuxt](https://github.com/skyrpex/laravel-nuxt-js) - Build a SPA with Laravel and Nuxt.
+- [nuxt-laravel](https://github.com/m2sd/nuxt-laravel) - Updated version of laravel-nuxt that exteds nuxt cli command.
 - [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR.
 - [Buefy](https://github.com/buefy/nuxt-buefy) - Lightweight UI components for Vue.js based on Bulma for Nuxt.
 - [Font Awesome 5](https://github.com/vaso2/nuxt-fontawesome) - Alternative module for Fontawesome 5 integration with ES6 imports and tree shaking.
