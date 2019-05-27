@@ -380,6 +380,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [lepshey.ru](https://lepshey.ru/) - SSR and PWA studio site.
 - [utilex.pe](https://utilex.pe/) - Ecommerce website for stationery, items office, educational toys, built with Vue.js, Nuxt.js and use Laravel APIs.
 - [Maisons du Monde](https://www.maisonsdumonde.com) - Ecommerce website for furnitures and home decor.
+- [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
