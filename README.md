@@ -387,7 +387,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [utilex.pe](https://utilex.pe/) - Ecommerce website for stationery, items office, educational toys, built with Vue.js, Nuxt.js and use Laravel APIs.
 - [Maisons du Monde](https://www.maisonsdumonde.com) - Ecommerce website for furnitures and home decor.
 - [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
-- [Social Design](https://www.thesocial.design) - Meta tags generator built. Built with Nuxt and Element UI.
+- [Social Design](https://www.thesocial.design) - Meta tag generator. Built with Nuxt and Element UI.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
