@@ -142,7 +142,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-zendesk](https://github.com/DansMaCulotte/nuxt-zendesk) - Nuxt module for Zendesk Web Widget.
 - [nuxt-feature-toggle](https://github.com/stephenkr/nuxt-feature-toggle) - Nuxt module for managing feature toggles.
 - [wuxt](https://github.com/northosts/wuxt) - Dockerized headless WordPress + Nuxt.js development environment.
-
+- [nuxt-helmet](https://github.com/victor-perez/nuxt-helmet) - Easy [Helmet](https://helmetjs.github.io/) integration with Nuxt.js.
 
 ### Tools
 
