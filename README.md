@@ -320,6 +320,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Tarrask/sails-template](https://github.com/Tarrask/sails-template) - Starter template for Nuxt.js with Sails.js.
 - [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - Laravel + Nuxt.js using the official proxy module.
 - [marinaaisa/nuxt-markdown-blog-starter](https://github.com/marinaaisa/nuxt-markdown-blog-starter) - Multilingual blog and portfolio starter using Nuxt and Markdown.
+- [electron-nuxt](https://github.com/michalzaq12/electron-nuxt) - Electron quick start boilerplate with vue-cli scaffolding ⚡.
 
 ### Docker
 
