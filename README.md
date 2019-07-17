@@ -142,6 +142,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-zendesk](https://github.com/DansMaCulotte/nuxt-zendesk) - Nuxt module for Zendesk Web Widget.
 - [nuxt-feature-toggle](https://github.com/stephenkr/nuxt-feature-toggle) - Nuxt module for managing feature toggles.
 - [wuxt](https://github.com/northosts/wuxt) - Dockerized headless WordPress + Nuxt.js development environment.
+- [nuxt-parse](https://github.com/cierrateam/nuxt-parse) - Integration of the Parse SDK (javascript) in Nuxt.js.
 
 
 ### Tools
@@ -228,6 +229,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Icons8](https://icons8.com/) - Free Design Resources and Software.
 - [SUSHI](https://sushi.partners) - :sushi: Still Undergoing Severe Hassle with Irritating paperwork? = SUSHI, Document generator for establishing company in Japan.
 - [benjaminstirrup.com](https://benjaminstirrup.com/) - Benjamin Stirrup's freelance and portfolio website based on Nuxt.js.
+- [Asociación Programo Ergo Sum](https://www.programoergosum.es/) - Open source project to learn programming at school. Non-profit organization.
 
 ### Tutorials
 
@@ -317,6 +319,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [muhibbudins/nuxt-coreui](https://github.com/muhibbudins/nuxt-coreui) - Unofficial Nuxt + CoreUI project, free to use boilerplate for every need.
 - [Tarrask/sails-template](https://github.com/Tarrask/sails-template) - Starter template for Nuxt.js with Sails.js.
 - [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - Laravel + Nuxt.js using the official proxy module.
+- [marinaaisa/nuxt-markdown-blog-starter](https://github.com/marinaaisa/nuxt-markdown-blog-starter) - Multilingual blog and portfolio starter using Nuxt and Markdown.
 
 ### Docker
 
@@ -387,6 +390,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Maisons du Monde](https://www.maisonsdumonde.com) - Ecommerce website for furnitures and home decor.
 - [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
 - [xuanmo.xin](https://www.xuanmo.xin) - Use the Nuxt + WordPress reset api to create a wordpress theme.
+- [Social Design](https://www.thesocial.design) - Meta tag generator. Built with Nuxt and Element UI.
+
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
