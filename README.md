@@ -228,6 +228,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Icons8](https://icons8.com/) - Free Design Resources and Software.
 - [SUSHI](https://sushi.partners) - :sushi: Still Undergoing Severe Hassle with Irritating paperwork? = SUSHI, Document generator for establishing company in Japan.
 - [benjaminstirrup.com](https://benjaminstirrup.com/) - Benjamin Stirrup's freelance and portfolio website based on Nuxt.js.
+- [Asociación Programo Ergo Sum](https://www.programoergosum.es/) - Open source project to learn programming at school. Non-profit organization.
 
 ### Tutorials
 
