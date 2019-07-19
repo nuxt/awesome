@@ -84,10 +84,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [ReCaptcha](https://github.com/nuxt-community/recaptcha-module) - Simple and easy Google reCAPTCHA integration with Nuxt.js
 
 #### Community
-
-- [nuxt-axios-duplicate-blocker](https://www.npmjs.com/package/nuxt-axios-duplicate-blocker) - Nuxt module that adds axios interceptors in order to block duplicate API requests and return results from the latest request to all callee functions. It can also be optionally used to cancel active requests when switching between pages.
-- [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt.
-- [WP-API](https://github.com/yashha/wp-nuxt) - Easy WordPress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app.
 - [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js.
 - [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter.
 - [Vue Material](https://github.com/vaso2/nuxt-vue-material) - Vue Material framework integration with Nuxt.
@@ -145,7 +141,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [wuxt](https://github.com/northosts/wuxt) - Dockerized headless WordPress + Nuxt.js development environment.
 - [nuxt-helmet](https://github.com/victor-perez/nuxt-helmet) - Easy [Helmet](https://helmetjs.github.io/) integration with Nuxt.js.
 - [nuxt-parse](https://github.com/cierrateam/nuxt-parse) - Integration of the Parse SDK (javascript) in Nuxt.js.
-
+- [WP-API](https://github.com/yashha/wp-nuxt) - Easy WordPress Api [WP-API](https://github.com/WP-API/node-wpapi) integration for you Nuxt app.
+- [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt.
+- [nuxt-axios-duplicate-blocker](https://www.npmjs.com/package/nuxt-axios-duplicate-blocker) - Nuxt module that adds axios interceptors in order to block duplicate API requests and return results from the latest request to all callee functions. It can also be optionally used to cancel active requests when switching between pages.
 ### Tools
 
 - [nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for Nuxt.js.
