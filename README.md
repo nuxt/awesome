@@ -229,6 +229,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [SUSHI](https://sushi.partners) - :sushi: Still Undergoing Severe Hassle with Irritating paperwork? = SUSHI, Document generator for establishing company in Japan.
 - [benjaminstirrup.com](https://benjaminstirrup.com/) - Benjamin Stirrup's freelance and portfolio website based on Nuxt.js.
 - [Asociación Programo Ergo Sum](https://www.programoergosum.es/) - Open source project to learn programming at school. Non-profit organization.
+- [Soane Britain](https://www.soane.co.uk/) - High end furniture catalogue, PWA built with Nuxt.js powered by Magento 2 and Wordpress.
 
 ### Tutorials
 
@@ -275,6 +276,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [VPS Deployment manual for Nuxt.js](https://gist.github.com/DreaMinder/e9fc988295378d8373521a93c3ca6d18)
 - [Selectively enable SSR or SPA mode](https://blog.lichter.io/posts/selectively-enable-ssr-or-spa-mode-in-a-nuxtjs-ap?ref=awesome-nuxt)
 - [Creating a Nuxt application with Typescript, Koa and Serverless](https://www.linkedin.com/pulse/nuxt-typescript-koa-serverless-edison-harada/)
+- [How to reduce the size of Nuxt files in 10%-20% with Brotli + Cloudfront](https://www.linkedin.com/pulse/how-use-brotli-cloudfront-nuxt-serverless-edison-harada/)
 
 ### Blogs
 
@@ -393,7 +395,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
 - [xuanmo.xin](https://www.xuanmo.xin) - Use the Nuxt + WordPress reset api to create a wordpress theme.
 - [Social Design](https://www.thesocial.design) - Meta tag generator. Built with Nuxt and Element UI.
-- [OmarAziz.xyz](https://omaraziz.xyz) - Personal Website using Nuxt and Vuetify
+- [OmarAziz.xyz](https://omaraziz.xyz) - Personal Website using Nuxt and Vuetify.
+- [Opa](https://github.com/credija/opa) - Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
