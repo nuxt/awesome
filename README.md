@@ -276,6 +276,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [VPS Deployment manual for Nuxt.js](https://gist.github.com/DreaMinder/e9fc988295378d8373521a93c3ca6d18)
 - [Selectively enable SSR or SPA mode](https://blog.lichter.io/posts/selectively-enable-ssr-or-spa-mode-in-a-nuxtjs-ap?ref=awesome-nuxt)
 - [Creating a Nuxt application with Typescript, Koa and Serverless](https://www.linkedin.com/pulse/nuxt-typescript-koa-serverless-edison-harada/)
+- [How to reduce the size of Nuxt files in 10%-20% with Brotli + Cloudfront](https://www.linkedin.com/pulse/how-use-brotli-cloudfront-nuxt-serverless-edison-harada/)
 
 ### Blogs
 
