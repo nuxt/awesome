@@ -323,13 +323,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [exeteres/electron-nuxt-ts](https://github.com/exeteres/electron-nuxt-ts) - Another Electron starter template with separation of the renderer process and the main process that fully written in TypeScript.
 - [muhibbudins/nuxt-coreui](https://github.com/muhibbudins/nuxt-coreui) - Unofficial Nuxt + CoreUI project, free to use boilerplate for every need.
 - [Tarrask/sails-template](https://github.com/Tarrask/sails-template) - Starter template for Nuxt.js with Sails.js.
+- [tomimick/tm-nuxtjs-starter](https://github.com/tomimick/tm-nuxtjs-starter) - A minimal starter/demo with axios/localstorage, SASS, static site export, live demo.
 - [Laranuxt boilerplate](https://github.com/acidjazz/laranuxt) - Laravel + Nuxt.js using the official proxy module.
 - [marinaaisa/nuxt-markdown-blog-starter](https://github.com/marinaaisa/nuxt-markdown-blog-starter) - Multilingual blog and portfolio starter using Nuxt and Markdown.
 - [GrabarzUndPartner/gp-vue-boilerplate](https://github.com/GrabarzUndPartner/gp-vue-boilerplate) - professional agency frontend template for building fast, robust, and adaptable web apps or sites by vuejs/nuxtjs.
 - [electron-nuxt](https://github.com/michalzaq12/electron-nuxt) - Electron quick start boilerplate with vue-cli scaffolding ⚡.
 - [nuxt-contentful-starter](https://github.com/equinusocio/nuxt-contentful-starter) - Nuxt starter based on @contentful and @postcss.
 - [RKnuxtstarterkit](https://github.com/RadKod/RKnuxtstarterkit) - Nuxt.js starter template (axios, style resources module, modular vuex store, etc).
-
 
 ### Docker
 
