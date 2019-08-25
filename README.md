@@ -156,11 +156,11 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Mention of Nuxt.js
 
-- [Evan You - State of Vue | VueConf 2017](https://youtu.be/lG0Ys-2d4MA?t=9m25s)
-- [Sean Larkin - (Webpack) Code splitting patterns in Vue.js | VueConf 2017](https://youtu.be/rn97hCNQsKI?t=12m20s)
-- [Sarah Drasner - Animating Vue | VueConf 2017](https://youtu.be/gJDyhmL9O_E?t=23m48s)
-- [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks | Google I/O '17](https://youtu.be/aCMbSyngXB4?t=34m45s)
-- [Guillermo Rauch - Static and Dynamic Next.js | JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
+- [Evan You - State of Vue \| VueConf 2017](https://youtu.be/lG0Ys-2d4MA?t=9m25s)
+- [Sean Larkin - (Webpack) Code splitting patterns in Vue.js \| VueConf 2017](https://youtu.be/rn97hCNQsKI?t=12m20s)
+- [Sarah Drasner - Animating Vue \| VueConf 2017](https://youtu.be/gJDyhmL9O_E?t=23m48s)
+- [Addy Osmani - Production Progressive Web Apps With JavaScript Frameworks \| Google I/O '17](https://youtu.be/aCMbSyngXB4?t=34m45s)
+- [Guillermo Rauch - Static and Dynamic Next.js \| JSHeroes 2017](https://youtu.be/lLNJsuXB4CI?t=36m50s)
 - [Google - Rendering on the Web](https://developers.google.com/web/updates/2019/02/rendering-on-the-web)
 
 ### Showcase
@@ -191,7 +191,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
 - [MODULE-5.com](https://module-5.com/en/) - Industrial company site with portfolio, i18n.
 - [academind.com](https://academind.com) - Online Education Site built with Nuxt.js (and teaching Nuxt.js!).
-- [Holadu.com](https://holadu.com) - Holadu | Find events near you.
+- [Holadu.com](https://holadu.com) - Holadu \| Find events near you.
 - [Cambridge Epigenetix](https://cambridge-epigenetix.com/) - Cambridge Epigenetix is pioneering the development and application of novel epigenetics-based diagnostics and therapeutics that will revolutionise the way we detect and treat disease.
 - [Developmint.de](https://developmint.de/?ref=awesome-nuxt) - Company page built with NuxtJS and TailwindCSS, including i18n, meta/og-tags and more!
 - [Maestromusic.today](https://maestromusic.today) - Classical music platform built with NuxtJS and WordPress REST API.
