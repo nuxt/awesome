@@ -406,6 +406,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [OmarAziz.xyz](https://omaraziz.xyz) - Personal Website using Nuxt and Vuetify.
 - [Opa](https://github.com/credija/opa) - Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI.
 - [Akunyi](https://akunyi.com) - Charity Website.
+- [Steamstats.cn](https://steamstats.cn) - A website built by nuxt and vuetify aiming at good statistic of steam online players.
+- [dota2sites.com](https://dota2sites.com) - Dota2 and CSGO case opening ranking site built by nuxt.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
