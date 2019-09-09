@@ -235,6 +235,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Asociación Programo Ergo Sum](https://www.programoergosum.es/) - Open source project to learn programming at school. Non-profit organization.
 - [Vendic](https://vendic.nl/) - Vendic is a Dutch Magento 2 and PWA agency who build their own corporate website with Nuxt.Js.
 - [Soane Britain](https://www.soane.co.uk/) - High end furniture catalogue, PWA built with Nuxt.js powered by Magento 2 and Wordpress.
+- [snakit.in](https://www.snakit.in) - A static Nuxt.js site for an Indian snacks company.
+- [pmplgroup.com](https://www.pmplgroup.com/) - A completely static Nuxt.js website using Bulma.
 
 ### Tutorials
 
