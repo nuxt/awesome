@@ -106,7 +106,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-typescript](https://github.com/wagerfield/nuxt-typescript) - Lightening fast type checking and linting with TypeScript and TSLint.
 - [nurdism/nuxtjs-electron](https://github.com/nurdism/nuxtjs-electron) - Utility module that helps you work with electron inside nuxt.
 - [nuxt-babel](https://github.com/wemake-services/nuxt-babel) - Use normal `.babelrc` file with your Nuxt app.
-- [nuxt-bugsnag](https://github.com/JulianMar/nuxt-bugsnag) - Use bugsnag as module.
 - [nuxt-imagemin](https://github.com/wemake-services/nuxt-imagemin) - Nuxt module to minify your images. Works with: `png`, `jpeg`, `gif`, and `svg`.
 - [nuxt-neo](https://github.com/ezypeeze/nuxt-neo) - Create your middleware api using a universal access point approach from your vue pages.
 - [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - vue-mq module for Nuxt.js.
@@ -148,6 +147,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt.
 - [nuxt-axios-duplicate-blocker](https://www.npmjs.com/package/nuxt-axios-duplicate-blocker) - Nuxt module that adds axios interceptors in order to block duplicate API requests and return results from the latest request to all callee functions. It can also be optionally used to cancel active requests when switching between pages.
 - [nuxt-mobile-detect](https://github.com/ChanningDefoe/nuxt-mobile-detect) - Nuxt module for detecting the users device client-side and server-side.
+- [nuxt-bugsnag](https://github.com/JulianMar/nuxt-bugsnag) - Use bugsnag as module.
 
 ### Tools
 
