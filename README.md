@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img width="153" height="153" src="https://imgur.com/V4LtoII.png" />
+    <img width="153" height="154" src="https://nuxtjs.org/meta_400.png" />
   <br>
   <br>
   <br>
