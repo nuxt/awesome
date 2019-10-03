@@ -1,6 +1,6 @@
 <p align="center">
   <br>
-    <img width="153" height="153" src="https://imgur.com/V4LtoII.png" />
+    <img width="153" height="154" src="https://nuxtjs.org/meta_400.png" />
   <br>
   <br>
   <br>
@@ -83,6 +83,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [SVG Sprite](https://github.com/nuxt-community/svg-sprite-module) - Optimized and Easy way to use SVG files in Nuxt.js
 - [ReCaptcha](https://github.com/nuxt-community/recaptcha-module) - Simple and easy Google reCAPTCHA integration with Nuxt.js
 - [Device](https://github.com/nuxt-community/device-module) - Device detection module for Nuxt.js
+- [TailwindCSS](https://github.com/nuxt-community/nuxt-tailwindcss) - TailwindCSS module for Nuxt.js with PurgeCSS
 - [AMP](https://github.com/nuxt-community/amp-module) - AMP module for Nuxt.
 
 #### Community
@@ -156,6 +157,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for Nuxt.js.
 - [acidjazz/aeonian](https://github.com/acidjazz/aeonian) - Automate the deployment of your Nuxt.js project on AWS S3 + CloudFront.
 - [nuxt-memwatch](https://github.com/pimlie/nuxt-memwatch) - Quickly watch real-time memory stats of your Nuxt app.
+- [create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Official scaffolding tool for Nuxt.js projects. Create a Nuxt.js project in seconds.
 
 ### Mention of Nuxt.js
 
