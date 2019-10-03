@@ -84,6 +84,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [ReCaptcha](https://github.com/nuxt-community/recaptcha-module) - Simple and easy Google reCAPTCHA integration with Nuxt.js
 - [Device](https://github.com/nuxt-community/device-module) - Device detection module for Nuxt.js
 - [TailwindCSS](https://github.com/nuxt-community/nuxt-tailwindcss) - TailwindCSS module for Nuxt.js with PurgeCSS
+- [AMP](https://github.com/nuxt-community/amp-module) - AMP module for Nuxt.
 
 #### Community
 - [BootstrapVue](https://bootstrap-vue.js.org/docs/#nuxt-js) - Bootstrap v4 components and grid system for Nuxt.js.
