@@ -247,9 +247,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Tutorials
 
-[nuxt-v1-label]: media/nuxt-v1-label.png "Nuxt.js v1"
-[nuxt-v2-label]: media/nuxt-v2-label.png "Nuxt.js v2"
-[nuxt-v3-label]: media/nuxt-v3-label.png "Nuxt.js v3"
+[nuxt-v1-label]: media/nuxt-v1-label.svg "Nuxt.js v1"
+[nuxt-v2-label]: media/nuxt-v2-label.svg "Nuxt.js v2"
+[nuxt-v3-label]: media/nuxt-v3-label.svg "Nuxt.js v3"
 
 > The labels show the Nuxt.js versions that were available at that time.
 
