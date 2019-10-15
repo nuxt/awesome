@@ -112,7 +112,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-imagemin](https://github.com/wemake-services/nuxt-imagemin) - Nuxt module to minify your images. Works with: `png`, `jpeg`, `gif`, and `svg`.
 - [nuxt-neo](https://github.com/ezypeeze/nuxt-neo) - Create your middleware api using a universal access point approach from your vue pages.
 - [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - Vue MQ module for Nuxt.js.
-- [kenticocloud-nuxt-module](https://github.com/Domitnator/kenticocloud-nuxt-module) - Add Kentico Cloud super power to your nuxt app.
+- [kentico-kontent-nuxt-module](https://github.com/Domitnator/kentico-kontent-nuxt-module) - Add Kentico Kontent super power to your Nuxt app.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
 - [Nuxt Vuex Router Sync](https://github.com/paulgv/nuxt-vuex-router-sync) - [vuex-router-sync](https://github.com/vuejs/vuex-router-sync) integration for Nuxt.
