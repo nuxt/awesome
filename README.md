@@ -245,6 +245,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Soane Britain](https://www.soane.co.uk/) - High end furniture catalogue, PWA built with Nuxt.js powered by Magento 2 and Wordpress.
 - [snakit.in](https://www.snakit.in) - A static Nuxt.js site for an Indian snacks company.
 - [pmplgroup.com](https://www.pmplgroup.com/) - A completely static Nuxt.js website using Bulma.
+- [36 Pixels agency](https://www.36pixels.fr) - French website agency made with Nuxt.js.
 
 ### Tutorials
 
