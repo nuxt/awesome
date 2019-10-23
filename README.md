@@ -153,6 +153,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-bugsnag](https://github.com/JulianMar/nuxt-bugsnag) - Use bugsnag as module.
 - [nuxt-vue-select](https://github.com/madmod/nuxt-vue-select) - Nuxt module for [vue-select](https://vue-select.org/).
 - [nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt module for [socket.io-client](https://github.com/socketio/socket.io-client)! Easy! Works with Nuxt 2.x.
+- [nuxt-seomatic-meta](https://github.com/ben-rogerson/nuxt-seomatic-meta) - A module connecting Nuxt.js to the Craft CMS SEOmatic plugin via GraphQL.
 
 ### Tools
 
