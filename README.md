@@ -246,6 +246,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [snakit.in](https://www.snakit.in) - A static Nuxt.js site for an Indian snacks company.
 - [pmplgroup.com](https://www.pmplgroup.com/) - A completely static Nuxt.js website using Bulma.
 - [36 Pixels agency](https://www.36pixels.fr) - French website agency made with Nuxt.js.
+- [JessFlix](https://www.jessflix.com) - A website built for the movie review channel, JessFlix, running entirely on a Nuxt production server. Uses a Wordpress backend, and the YouTube API to curate video content.
 
 ### Tutorials
 
