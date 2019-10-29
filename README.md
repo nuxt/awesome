@@ -247,6 +247,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [snakit.in](https://www.snakit.in) - A static Nuxt.js site for an Indian snacks company.
 - [pmplgroup.com](https://www.pmplgroup.com/) - A completely static Nuxt.js website using Bulma.
 - [36 Pixels agency](https://www.36pixels.fr) - French website agency made with Nuxt.js.
+- [We Are Apartments](https://weareapartments.org/) ([source](https://github.com/acidjazz/waa)) We Are Apartments - helping people live in a home that's right for them.
 
 ### Tutorials
 
