@@ -94,6 +94,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Simple Line Icons](https://github.com/vaso2/nuxt-simple-line-icons) - Simple Line Icons for Nuxt.
 - [nuxt-sass-resources-loader](https://github.com/anteriovieira/nuxt-sass-resources-loader) - SASS resources (e.g. variables, mixins etc.) module for NuxtJs.
 - [laravel-nuxt](https://github.com/skyrpex/laravel-nuxt-js) - Build a SPA with Laravel and Nuxt.
+- [nuxt-laravel](https://github.com/m2sd/nuxt-laravel) - Updated version of laravel-nuxt that exteds nuxt cli command.
 - [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR.
 - [Buefy](https://github.com/buefy/nuxt-buefy) - Lightweight UI components for Vue.js based on Bulma for Nuxt.
 - [Font Awesome 5](https://github.com/vaso2/nuxt-fontawesome) - Alternative module for Fontawesome 5 integration with ES6 imports and tree shaking.
@@ -153,6 +154,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-bugsnag](https://github.com/JulianMar/nuxt-bugsnag) - Use bugsnag as module.
 - [nuxt-vue-select](https://github.com/madmod/nuxt-vue-select) - Nuxt module for [vue-select](https://vue-select.org/).
 - [nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt module for [socket.io-client](https://github.com/socketio/socket.io-client)! Easy! Works with Nuxt 2.x.
+- [nuxt-seomatic-meta](https://github.com/ben-rogerson/nuxt-seomatic-meta) - A module connecting Nuxt.js to the Craft CMS SEOmatic plugin via GraphQL.
+- [nuxt-chuck](https://bitbucket.org/thecodetheorist/nuxt-chuck) - Nuxt module for displaying a random Chuck Norris joke in your NuxtJS app. Comes complete with it's own database and also uses VueX.
 
 ### Tools
 
@@ -235,7 +238,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [El Cable Amarillo](https://www.elcableamarillo.cc/) - Open source project for the use of programming and robotics in educational centers using software tools and free hardware.
 - [Zip Stores](https://zip.co/stores/) - Zip Pay and Zip Money Stores Directory. Zip is simple, fair and transparent credit and payment solutions that improve lives every day. We allow people to own the things they love now, and pay later, interest free.
 - [61 Financial News](https://news.61financial.com.au) - Australia financial news platform for Chinese readers, powered by Nuxt.js with best practices and well-tuned performance.
-- [OneConcern](https://oneconcern.com) ([source](https://github.com/acidjazz/oneconcern)) - Artifical Intelligence platform for Disasters.
+- [OneConcern](https://oneconcern.com) - Artifical Intelligence platform for Disasters ([source](https://github.com/acidjazz/oneconcern)).
 - [Pilot](https://pilot.com.au) - Online doctor consultation, Ecommerce Progressive Web Application made with Nuxt.js & Prisma.
 - [Icons8](https://icons8.com/) - Free Design Resources and Software.
 - [SUSHI](https://sushi.partners) - Still Undergoing Severe Hassle with Irritating paperwork? = SUSHI, Document generator for establishing company in Japan. 🍣
@@ -247,12 +250,14 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [pmplgroup.com](https://www.pmplgroup.com/) - A completely static Nuxt.js website using Bulma.
 - [36 Pixels agency](https://www.36pixels.fr) - French website agency made with Nuxt.js.
 - [JessFlix](https://www.jessflix.com) - A website built for the movie review channel, JessFlix, running entirely on a Nuxt production server. Uses a Wordpress backend, and the YouTube API to curate video content.
+- [Vue SoundCloud](https://vue-soundcloud.herokuapp.com) - A SoundCloud client built with Vue and Nuxt.
+- [We Are Apartments](https://weareapartments.org/) ([source](https://github.com/acidjazz/waa)) We Are Apartments - helping people live in a home that's right for them.
 
 ### Tutorials
 
-[nuxt-v1-label]: media/nuxt-v1-label.svg "Nuxt.js v1"
-[nuxt-v2-label]: media/nuxt-v2-label.svg "Nuxt.js v2"
-[nuxt-v3-label]: media/nuxt-v3-label.svg "Nuxt.js v3"
+[nuxt-v1-label]: media/nuxt-v1-label.svg 'Nuxt.js v1'
+[nuxt-v2-label]: media/nuxt-v2-label.svg 'Nuxt.js v2'
+[nuxt-v3-label]: media/nuxt-v3-label.svg 'Nuxt.js v3'
 
 > The labels show the Nuxt.js versions that were available at that time.
 
@@ -262,7 +267,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 <br>
 ![Nuxt.js v3][nuxt-v3-label] = Nuxt.js version **3**
 
-#### Tutorials published in:
+<br>
+
+**Tutorials published in:**
 
 #### 2019
 
@@ -379,6 +386,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-contentful-starter](https://github.com/equinusocio/nuxt-contentful-starter) - Nuxt starter based on @contentful and @postcss.
 - [RKnuxtstarterkit](https://github.com/RadKod/RKnuxtstarterkit) - Nuxt.js starter template (axios, style resources module, modular vuex store, etc).
 - [bovas85/nuxt-headless](https://github.com/bovas85/nuxt-headless) - Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
+- [yashha/wp-nuxt-stack-starter](https://github.com/yashha/wp-nuxt-stack-starter) - Opinionated starter featuring [Wordpress integration](https://github.com/yashha/wp-nuxt) and [Nuxt Stack](https://nuxtstack.org/) with basic SEO configuration, rss feed and sitemap.
 
 ### Docker
 
@@ -456,6 +464,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Steamstats.cn](https://steamstats.cn) - A website built by nuxt and vuetify aiming at good statistic of steam online players.
 - [dota2sites.com](https://dota2sites.com) - Dota2 and CSGO case opening ranking site built by nuxt.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
+- [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
