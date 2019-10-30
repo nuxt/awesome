@@ -1,7 +1,6 @@
 <p align="center">
   <br>
-    <img width="153" height="154" src="https://nuxtjs.org/meta_400.png" />
-  <br>
+  <img width="300" src="media/awesome-nuxt-logo.svg" alt="Awesome Nuxt.js">
   <br>
   <br>
 </p>
