@@ -464,6 +464,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [dota2sites.com](https://dota2sites.com) - Dota2 and CSGO case opening ranking site built by nuxt.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
+- [AwesomeTechStack](https://awesometechstack.com): Website Tech Stack Analyzer. Built with Nuxtjs, TailwindCSS and hosted on firebase.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
