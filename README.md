@@ -155,6 +155,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt module for [socket.io-client](https://github.com/socketio/socket.io-client)! Easy! Works with Nuxt 2.x.
 - [nuxt-seomatic-meta](https://github.com/ben-rogerson/nuxt-seomatic-meta) - A module connecting Nuxt.js to the Craft CMS SEOmatic plugin via GraphQL.
 - [nuxt-chuck](https://bitbucket.org/thecodetheorist/nuxt-chuck) - Nuxt module for displaying a random Chuck Norris joke in your NuxtJS app. Comes complete with it's own database and also uses VueX.
+- [nuxt-stories](https://github.com/richardeschloss/nuxt-stories) - Nuxt module for painless storybooking. Writing stories is as easy as writing pages. One-line in nuxt.config enables it. 
 
 ### Tools
 
