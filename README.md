@@ -288,6 +288,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Creating a Nuxt application with Typescript, Koa and Serverless](https://www.linkedin.com/pulse/nuxt-typescript-koa-serverless-edison-harada/)
 - [How to reduce the size of Nuxt files in 10%-20% with Brotli + Cloudfront](https://www.linkedin.com/pulse/how-use-brotli-cloudfront-nuxt-serverless-edison-harada/)
 - [Working with Ghost and Nuxt.js](https://ghost.org/docs/api/nuxtjs/)
+- [Build a blog with Nuxt (Vue.js), Strapi and Apollo](https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo/)
 
 #### 2018
 
