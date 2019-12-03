@@ -253,6 +253,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Vue SoundCloud](https://vue-soundcloud.herokuapp.com) - A SoundCloud client built with Vue and Nuxt.
 - [We Are Apartments](https://weareapartments.org/) ([source](https://github.com/acidjazz/waa)) We Are Apartments - helping people live in a home that's right for them.
 - [theoddwave.co.nz](https://theoddwave.co.nz/) - website builder for business startups in New Zealand using Nuxt.js, Vue.js and headless CMS.
+- [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
 
 ### Tutorials
 
