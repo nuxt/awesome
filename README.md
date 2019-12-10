@@ -470,6 +470,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
 - [Getform](https://getform.io) - Form backend platform for designers and developers.
+- [Best movies watch](https://bestmovies.watch) - Free movies streaming site. Allows you to watch full movies online without registration
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
