@@ -462,7 +462,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Maisons du Monde](https://www.maisonsdumonde.com) - Ecommerce website for furnitures and home decor.
 - [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
 - [xuanmo.xin](https://www.xuanmo.xin) - Use the Nuxt + WordPress reset api to create a wordpress theme.
-- [Social Design](https://www.thesocial.design) - Meta tag generator. Built with Nuxt and Element UI.
+- [OpenGraph](https://www.opengraph.xyz) - Open Graph Meta tags generator. Built with Nuxt and Element UI.
 - [OmarAziz.xyz](https://omaraziz.xyz) - Personal Website using Nuxt and Vuetify.
 - [Opa](https://github.com/credija/opa) - Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI.
 - [Akunyi](https://akunyi.com) - Charity Website.
