@@ -13,28 +13,18 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ## Contents
 
-- [Awesome Nuxt.js <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome">](#awesome-nuxtjs-img-src%22httpscdnrawgitcomsindresorhusawesomed7305f38d29fed78fa85652e3a63e154dd8e8829mediabadgesvg%22-alt%22awesome%22)
-- [Contents](#contents)
-  - [Official Resources](#official-resources)
-  - [Community](#community)
-  - [Modules](#modules)
-    - [Official](#official)
-    - [Community](#community-1)
-  - [Tools](#tools)
-  - [Mention of Nuxt.js](#mention-of-nuxtjs)
-  - [Showcase](#showcase)
-  - [Tutorials](#tutorials)
-    - [2019](#2019)
-    - [2018](#2018)
-    - [2017](#2017)
-    - [2016](#2016)
-  - [Blogs](#blogs)
-  - [Books](#books)
-  - [Starter Template](#starter-template)
-  - [Docker](#docker)
-  - [Official Examples](#official-examples)
-  - [Projects Using Nuxt.js](#projects-using-nuxtjs)
-- [License](#license)
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Modules](#modules)
+- [Tools](#tools)
+- [Mention of Nuxt.js](#mention-of-nuxtjs)
+- [Showcase](#showcase)
+- [Tutorials](#tutorials)
+- [Blogs](#blogs)
+- [Books](#books)
+- [Starter Template](#starter-template)
+- [Official Examples](#official-examples)
+- [Projects Using Nuxt.js](#projects-using-nuxtjs)
 
 ### Official Resources
 
@@ -472,7 +462,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Maisons du Monde](https://www.maisonsdumonde.com) - Ecommerce website for furnitures and home decor.
 - [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
 - [xuanmo.xin](https://www.xuanmo.xin) - Use the Nuxt + WordPress reset api to create a wordpress theme.
-- [OpenGraph](https://www.opengraph.xyz) - Open Graph Meta tags generator. Built with Nuxt and Element UI.
+- [Social Design](https://www.thesocial.design) - Meta tag generator. Built with Nuxt and Element UI.
 - [OmarAziz.xyz](https://omaraziz.xyz) - Personal Website using Nuxt and Vuetify.
 - [Opa](https://github.com/credija/opa) - Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI.
 - [Akunyi](https://akunyi.com) - Charity Website.
