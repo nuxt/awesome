@@ -263,6 +263,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
 - [Freshworks Marketplace](https://www.freshworks.com/apps/) - Freshworks App Marketplace with over a 1000 apps trusted by over 30,000 businesses built using Nuxt.js.
 - [hurriyetemlak.com](https://hurriyetemlak.com) - The largest real estate portal in the Turkey. Over 18 billion traffic per month. 
+- [moebelland.de](https://www.moebelland.de) - German furniture shopping aggregation site.
 
 ### Tutorials
 
