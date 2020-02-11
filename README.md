@@ -414,6 +414,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Projects Using Nuxt.js
 
+- [Amujamu](https://amujamu.com) - Amujamu has the largest collection of Thailand tours. Book your desired one for the best deal. Amujamu, the best of its kind, should be your first choice when it comes to booking tours for Thailand. Tourism Authority of Thailand (TAT) approved tours &amp; activity marketplace.
 - [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches  content from Strapi using Apollo.
 - [sum.cumo](https://www.sumcumo.com/en) - Sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
 - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
