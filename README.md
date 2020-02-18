@@ -418,6 +418,10 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Internationalization (i18n)](https://nuxtjs.org/examples/i18n) - Nuxt.js app with i18n support and implementation.
 - [Hackernews](https://github.com/nuxt/hackernews) - Nuxt.js Hackernews clone.
 
+### Community Examples
+
+- [hex-digital/nuxt-cypress-example](https://github.com/hex-digital/nuxt-cypress-example) - Examples of Cypress tests on different Nuxt functionality, including Nuxt auth and more.
+
 ### Projects Using Nuxt.js
 
 - [Amujamu](https://amujamu.com) - Amujamu has the largest collection of Thailand tours. Book your desired one for the best deal. Amujamu, the best of its kind, should be your first choice when it comes to booking tours for Thailand. Tourism Authority of Thailand (TAT) approved tours &amp; activity marketplace.
