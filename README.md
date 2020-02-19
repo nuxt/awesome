@@ -404,6 +404,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [bovas85/nuxt-headless](https://github.com/bovas85/nuxt-headless) - Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
 - [yashha/wp-nuxt-stack-starter](https://github.com/yashha/wp-nuxt-stack-starter) - Opinionated starter featuring [Wordpress integration](https://github.com/yashha/wp-nuxt) and [Nuxt Stack](https://nuxtstack.org/) with basic SEO configuration, rss feed and sitemap.
 - [suf-stack/generator-suf-stack-aws-koa-nuxt](https://github.com/suf-stack/generator-suf-stack-aws-koa-nuxt) - Serverless, Universal, Full-stack yeoman generator for AWS/Koa.js/Nuxt.js.
+- [hex-digital/nuxtpress](https://github.com/hex-digital/nuxtpress) - A modern Nuxt + headless WordPress starter kit; dockerised, SEO-friendly and with development and testing tools pre-integrated.
 
 ### Docker
 
