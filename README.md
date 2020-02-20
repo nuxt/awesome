@@ -25,6 +25,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Starter Template](#starter-template)
 - [Docker](#docker)
 - [Official Examples](#official-examples)
+- [Community Examples](#community-examples)
 - [Projects Using Nuxt.js](#projects-using-nuxtjs)
 
 ### Official Resources
@@ -418,6 +419,10 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Middleware](https://nuxtjs.org/examples/middleware) - Example about how to properly use Middleware in Nuxt.js.
 - [Internationalization (i18n)](https://nuxtjs.org/examples/i18n) - Nuxt.js app with i18n support and implementation.
 - [Hackernews](https://github.com/nuxt/hackernews) - Nuxt.js Hackernews clone.
+
+### Community Examples
+
+- [hex-digital/nuxt-cypress-example](https://github.com/hex-digital/nuxt-cypress-example) - Examples of Cypress tests on different Nuxt functionality, including Nuxt auth and more.
 
 ### Projects Using Nuxt.js
 
