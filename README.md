@@ -269,6 +269,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [hurriyetemlak.com](https://hurriyetemlak.com) - The largest real estate portal in the Turkey. Over 18 billion traffic per month.
 - [moebelland.de](https://www.moebelland.de) - German furniture shopping aggregation site.
 - [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
+- [Zyro.com](https://zyro.com) - Free Website Builder with AI features. 
 
 ### Tutorials
 
