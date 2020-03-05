@@ -136,6 +136,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-wizard](https://www.npmjs.com/package/nuxt-wizard) - Command-line interface for scaffolding Nuxt projects.
 - [nuxt-payload-extractor](https://github.com/DreaMinder/nuxt-payload-extractor) - Module that saves external API data to static JSON files on 'nuxt generate' command, making your project fully static.
 - [nuxt-apis-to-file](https://github.com/LuXDAmore/nuxt-apis-to-file) - Module to merge and transform static API calls into a single file during the build process.
+- [nuxt-prune-html](https://github.com/LuXDAmore/nuxt-prune-html) - Module to prune html before sending it to the browser (it removes elements matching CSS selector(s)), useful for boosting performance showing a different HTML for bots.
 - [cloudcms-nuxt](https://github.com/gitana/cloudcms-nuxt) - Cloud CMS Nuxt integration.
 - [nuxt-vue-multiselect](https://github.com/spektrummedia/nuxt-vue-multiselect) - Single / multiple select plugin for Nuxt.js using vue-multiselect.
 - [nuxt-optimized-images](https://github.com/bazzite/nuxt-optimized-images) - Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
