@@ -23,7 +23,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Blogs](#blogs)
 - [Books](#books)
 - [Starter Template](#starter-template)
+- [Docker](#docker)
 - [Official Examples](#official-examples)
+- [Community Examples](#community-examples)
 - [Projects Using Nuxt.js](#projects-using-nuxtjs)
 
 ### Official Resources
@@ -69,7 +71,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Localtunnel](https://github.com/nuxt-community/modules/tree/master/packages/localtunnel) - Localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
 - [Markdownit](https://github.com/nuxt-community/modules/tree/master/packages/markdownit) - Using markdownit-loader and markdown-it.
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast) - Responsive Touch Compatible Toast plugin for Nuxt.js using vue-toasted.
-- [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor) - This awesome little modules creates junction symlinks from nodule_modules into static/vendor so you can directly serve node modules inside web. Useful for runtime dependencies.
+- [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor) - This awesome little modules creates junction symlinks from node_modules into static/vendor so you can directly serve node modules inside web. Useful for runtime dependencies.
 - [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika) - Add Yandex Metrika to your nuxt.js application.
 - [Feed](https://github.com/nuxt-community/feed-module) - Add RSS, ATOM and JSON feeds to your application.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
@@ -91,7 +93,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter.
 - [Vue Material](https://github.com/vaso2/nuxt-vue-material) - Vue Material framework integration with Nuxt.
 - [Simple Line Icons](https://github.com/vaso2/nuxt-simple-line-icons) - Simple Line Icons for Nuxt.
-- [nuxt-sass-resources-loader](https://github.com/anteriovieira/nuxt-sass-resources-loader) - SASS resources (e.g. variables, mixins etc.) module for NuxtJs.
 - [laravel-nuxt](https://github.com/skyrpex/laravel-nuxt-js) - Build a SPA with Laravel and Nuxt.
 - [nuxt-laravel](https://github.com/m2sd/nuxt-laravel) - Updated version of laravel-nuxt that exteds nuxt cli command.
 - [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR.
@@ -134,6 +135,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-basic-auth-module](https://github.com/potato4d/nuxt-basic-auth-module) - Provide basic auth your Nuxt.js application.
 - [nuxt-wizard](https://www.npmjs.com/package/nuxt-wizard) - Command-line interface for scaffolding Nuxt projects.
 - [nuxt-payload-extractor](https://github.com/DreaMinder/nuxt-payload-extractor) - Module that saves external API data to static JSON files on 'nuxt generate' command, making your project fully static.
+- [nuxt-apis-to-file](https://github.com/LuXDAmore/nuxt-apis-to-file) - Module to merge and transform static API calls into a single file during the build process.
 - [cloudcms-nuxt](https://github.com/gitana/cloudcms-nuxt) - Cloud CMS Nuxt integration.
 - [nuxt-vue-multiselect](https://github.com/spektrummedia/nuxt-vue-multiselect) - Single / multiple select plugin for Nuxt.js using vue-multiselect.
 - [nuxt-optimized-images](https://github.com/bazzite/nuxt-optimized-images) - Automatically optimizes images used in Nuxt.js projects (JPEG, PNG, SVG, WebP and GIF).
@@ -155,6 +157,20 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt module for [socket.io-client](https://github.com/socketio/socket.io-client)! Easy! Works with Nuxt 2.x.
 - [nuxt-seomatic-meta](https://github.com/ben-rogerson/nuxt-seomatic-meta) - A module connecting Nuxt.js to the Craft CMS SEOmatic plugin via GraphQL.
 - [nuxt-chuck](https://bitbucket.org/thecodetheorist/nuxt-chuck) - Nuxt module for displaying a random Chuck Norris joke in your NuxtJS app. Comes complete with it's own database and also uses VueX.
+- [nuxt-stories](https://github.com/richardeschloss/nuxt-stories) - Nuxt module for painless storybooking.
+- [nuxt-ghost-blog](https://github.com/moso/nuxt-ghost-blog) - Turn your Ghost blog into an SSR PWA by using the [Ghost Content API](https://ghost.org/docs/api/v3/content) and Vuex.
+- [nuxt-i18n-boilerplate](https://github.com/Wssn/nuxt-i18n-boilerplate) - Minimalistic Boilerplate for Nuxt.JS applications with fully ready and SEO friendly Nuxt i18n module.
+- [nuxt-moment-module](https://github.com/kdydesign/nuxt-moment-module) - Easy Moment.js integration with Nuxt.js.
+- [nuxt-typed-router](https://github.com/victorgarciaesgi/nuxt-typed-router) - Provide autocompletion for pages route names generated by Vue router.
+- [nuxt-history-state](https://github.com/hidekatsu-izuno/nuxt-history-state) - History State Module for Nuxt.js.
+- [nuxt-alias-module](https://github.com/kdydesign/nuxt-alias-module) - It automatically creates an alias for the components and page of the path.
+- [nuxt-protected-mailto](https://github.com/mmoollllee/nuxt-protected-mailto) - Component to protect email from spam-bots without sacrificing usability.
+- [contentful-module](https://github.com/scaccogatto/contentful-module) - Multiple-env Contentful generator
+- [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache. 
+- [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Publish your components as a vue-custom-element standalone build.
+- [nuxt-prune-html](https://github.com/LuXDAmore/nuxt-prune-html) - Module to prune html before sending it to the browser (it removes elements matching CSS selector(s)), useful for boosting performance showing a different HTML for bots.
+- [nuxt-page-generator-helper](https://github.com/GrabarzUndPartner/nuxt-page-generator-helper) - Generate your pages statically without using payload extractors.
+- [nuxt-font-loader-strategy](https://github.com/GrabarzUndPartner/nuxt-font-loader-strategy) - Helps to load fonts and activate them by preloading.
 
 ### Tools
 
@@ -216,7 +232,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Cute never dies](https://cuteneverdies.com/) - Original mask design web shop. Integrates with Stripe's API.
 - [beCamp](https://be.camp) - Open source website for a community-organized tech conference in Charlottesville, VA.
 - [CrossFit 701](https://crossfit701.com) - Custom website designed with Nuxt and using [vue-observe-visibility](https://github.com/Akryum/vue-observe-visibility) plugin to create nice transitions and animations.
-- [BTZhai](https://www.btzhai.top/) - Fast and modern torrent search engine, built on ElasticSearch + NuxtJS + Nuxt-i18n + SpringBoot. Searches and downloads the latest and hottest resources around the world!
 - [Blogram](https://blogram.me) - Iranian microblogging platform.
 - [Nunziella Design Portfolio](https://nunziellasalluce.com) - Digital Designer portfolio made with Nuxt.js and WordPress REST API.
 - [Portfolio of Jenil Gogari - Computational Designer](https://jgog.in) - Crafted using Chota, Vue.js, Nuxt.js and Simple Icons. Typeface is Inter UI.
@@ -251,6 +266,14 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [JessFlix](https://www.jessflix.com) - A website built for the movie review channel, JessFlix, running entirely on a Nuxt production server. Uses a Wordpress backend, and the YouTube API to curate video content.
 - [Vue SoundCloud](https://vue-soundcloud.herokuapp.com) - A SoundCloud client built with Vue and Nuxt.
 - [We Are Apartments](https://weareapartments.org/) ([source](https://github.com/acidjazz/waa)) We Are Apartments - helping people live in a home that's right for them.
+- [theoddwave.co.nz](https://theoddwave.co.nz/) - website builder for business startups in New Zealand using Nuxt.js, Vue.js and headless CMS.
+- [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
+- [Freshworks Marketplace](https://www.freshworks.com/apps/) - Freshworks App Marketplace with over a 1000 apps trusted by over 30,000 businesses built using Nuxt.js.
+- [hurriyetemlak.com](https://hurriyetemlak.com) - The largest real estate portal in the Turkey. Over 18 billion traffic per month.
+- [moebelland.de](https://www.moebelland.de) - German furniture shopping aggregation site.
+- [EstadioBerria](https://estadioberria.fundacionvital.eus/) - Website with info about an architectural reform of a sports complex. In Araba, Basque Country. Build with NuxtJS + Bootstrap Vue + Directus.
+- [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
+- [Zyro.com](https://zyro.com) - Free Website Builder with AI features. 
 
 ### Tutorials
 
@@ -287,6 +310,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Creating a Nuxt application with Typescript, Koa and Serverless](https://www.linkedin.com/pulse/nuxt-typescript-koa-serverless-edison-harada/)
 - [How to reduce the size of Nuxt files in 10%-20% with Brotli + Cloudfront](https://www.linkedin.com/pulse/how-use-brotli-cloudfront-nuxt-serverless-edison-harada/)
 - [Working with Ghost and Nuxt.js](https://ghost.org/docs/api/nuxtjs/)
+- [Build a blog with Nuxt (Vue.js), Strapi and Apollo](https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo/)
 
 #### 2018
 
@@ -369,7 +393,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [baisheng/nuxt-thinkjs3](https://github.com/baisheng/nuxt-thinkjs3) - Nuxt.js + Thinkjs FrameWork.
 - [kavalcante/nuxt-element-apollo](https://github.com/kavalcante/nuxt-element-apollo) - Nuxt.js + Element (with custom Theme) + Apollo.
 - [mandaputtra/nuxtbulma-starter](https://github.com/mandaputtra/nuxtbulma-starter) - Nuxt.js + Bulma project scafolding.
-- [woodgates/feathers-nuxt](https://github.com/woodgates/feathers-nuxt) - Implementation of nuxt 1.4.2 with full template feathers 3.2.1 (expressjs, socket.io, hooks, etc).
 - [bitkris-dev/bolide-nuxt-template](https://github.com/bitkris-dev/bolide-nuxt-template) - Question-based template (CSS framework choice + preinstalled modules).
 - [melrefaie/nuxt-cypress](https://github.com/melrefaie/nuxt-cypress) - Nuxt.js + Cypress starter project template.
 - [muhibbudins/nuxt-multiple](https://github.com/muhibbudins/nuxt-multiple) - Nuxt.js starter template for Nuxt Multiple instance with Express Backpack, Element UI, Axios & Example APIs, SASS / SCSS Loader, Vuex Store.
@@ -386,6 +409,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [RKnuxtstarterkit](https://github.com/RadKod/RKnuxtstarterkit) - Nuxt.js starter template (axios, style resources module, modular vuex store, etc).
 - [bovas85/nuxt-headless](https://github.com/bovas85/nuxt-headless) - Boilerplate for Nuxt.js using Wordpress REST API as headless CMS.
 - [yashha/wp-nuxt-stack-starter](https://github.com/yashha/wp-nuxt-stack-starter) - Opinionated starter featuring [Wordpress integration](https://github.com/yashha/wp-nuxt) and [Nuxt Stack](https://nuxtstack.org/) with basic SEO configuration, rss feed and sitemap.
+- [suf-stack/generator-suf-stack-aws-koa-nuxt](https://github.com/suf-stack/generator-suf-stack-aws-koa-nuxt) - Serverless, Universal, Full-stack yeoman generator for AWS/Koa.js/Nuxt.js.
+- [hex-digital/nuxtpress](https://github.com/hex-digital/nuxtpress) - A modern Nuxt + headless WordPress starter kit; dockerised, SEO-friendly and with development and testing tools pre-integrated.
 
 ### Docker
 
@@ -400,8 +425,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Internationalization (i18n)](https://nuxtjs.org/examples/i18n) - Nuxt.js app with i18n support and implementation.
 - [Hackernews](https://github.com/nuxt/hackernews) - Nuxt.js Hackernews clone.
 
+### Community Examples
+
+- [hex-digital/nuxt-cypress-example](https://github.com/hex-digital/nuxt-cypress-example) - Examples of Cypress tests on different Nuxt functionality, including Nuxt auth and more.
+
 ### Projects Using Nuxt.js
 
+- [Amujamu](https://amujamu.com) - Amujamu has the largest collection of Thailand tours. Book your desired one for the best deal. Amujamu, the best of its kind, should be your first choice when it comes to booking tours for Thailand. Tourism Authority of Thailand (TAT) approved tours &amp; activity marketplace.
 - [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches  content from Strapi using Apollo.
 - [sum.cumo](https://www.sumcumo.com/en) - Sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
 - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
@@ -409,16 +439,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [surmon.me](https://github.com/surmon-china/surmon.me) - SSR web application(blog) built with Nuxt.js for nodepress.
 - [n2ex](https://github.com/OrangeXC/n2ex) - Web app of v2ex built with Nuxt.
 - [ammobin.ca](https://github.com/ammobinDOTca/ammobin-client) - Meta search site for ammo prices in Canada.
-- [fleisch-online.kaufen](https://www.fleisch-online.kaufen) - Portal about where to buy good meat online, including a personal blog.
-- [front end intelligence](https://news.awesomes.cn/) - Website where you can fetch the front end news.
 - [BitcoinNEWS.blog](https://bitcoinnews.blog) - Proudly created a web-portal with Nuxt.js & Vue.js about Bitcoin and cryptotechnology.
 - [Hare](https://github.com/clarkdo/hare) - Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js. 🐇
 - [State of the ÐApps](https://www.stateofthedapps.com) - The curated collection of projects built on Ethereum.
 - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
 - [Rewind 2017](https://www.lexpress.mu/2017) - Retrospective website by the publications of the leading press agency in Mauritius, La Sentinelle Ltd.
-- [thalitajacinda.com](http://thalitajacinda.com/) - Personal website of a minimalist lifestyle influencer.
 - [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) - [@awayken](https://github.com/awayken) makes a digital Christmas card every year, and 2017's was built using Nuxt.js.
-- [moso.io](https://moso.io) - Personal, open-source SSR portfolio by [@moso](https://github.com/moso) built with Nuxt.js, and styled with Material Design.
+- [moso.io](https://moso.io) - Personal SSR and PWA portfolio by [@moso](https://github.com/moso) built with Nuxt.js, [Strapi](https://strapi.io), and [Brutalism](https://brutalist-web.design).
 - [VueBlog](https://github.com/wmui/vueblog) - Blog system [@wmui](https://github.com/wmui).
 - [dominique-haas.fr](https://dominique-haas.fr) - Personal website & blog built with Nuxt.js, Bulma & GraphQL.
 - [emoji.ovh](https://emoji.ovh) - Search, 👆️ Click & Paste your Emojis. Built with Nuxt.js, Algolia, Bulma.
@@ -456,7 +483,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Maisons du Monde](https://www.maisonsdumonde.com) - Ecommerce website for furnitures and home decor.
 - [Cinemax, é um espetáculo](https://cinemax.co.ao) - First Angolan website made in Nuxt.
 - [xuanmo.xin](https://www.xuanmo.xin) - Use the Nuxt + WordPress reset api to create a wordpress theme.
-- [Social Design](https://www.thesocial.design) - Meta tag generator. Built with Nuxt and Element UI.
+- [OpenGraph](https://www.opengraph.xyz) - Open Graph Meta tags generator. Built with Nuxt and Element UI.
 - [OmarAziz.xyz](https://omaraziz.xyz) - Personal Website using Nuxt and Vuetify.
 - [Opa](https://github.com/credija/opa) - Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI.
 - [Akunyi](https://akunyi.com) - Charity Website.
@@ -465,6 +492,10 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
 - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer. Built with Nuxtjs, TailwindCSS and hosted on firebase.
+- [Getform](https://getform.io) - Form backend platform for designers and developers.
+- [Tune.pk](https://tune.pk) - Tune.pk is one of the largest video sharing website with content from all over the world.
+- [tota.sk](https://tota.sk) - NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent ([source code also available](https://github.com/surfinzap/tota)).
+- [mute.vc](https://github.com/tmm/mute.vc) - Mute investors on Twitter.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
