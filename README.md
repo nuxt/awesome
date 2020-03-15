@@ -493,6 +493,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
 - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer. Built with Nuxtjs, TailwindCSS and hosted on firebase.
 - [Getform](https://getform.io) - Form backend platform for designers and developers.
+- [Best movies watch](https://best-movies.watch) - Free movies streaming site. Allows you to watch full movies online without registration.
 - [Tune.pk](https://tune.pk) - Tune.pk is one of the largest video sharing website with content from all over the world.
 - [tota.sk](https://tota.sk) - NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent ([source code also available](https://github.com/surfinzap/tota)).
 - [mute.vc](https://github.com/tmm/mute.vc) - Mute investors on Twitter.
