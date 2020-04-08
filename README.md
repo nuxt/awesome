@@ -174,6 +174,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [hex-digital/nuxt-intercom](https://github.com/hex-digital/nuxt-intercom) - Nuxt module for simple integration with [Intercom](https://www.intercom.com/).
 - [nuxt-micro-frontend](https://github.com/FEMessage/nuxt-micro-frontend) - make Nuxt app as sub application with [qiankun](https://qiankun.umijs.org/) or [single-SPA](https://single-spa.js.org/).
 - [nuxt-canvas-sketch](https://github.com/LuXDAmore/generative-art) - A porting of [canvas-sketch](https://github.com/mattdesl/canvas-sketch) to make generative art (or threejs art) with nuxt.
+- [xhr-cache](https://github.com/gaetansenn/xhr-cache) - Cache api resources and serve it as static resource with Nuxt.js.
 
 ### Tools
 
