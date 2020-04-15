@@ -299,6 +299,10 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 **Tutorials published in:**
 
+#### 2020
+
+- [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/?ref=awesome-nuxt)
+
 #### 2019
 
 ![Nuxt.js v2][nuxt-v2-label] ![Nuxt.js v1][nuxt-v1-label]
