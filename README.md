@@ -510,6 +510,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [tota.sk](https://tota.sk) - NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent ([source code also available](https://github.com/surfinzap/tota)).
 - [mute.vc](https://github.com/tmm/mute.vc) - Mute investors on Twitter.
 - [bartoszsowul.com](https://bartoszsowul.com) - Personal website built with Nuxt.js, Bulma and Storyblok.
+- [rapido.com](https://rapido.com) - Official international reseller of digital codes.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
