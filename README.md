@@ -258,7 +258,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [El Cable Amarillo](https://www.elcableamarillo.cc/) - Open source project for the use of programming and robotics in educational centers using software tools and free hardware.
 - [Zip Stores](https://zip.co/stores/) - Zip Pay and Zip Money Stores Directory. Zip is simple, fair and transparent credit and payment solutions that improve lives every day. We allow people to own the things they love now, and pay later, interest free.
 - [61 Financial News](https://news.61financial.com.au) - Australia financial news platform for Chinese readers, powered by Nuxt.js with best practices and well-tuned performance.
-- [OneConcern](https://oneconcern.com) - Artifical Intelligence platform for Disasters ([source](https://github.com/acidjazz/oneconcern)).
+- [OneConcern](https://oneconcern.com) - Artificial Intelligence platform for Disasters ([source](https://github.com/acidjazz/oneconcern)).
 - [Pilot](https://pilot.com.au) - Online doctor consultation, Ecommerce Progressive Web Application made with Nuxt.js & Prisma.
 - [Icons8](https://icons8.com/) - Free Design Resources and Software.
 - [SUSHI](https://sushi.partners) - Still Undergoing Severe Hassle with Irritating paperwork? = SUSHI, Document generator for establishing company in Japan. 🍣
