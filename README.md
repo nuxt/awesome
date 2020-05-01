@@ -513,7 +513,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [rapido.com](https://rapido.com) - Official international reseller of digital codes.
 - [goonlinetools.com](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt and Vuejs.
 
-> Please don't hesitate to make a PR if you have more resources to share. 
+> Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
 
