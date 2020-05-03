@@ -512,6 +512,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [bartoszsowul.com](https://bartoszsowul.com) - Personal website built with Nuxt.js, Bulma and Storyblok.
 - [rapido.com](https://rapido.com) - Official international reseller of digital codes.
 - [goonlinetools.com](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt and Vuejs.
+- [Dutch Art Daily](https://dutchartdaily.com) - A new Dutch Golden Age artwork displayed every day ([source code available](https://github.com/patrickcate/dutch-art-daily)).
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
