@@ -280,6 +280,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [EstadioBerria](https://estadioberria.fundacionvital.eus/) - Website with info about an architectural reform of a sports complex. In Araba, Basque Country. Build with NuxtJS + Bootstrap Vue + Directus.
 - [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
 - [Zyro.com](https://zyro.com) - Free Website Builder with AI features.
+- [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 
 ### Tutorials
 
