@@ -177,7 +177,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [xhr-cache](https://github.com/gaetansenn/xhr-cache) - Cache api resources and serve it as static resource with Nuxt.js.
 - [nuxt-precompress](https://github.com/frenchrabbit/nuxt-precompress) - Nuxt module for compressing gzip and brotli at buildtime and serving supported encoding in runtime.
 - [nuxtjs-ghost](https://github.com/ditschedev/nuxtjs-ghost) - Easy to use wrapper for Ghost's Content API.
-- [Chakra UI Vue](https://github.com/chakra-ui/chakra-ui-vue) - Chakra UI Vue is an accessible & modular component library that gives you the building blocks to build Vue applications with speed.
 - [Chakra UI Nuxt Module](https://github.com/chakra-ui/chakra-ui-vue/tree/master/packages/nuxt-chakra) - Nuxt JS module to help you quickly get started with Chakra UI Vue.
 
 ### Tools
