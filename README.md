@@ -178,6 +178,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-precompress](https://github.com/frenchrabbit/nuxt-precompress) - Nuxt module for compressing gzip and brotli at buildtime and serving supported encoding in runtime.
 - [nuxtjs-ghost](https://github.com/ditschedev/nuxtjs-ghost) - Easy to use wrapper for Ghost's Content API.
 - [Chakra UI Nuxt Module](https://github.com/chakra-ui/chakra-ui-vue/tree/master/packages/nuxt-chakra) - Nuxt JS module to help you quickly get started with Chakra UI Vue.
+- [nuxt-highcharts](https://github.com/richardeschloss/nuxt-highcharts) - Highcharts for Nuxt. Similar to highcharts-vue, but adapted for Nuxt with some added benefits.
+- [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
+
 
 ### Tools
 
