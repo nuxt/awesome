@@ -180,6 +180,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Chakra UI Nuxt Module](https://github.com/chakra-ui/chakra-ui-vue/tree/master/packages/nuxt-chakra) - Nuxt JS module to help you quickly get started with Chakra UI Vue.
 - [nuxt-highcharts](https://github.com/richardeschloss/nuxt-highcharts) - Highcharts for Nuxt. Similar to highcharts-vue, but adapted for Nuxt with some added benefits.
 - [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
+- [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 
 
 ### Tools
