@@ -522,6 +522,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [goonlinetools.com](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt and Vuejs.
 - [Dutch Art Daily](https://dutchartdaily.com) - A new Dutch Golden Age artwork displayed every day ([source code available](https://github.com/patrickcate/dutch-art-daily)).
 - [CMD Generators](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh.
+- [Journalistic](https://journalisticapp.com) - Minimalistic journaling app (PWA). Built with Nuxt + Django.
 - [LGBTQ+fy your images](https://pfp.lgbt) - Simple to use website to add pride flags on your image or GIF.
 
 > Please don't hesitate to make a PR if you have more resources to share.
