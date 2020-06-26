@@ -181,7 +181,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-highcharts](https://github.com/richardeschloss/nuxt-highcharts) - Highcharts for Nuxt. Similar to highcharts-vue, but adapted for Nuxt with some added benefits.
 - [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
-
+- [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
 
 ### Tools
 
@@ -522,6 +522,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [goonlinetools.com](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt and Vuejs.
 - [Dutch Art Daily](https://dutchartdaily.com) - A new Dutch Golden Age artwork displayed every day ([source code available](https://github.com/patrickcate/dutch-art-daily)).
 - [CMD Generators](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh.
+- [Journalistic](https://journalisticapp.com) - Minimalistic journaling app (PWA). Built with Nuxt + Django.
+- [LGBTQ+fy your images](https://pfp.lgbt) - Simple to use website to add pride flags on your image or GIF.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬
 
 > Please don't hesitate to make a PR if you have more resources to share.
