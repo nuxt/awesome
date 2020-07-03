@@ -524,6 +524,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [CMD Generators](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh.
 - [Journalistic](https://journalisticapp.com) - Minimalistic journaling app (PWA). Built with Nuxt + Django.
 - [LGBTQ+fy your images](https://pfp.lgbt) - Simple to use website to add pride flags on your image or GIF.
+- [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
