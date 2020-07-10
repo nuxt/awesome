@@ -182,7 +182,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
-- [nuxt-iconfont-module](https://github.com/kdydesign/nuxt-iconfont-module) - Try converting svg into font easily to make icon-font automatically. icon-font generator Fontagon is available on the Nuxt module.
+- [nuxt-iconfont-generator](https://github.com/kdydesign/nuxt-iconfont-generator) - Try converting svg into font easily to make icon-font automatically. icon-font generator Fontagon is available on the Nuxt module.
 
 ### Tools
 
