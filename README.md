@@ -389,7 +389,6 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Starter Template
 
-- [Nuxt.js Website Boilerplate](https://www.cosmicjs.com/apps/nuxtjs-website-boilerplate) - Nuxt.js website boilerplate powered by the Cosmic Headless CMS
 - [nuxt-community/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS.
 - [nuxt-community/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template.
 - [nuxt-community/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
@@ -432,6 +431,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [hex-digital/nuxtpress](https://github.com/hex-digital/nuxtpress) - A modern Nuxt + headless WordPress starter kit; dockerised, SEO-friendly and with development and testing tools pre-integrated.
 - [mmoollllee/nuxt-starter-template](https://github.com/mmoollllee/nuxt-starter-template) – Template for basic static site generated marketing website.
 - [vinayakkulkarni/module-template-ava](https://github.com/vinayakkulkarni/module-template-ava) - Starter template for Nuxt.js Modules using Ava instead of Jest.
+- [Nuxt.js Website Boilerplate](https://www.cosmicjs.com/apps/nuxtjs-website-boilerplate) - Nuxt.js website boilerplate powered by the Cosmic Headless CMS
 
 ### Docker
 
