@@ -288,6 +288,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 - [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
 - [Lammpee](https://lammpee.de/) ([source](https://github.com/ThornWalli/web-workbench)) - Old operating system as homepage.
+- [tojjar.me](https://www.tojjar.me) - Helps local businesses by driving revenue today in the form of gift card sales to new or existing loyal customers.
 
 ### Tutorials
 
