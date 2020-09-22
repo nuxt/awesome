@@ -529,7 +529,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [LGBTQ+fy your images](https://pfp.lgbt) - Simple to use website to add pride flags on your image or GIF.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬.
 - [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
-
+- [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
