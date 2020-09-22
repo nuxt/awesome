@@ -87,6 +87,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [TailwindCSS](https://github.com/nuxt-community/nuxt-tailwindcss) - TailwindCSS module for Nuxt.js with PurgeCSS.
 - [AMP](https://github.com/nuxt-community/amp-module) - AMP module for Nuxt.
 - [Color Mode](https://github.com/nuxt-community/color-mode-module) - Dark and Light mode with auto detection made easy with NuxtJS
+- [Cloudinary](https://github.com/nuxt-community/cloudinary-module) - Cloudinary module for Nuxt.js for optimizing images and videos on the fly with Cloudinary.
 
 #### Community
 
