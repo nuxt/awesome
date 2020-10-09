@@ -482,6 +482,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
 - [Getform](https://getform.io) - Form backend platform for designers and developers.
 - [ClinicNearMe](https://www.clinicnearme.sg/) - Directory listing for clinics and hospitals in Singapore built with NuxtJS.
+- [GetRoboAdvisor](https://www.getroboadvisor.com/) - Directory listing for robo advisors built with NuxtJS.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
