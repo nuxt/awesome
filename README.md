@@ -45,6 +45,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Modules
 
+Discover the full list of Nuxt modules on https://modules.nuxtjs.org
+
 #### Official
 
 - [PWA](https://github.com/nuxt-community/pwa-module) - Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
