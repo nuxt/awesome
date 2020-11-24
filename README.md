@@ -289,11 +289,11 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [moebelland.de](https://www.moebelland.de) - German furniture shopping aggregation site.
 - [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
 - [EstadioBerria](https://estadioberria.fundacionvital.eus/) - Website with info about an architectural reform of a sports complex. In Araba, Basque Country. Build with NuxtJS + Bootstrap Vue + Directus.
-- [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
 - [Zyro.com](https://zyro.com) - Free Website Builder with AI features.
 - [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 - [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
 - [Lammpee](https://lammpee.de/) ([source](https://github.com/ThornWalli/web-workbench)) - Old operating system as homepage.
+- [lilomoino.fr](https://lilomoino.fr) - Blog photo, video and music. Full static and using Strapi as backend.
 
 ### Tutorials
 
