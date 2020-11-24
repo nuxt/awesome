@@ -287,8 +287,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Freshworks Marketplace](https://www.freshworks.com/apps/) - Freshworks App Marketplace with over a 1000 apps trusted by over 30,000 businesses built using Nuxt.js.
 - [hurriyetemlak.com](https://hurriyetemlak.com) - The largest real estate portal in the Turkey. Over 18 billion traffic per month.
 - [moebelland.de](https://www.moebelland.de) - German furniture shopping aggregation site.
-- [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
 - [EstadioBerria](https://estadioberria.fundacionvital.eus/) - Website with info about an architectural reform of a sports complex. In Araba, Basque Country. Build with NuxtJS + Bootstrap Vue + Directus.
+- [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
 - [Zyro.com](https://zyro.com) - Free Website Builder with AI features.
 - [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 - [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
