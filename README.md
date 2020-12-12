@@ -45,6 +45,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ### Modules
 
+Discover the full list of Nuxt modules on https://modules.nuxtjs.org
+
 #### Official
 
 - [PWA](https://github.com/nuxt-community/pwa-module) - Supercharge Nuxt with a heavily tested, updated and stable PWA solution.
@@ -86,6 +88,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Device](https://github.com/nuxt-community/device-module) - Device detection module for Nuxt.js.
 - [TailwindCSS](https://github.com/nuxt-community/nuxt-tailwindcss) - TailwindCSS module for Nuxt.js with PurgeCSS.
 - [AMP](https://github.com/nuxt-community/amp-module) - AMP module for Nuxt.
+- [Color Mode](https://github.com/nuxt-community/color-mode-module) - Dark and Light mode with auto detection made easy with NuxtJS
+- [Cloudinary](https://github.com/nuxt-community/cloudinary-module) - Cloudinary module for Nuxt.js for optimizing images and videos on the fly with Cloudinary.
 
 #### Community
 
@@ -177,6 +181,12 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [xhr-cache](https://github.com/gaetansenn/xhr-cache) - Cache api resources and serve it as static resource with Nuxt.js.
 - [nuxt-precompress](https://github.com/frenchrabbit/nuxt-precompress) - Nuxt module for compressing gzip and brotli at buildtime and serving supported encoding in runtime.
 - [nuxtjs-ghost](https://github.com/ditschedev/nuxtjs-ghost) - Easy to use wrapper for Ghost's Content API.
+- [Chakra UI Nuxt Module](https://github.com/chakra-ui/chakra-ui-vue/tree/master/packages/nuxt-chakra) - Nuxt JS module to help you quickly get started with Chakra UI Vue.
+- [nuxt-highcharts](https://github.com/richardeschloss/nuxt-highcharts) - Highcharts for Nuxt. Similar to highcharts-vue, but adapted for Nuxt with some added benefits.
+- [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
+- [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
+- [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
+- [nuxt-highlightjs](https://github.com/Llang8/nuxt-highlightjs) - Highlight.js syntax highlighting for Nuxt JS.
 - [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - JSON:API client for Nuxt.js.
 
 ### Tools
@@ -218,7 +228,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [sinitic.ai](https://www.sinitic.ai) - Web platform for building multilingual business chatbots.
 - [Cygames Research](https://research.cygames.co.jp/) - Research website for Tokyo-based game company Cygames.
 - [K-Beauty: Perfect Skin in 10 Steps](https://kbeauty.nigelbeauty.com/) - Korean skincare landing page by [jake101](https://jake101.com/).
-- [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estate) project, explore property prices for entire Germany - Project built with NuxtJS + Google Maps + Rest API.
+- [Preisatlas](https://www.homeday.de/preisatlas/de-DE) - Real-tech (real estate) project, explore property prices for entire Germany - Project built with NuxtJS + Mapbox + Rest API.
 - [Bunk](https://www.bunkhistory.org/) - Unique view for connecting topics and events to their context in American history (Nuxt.js + Rest API).
 - [Data Science Institute, UVA](https://dsi.virginia.edu/) - Primary web expression for this pan-University institute (Nuxt.js + Drupal-powered Rest API).
 - [Yearbook 2016–2017, Batten Institute for Entrepreneurship and Innovation, UVA](https://batten-yearbook.darden.virginia.edu/) - Static annual report.
@@ -281,6 +291,9 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [EstadioBerria](https://estadioberria.fundacionvital.eus/) - Website with info about an architectural reform of a sports complex. In Araba, Basque Country. Build with NuxtJS + Bootstrap Vue + Directus.
 - [plannthat.com](https://www.plannthat.com) - Instagram planning, scheduling and analytics for beautiful brands.
 - [Zyro.com](https://zyro.com) - Free Website Builder with AI features.
+- [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
+- [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
+- [Lammpee](https://lammpee.de/) ([source](https://github.com/ThornWalli/web-workbench)) - Old operating system as homepage.
 
 ### Tutorials
 
@@ -513,6 +526,13 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [bartoszsowul.com](https://bartoszsowul.com) - Personal website built with Nuxt.js, Bulma and Storyblok.
 - [rapido.com](https://rapido.com) - Official international reseller of digital codes.
 - [goonlinetools.com](https://goonlinetools.com/) - Free Online Tools site. Built with Nuxt and Vuejs.
+- [Dutch Art Daily](https://dutchartdaily.com) - A new Dutch Golden Age artwork displayed every day ([source code available](https://github.com/patrickcate/dutch-art-daily)).
+- [CMD Generators](https://cmdgenerators.com) - Generate CMD by click buttons. Such as tar, ssh.
+- [Journalistic](https://journalisticapp.com) - Minimalistic journaling app (PWA). Built with Nuxt + Django.
+- [LGBTQ+fy your images](https://pfp.lgbt) - Simple to use website to add pride flags on your image or GIF.
+- [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬.
+- [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
+- [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
