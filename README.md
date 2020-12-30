@@ -188,6 +188,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
 - [nuxt-highlightjs](https://github.com/Llang8/nuxt-highlightjs) - Highlight.js syntax highlighting for Nuxt JS.
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
+- [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 
 ### Tools
 
