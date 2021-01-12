@@ -74,7 +74,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Markdownit](https://github.com/nuxt-community/markdownit-module) - Using markdownit-loader and markdown-it.
 - [Toast](https://github.com/nuxt-community/modules/tree/master/packages/toast) - Responsive Touch Compatible Toast plugin for Nuxt.js using vue-toasted.
 - [Vendor](https://github.com/nuxt-community/modules/tree/master/packages/vendor) - This awesome little modules creates junction symlinks from node_modules into static/vendor so you can directly serve node modules inside web. Useful for runtime dependencies.
-- [Yandex-metrika](https://github.com/nuxt-community/modules/tree/master/packages/yandex-metrika) - Add Yandex Metrika to your nuxt.js application.
+- [Yandex-metrika](https://github.com/nuxt-community/yandex-metrika-module) - Add Yandex Metrika to your nuxt.js application.
 - [Feed](https://github.com/nuxt-community/feed-module) - Add RSS, ATOM and JSON feeds to your application.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
 - [I18n](https://github.com/nuxt-community/nuxt-i18n) - Add i18n capabilities to your Nuxt project.
