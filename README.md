@@ -298,6 +298,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 - [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
 - [Lammpee](https://lammpee.de/) ([source](https://github.com/ThornWalli/web-workbench)) - Old operating system as homepage.
+- [ThemeMockup](https://thememockup.com/) - UI/UX project resources for Designer. Free & premium high-quality design resources like mockups, UI-Kits, web templates, fonts and other cool stuff..
 
 ### Tutorials
 
