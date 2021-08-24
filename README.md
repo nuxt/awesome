@@ -84,6 +84,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Universal Storage Module](https://github.com/nuxt-community/universal-storage) - Universal Storage Utilities for Nuxt.js.
 - [Google Optimize](https://github.com/nuxt-community/google-optimize) - SSR friendly Google Optimize module for Nuxt.js.
 - [Emotion](https://github.com/nuxt-community/emotion-module) - Emotion CSS-In-JS module for Nuxt.js.
+- [SVG](https://github.com/nuxt-community/svg-module) - Easy way to use SVG files in Nuxt.js.
 - [SVG Sprite](https://github.com/nuxt-community/svg-sprite-module) - Optimized and Easy way to use SVG files in Nuxt.js.
 - [ReCaptcha](https://github.com/nuxt-community/recaptcha-module) - Simple and easy Google reCAPTCHA integration with Nuxt.js.
 - [Device](https://github.com/nuxt-community/device-module) - Device detection module for Nuxt.js.
