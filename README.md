@@ -78,7 +78,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Yandex-metrika](https://github.com/nuxt-community/yandex-metrika-module) - Add Yandex Metrika to your nuxt.js application.
 - [Feed](https://github.com/nuxt-community/feed-module) - Add RSS, ATOM and JSON feeds to your application.
 - [Redirect](https://github.com/nuxt-community/redirect-module) - Simplify setting up correct URL redirection with NuxtJS. No more cumbersome redirects!
-- [I18n](https://github.com/nuxt-community/nuxt-i18n) - Add i18n capabilities to your Nuxt project.
+- [I18n](https://github.com/nuxt-community/i18n-module) - Add i18n capabilities to your Nuxt project.
 - [Separate Env](https://github.com/nuxt-community/separate-env-module) - Tear apart your variables and split them up for client/server bundle!
 - [Logrocket](https://github.com/nuxt-community/nuxt-logrocket) - LogRocket module for Nuxt.js.
 - [Universal Storage Module](https://github.com/nuxt-community/universal-storage) - Universal Storage Utilities for Nuxt.js.
