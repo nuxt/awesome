@@ -524,6 +524,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [dota2sites.com](https://dota2sites.com) - Dota2 and CSGO case opening ranking site built by nuxt.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
+- [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + TailwindCSS.
 - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer. Built with Nuxtjs + Vuetify.
 - [Getform](https://getform.io) - Form backend platform for designers and developers.
 - [Best movies watch](https://best-movies.watch) - Free movies streaming site. Allows you to watch full movies online without registration.
