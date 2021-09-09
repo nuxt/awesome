@@ -288,6 +288,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [36 Pixels agency](https://www.36pixels.fr) - French website agency made with Nuxt.js.
 - [JessFlix](https://www.jessflix.com) - A website built for the movie review channel, JessFlix, running entirely on a Nuxt production server. Uses a Wordpress backend, and the YouTube API to curate video content.
 - [Vue SoundCloud](https://vue-soundcloud.herokuapp.com) - A SoundCloud client built with Vue and Nuxt.
+- [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + Tailwind.
 - [We Are Apartments](https://weareapartments.org/) ([source](https://github.com/acidjazz/waa)) We Are Apartments - helping people live in a home that's right for them.
 - [theoddwave.co.nz](https://theoddwave.co.nz/) - website builder for business startups in New Zealand using Nuxt.js, Vue.js and headless CMS.
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
