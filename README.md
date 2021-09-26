@@ -542,6 +542,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬.
 - [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
 - [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
+- [Vokal.co](https://vokal.co/) - Create podcast video snippets for social media.
 - [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc. 
 - [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
