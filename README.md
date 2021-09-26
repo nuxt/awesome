@@ -200,12 +200,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [acidjazz/aeonian](https://github.com/acidjazz/aeonian) - Automate the deployment of your Nuxt.js project on AWS S3 + CloudFront.
 - [nuxt-memwatch](https://github.com/pimlie/nuxt-memwatch) - Quickly watch real-time memory stats of your Nuxt app.
 - [create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Official scaffolding tool for Nuxt.js projects. Create a Nuxt.js project in seconds.
-<<<<<<< HEAD
 - [create-nuxt-netlify-cms-docs](https://github.com/RoboMx/create-nuxt-netlify-cms-docs) - Create Nuxt based docs with Netlify CMS as content manager.
 - [fume](https://fume.app) - Deploy to AWS supporting both server and static hosting, custom domains, integrations, and much more.
 
-=======
->>>>>>> parent of 116bb45... :sparkles: Add create-nuxt-netlify-cms-docs
 
 ### Mention of Nuxt.js
 
