@@ -112,7 +112,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Leaflet.js](https://github.com/schlunsen/nuxt-leaflet) - Leaflet.js integration for Nuxt.
 - [Nuxt Express](https://github.com/uptownhr/nuxt-express-module) - Express module for Nuxt (hot reload).
 - [Vue.js Warehouse](https://github.com/bazzite/vue-warehouse) - Cross-browser storage for Vue.js and Nuxt.js, with plugins support and easy extensibility based on Store.js.
-- [nuxt-ts-module](https://github.com/chanlito/nuxt-ts-module) - Tiny module to use TypesScript within Nuxt.js application.
+- [nuxt-ts-module](https://github.com/chanlito/nuxt-ts-module) - Tiny module to use TypeScript within Nuxt.js application.
 - [nuxt-typescript](https://github.com/wagerfield/nuxt-typescript) - Lightening fast type checking and linting with TypeScript and TSLint.
 - [nurdism/nuxtjs-electron](https://github.com/nurdism/nuxtjs-electron) - Utility module that helps you work with electron inside nuxt.
 - [nuxt-babel](https://github.com/wemake-services/nuxt-babel) - Use normal `.babelrc` file with your Nuxt app.
@@ -189,11 +189,15 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
+- [nuxt-icon-font](https://github.com/omidbakhshi/nuxt-icon-font) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font, Generator of fonts from SVG icons
 - [nuxt-highlightjs](https://github.com/Llang8/nuxt-highlightjs) - Highlight.js syntax highlighting for Nuxt JS.
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
 - [nuxt-headway](https://github.com/l-portet/nuxt-headway) - Integrate the Headway changelog widget into your app.
+- [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - Adds easy JSON:API client integration to Nuxt.
+- [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
+- [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
 
 ### Tools
 
@@ -214,6 +218,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Showcase
 
+- [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
@@ -289,6 +294,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [36 Pixels agency](https://www.36pixels.fr) - French website agency made with Nuxt.js.
 - [JessFlix](https://www.jessflix.com) - A website built for the movie review channel, JessFlix, running entirely on a Nuxt production server. Uses a Wordpress backend, and the YouTube API to curate video content.
 - [Vue SoundCloud](https://vue-soundcloud.herokuapp.com) - A SoundCloud client built with Vue and Nuxt.
+- [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + Tailwind.
 - [We Are Apartments](https://weareapartments.org/) ([source](https://github.com/acidjazz/waa)) We Are Apartments - helping people live in a home that's right for them.
 - [theoddwave.co.nz](https://theoddwave.co.nz/) - website builder for business startups in New Zealand using Nuxt.js, Vue.js and headless CMS.
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
@@ -301,6 +307,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Baserow](https://baserow.io) - Open source online database. Build with Django and Nuxt.js.
 - [Holt Soundboard](https://nine-nine.now.sh/) - Soundboard app for all characters from the NBC show Brooklyn Nine-Nine ([source code available](https://github.com/holt-soundboard/holt-soundboard-web)).
 - [Lammpee](https://lammpee.de/) ([source](https://github.com/ThornWalli/web-workbench)) - Old operating system as homepage.
+- [Muhaddis](https://muhaddis.info) ([Source](https://github.com/MuhaddiMu/Portfolio)) - Open Source Portfolio website based on Nuxt.js ✨ Moved from WordPress to Jamstack
+- [Outdoormix Festival](https://www.outdoormixfestival.com/) - A full history of 7 years of Ride & Party at Outdoormix Festival powered by Strapi and Nuxt.js
+- [lilomoino.fr](https://lilomoino.fr) - Blog photo, video and music. Full static and using Strapi as backend.
 
 ### Tutorials
 
@@ -323,6 +332,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 #### 2020
 
 - [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/?ref=awesome-nuxt)
+- [When should you Use Nuxt.js instead of Vue.js?](https://medium.com/javascript-in-plain-english/when-should-you-use-nuxt-js-instead-of-vue-js-8558a33b91c6)
 
 #### 2019
 
@@ -524,6 +534,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [dota2sites.com](https://dota2sites.com) - Dota2 and CSGO case opening ranking site built by nuxt.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
 - [vue-soundcloud](https://github.com/soroushchehresa/vue-soundcloud) - Simple SoundCloud client built with Vue and Nuxt.
+- [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + TailwindCSS.
 - [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer. Built with Nuxtjs + Vuetify.
 - [Getform](https://getform.io) - Form backend platform for designers and developers.
 - [Best movies watch](https://best-movies.watch) - Free movies streaming site. Allows you to watch full movies online without registration.
@@ -538,8 +549,16 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Journalistic](https://journalisticapp.com) - Minimalistic journaling app (PWA). Built with Nuxt + Django.
 - [LGBTQ+fy your images](https://pfp.lgbt) - Simple to use website to add pride flags on your image or GIF.
 - [d-patterns.js.org](https://d-patterns.js.org) - FOSS Discord templates listing website 💬.
+- [wammes-gifts.nl](https://www.wammes-gifts.nl) - Find the perfect gift using your intuition, built with Nuxtjs + Vuetify.
+- [Homekilo](https://www.homekilo.com) - Online store for furniture and decor. Built with Nuxt.
+- [311 Québec City](https://311.ville.quebec.qc.ca/) - Web and mobile application for citizens of Québec City. Lets them make useful requests to city officials and services. Multilingual, cross-platform PWA built with Nuxt.js, Cordova, POEditor, TypeScript ([case study](https://snipcart.com/blog/nuxt-pwa-311)).
 - [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
 - [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
+- [Vokal.co](https://vokal.co/) - Create podcast video snippets for social media.
+- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc. 
+- [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
+- [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
+- [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
