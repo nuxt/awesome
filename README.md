@@ -193,6 +193,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-router-ui](https://github.com/richardeschloss/nuxt-router-ui) - A router UI for Nuxt and Vue applications. Ctrl+Shift+Space and you're good to navigate your routes asap!
 - [nuxt-paystack](https://github.com/ECJ222/nuxt-paystack) - Nuxt module to help integrate Paystack payment gateway.
 - [Storefront UI Module](https://www.npmjs.com/package/@storefront-ui/nuxt) - [Storefront UI](https://www.storefrontui.io/)
 - [nuxt-change-case](https://github.com/RadKod/nuxt-change-case) - change-case integration as nuxt module.
