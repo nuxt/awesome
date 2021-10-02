@@ -193,6 +193,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-assets-paths](https://github.com/victorgarciaesgi/nuxt-assets-paths) - Autocomplete for nuxt assets, icons and images paths
 - [nuxt-headway](https://github.com/l-portet/nuxt-headway) - Integrate the Headway changelog widget into your app.
 - [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - Adds easy JSON:API client integration to Nuxt.
 - [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
