@@ -11,6 +11,8 @@
 
 Nuxt.js is a framework for creating Universal Vue.js Applications.
 
+Notice: We added a new section for [Open Source Projects Using Nuxt.js](#open-source-projects-using-nuxtjs), we urge you to move your projects to that section if you already have them in [Projects Using Nuxt.js](#projects-using-nuxtjs) section.
+
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -26,8 +28,8 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Docker](#docker)
 - [Official Examples](#official-examples)
 - [Community Examples](#community-examples)
-- [Projects Using Nuxt.js](#projects-using-nuxtjs)
 - [Open Source Projects Using Nuxt.js](#open-source-projects-using-nuxtjs)
+- [Projects Using Nuxt.js](#projects-using-nuxtjs)
 
 ### Official Resources
 
@@ -498,6 +500,24 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [hex-digital/nuxt-cypress-example](https://github.com/hex-digital/nuxt-cypress-example) - Examples of Cypress tests on different Nuxt functionality, including Nuxt auth and more.
 
+### Open Source Projects Using Nuxt.js
+
+![Nuxt.js v3][nuxt-v3-label]
+
+| Name/Link | Description | Repo |
+|---|---|---|
+
+![Nuxt.js v2][nuxt-v2-label]
+
+| Name/Link | Description | Repo |
+|---|---|---|
+| [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
+
+![Nuxt.js v1][nuxt-v1-label]
+
+| Name/Link | Description | Repo |
+|---|---|---|
+
 ### Projects Using Nuxt.js
 
 - [Amujamu](https://amujamu.com) - Amujamu has the largest collection of Thailand tours. Book your desired one for the best deal. Amujamu, the best of its kind, should be your first choice when it comes to booking tours for Thailand. Tourism Authority of Thailand (TAT) approved tours &amp; activity marketplace.
@@ -585,24 +605,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
-
-### Open Source Projects Using Nuxt.js
-
-![Nuxt.js v3][nuxt-v3-label]
-
-| Name/Link | Description | Repo |
-|---|---|---|
-
-![Nuxt.js v2][nuxt-v2-label]
-
-| Name/Link | Description | Repo |
-|---|---|---|
-| [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
-
-![Nuxt.js v1][nuxt-v1-label]
-
-| Name/Link | Description | Repo |
-|---|---|---|
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
