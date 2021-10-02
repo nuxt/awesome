@@ -27,6 +27,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [Official Examples](#official-examples)
 - [Community Examples](#community-examples)
 - [Projects Using Nuxt.js](#projects-using-nuxtjs)
+- [Open Source Projects Using Nuxt.js](#open-source-projects-using-nuxtjs)
 
 ### Official Resources
 
@@ -584,6 +585,12 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
+
+### Open Source Projects Using Nuxt.js
+
+| Name/Link | Nuxt Version | Description | Repo |
+|---|---|---|---|
+| [Sahem (Ramadanathon)](https://ramadanathon.netlify.app/) | ![Nuxt.js v2][nuxt-v2-label] | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event in 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
