@@ -189,6 +189,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-test-utils](https://github.com/richardeschloss/nuxt-test-utils) - All your favorite test utils in one repo, and some extras.
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
+- [nuxt-chatra-module](https://github.com/ceigh/nuxt-chatra-module) - Live chat support intagration with [Chatra](https://chatra.com).
 - [nuxt-fingerprint2](https://github.com/abakermi/nuxt-fingerprint2) - fingerprint2 integration
 - [nuxt-icon-font](https://github.com/omidbakhshi/nuxt-icon-font) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font, Generator of fonts from SVG icons
 - [nuxt-highlightjs](https://github.com/Llang8/nuxt-highlightjs) - Highlight.js syntax highlighting for Nuxt JS.
