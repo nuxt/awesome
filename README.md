@@ -198,6 +198,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-content-algolia](https://github.com/danielkellyio/nuxt-content-algolia) - Automatically sync content stored in your project with nuxt content to an Algolia index.
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-youtube-subscribe-module](https://github.com/jualoppaz/nuxt-youtube-subscribe-module) - Nuxt module for add the official Youtube Subscribe Button in your nuxt application.
 - [nuxt-blurhash](https://github.com/filsuck/nuxt-blurhash) - Nuxt module for simple integration with [BlurHash](https://blurha.sh/) Algorithm
 - [nuxt-google-sheets-parser](https://github.com/fureweb-com/nuxt-google-sheets-parser) - Easily import data from published Google Sheets.
 - [nuxt-web3](https://github.com/fauzan121002/nuxt-web3) - [Web3.js](https://github.com/ChainSafe/web3.js) module integration for Nuxt.js - Build dApps easier!
