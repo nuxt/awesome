@@ -588,9 +588,21 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Open Source Projects Using Nuxt.js
 
-| Name/Link | Nuxt Version | Description | Repo |
-|---|---|---|---|
-| [Sahem (Ramadanathon)](https://ramadanathon.netlify.app/) | ![Nuxt.js v2][nuxt-v2-label] | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event in 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
+![Nuxt.js v3][nuxt-v3-label]
+
+| Name/Link | Description | Repo |
+|---|---|---|
+
+![Nuxt.js v2][nuxt-v2-label]
+
+| Name/Link | Description | Repo |
+|---|---|---|
+| [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
+
+![Nuxt.js v1][nuxt-v1-label]
+
+| Name/Link | Description | Repo |
+|---|---|---|
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
