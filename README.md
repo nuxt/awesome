@@ -352,6 +352,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 #### 2020
 
+![Nuxt.js v2][nuxt-v2-label] ![Nuxt.js v1][nuxt-v1-label]
+
+- [Deploying Nuxt.js on Google Cloud Run Serverless](https://dev.to/sakko/deploying-nuxtjs-on-google-cloud-run-1fic)
 - [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/?ref=awesome-nuxt)
 - [When should you Use Nuxt.js instead of Vue.js?](https://medium.com/javascript-in-plain-english/when-should-you-use-nuxt-js-instead-of-vue-js-8558a33b91c6)
 
