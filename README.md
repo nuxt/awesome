@@ -68,7 +68,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig) - Adds XML browser configuration support.
 - [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma) - Leverage bulma CSS.
 - [Component-cache](https://github.com/nuxt-community/component-cache-module) - The vue-server-renderer has built-in support for component-level caching. This module automatically adds a LRU cache to project.
-- [Font-awesome](https://github.com/nuxt-community/modules/tree/master/packages/font-awesome) - Leverage Font Awesome the iconic font and CSS toolkit.
+- [Font-awesome](https://github.com/nuxt-community/fontawesome-module) - Leverage Font Awesome the iconic font and CSS toolkit.
 - [Font-awesome 5](https://github.com/Qonfucius/nuxt-fontawesome) - Use fontawesome 5 as a nuxtJS module.
 - [GTM](https://github.com/nuxt-community/gtm-module) - Google Tag Manager (GTM) Module for Nuxt.js. This plugin automatically sends first page and route change events to GTM.
 - [Localtunnel](https://github.com/nuxt-community/modules/tree/master/packages/localtunnel) - Localtunnel exposes your localhost to the world for easy testing and sharing! No need to mess with DNS or deploy just to have others test out your changes.
@@ -99,7 +99,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter.
 - [Vue Material](https://github.com/vaso2/nuxt-vue-material) - Vue Material framework integration with Nuxt.
 - [Simple Line Icons](https://github.com/vaso2/nuxt-simple-line-icons) - Simple Line Icons for Nuxt.
-- [laravel-nuxt](https://github.com/skyrpex/laravel-nuxt-js) - Build a SPA with Laravel and Nuxt.
 - [nuxt-laravel](https://github.com/m2sd/nuxt-laravel) - Updated version of laravel-nuxt that exteds nuxt cli command.
 - [cookie-universal-nuxt](https://github.com/microcipcip/cookie-universal/tree/master/packages/cookie-universal-nuxt) - Universal cookie plugin for Nuxt, perfect for SSR.
 - [Buefy](https://github.com/buefy/nuxt-buefy) - Lightweight UI components for Vue.js based on Bulma for Nuxt.
@@ -159,6 +158,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Xui](https://github.com/MetaCorp/xui-module) - Light module to help design websites with Nuxt.
 - [nuxt-axios-duplicate-blocker](https://www.npmjs.com/package/nuxt-axios-duplicate-blocker) - Nuxt module that adds axios interceptors in order to block duplicate API requests and return results from the latest request to all callee functions. It can also be optionally used to cancel active requests when switching between pages.
 - [nuxt-mobile-detect](https://github.com/ChanningDefoe/nuxt-mobile-detect) - Nuxt module for detecting the users device client-side and server-side.
+- [nuxt-modernizr](https://github.com/dword-design/nuxt-modernizr) - Adds a Modernizr build to your Nuxt app.
 - [nuxt-bugsnag](https://github.com/JulianMar/nuxt-bugsnag) - Use bugsnag as module.
 - [nuxt-vue-select](https://github.com/madmod/nuxt-vue-select) - Nuxt module for [vue-select](https://vue-select.org/).
 - [nuxt-socket-io](https://github.com/richardeschloss/nuxt-socket-io) - Nuxt module for [socket.io-client](https://github.com/socketio/socket.io-client)! Easy! Works with Nuxt 2.x.
@@ -190,11 +190,28 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-scss-to-js](https://github.com/sugoidesune/nuxt-scss-to-js) - Use SCSS variables inside your Components/Templates/Scripts.
 - [nuxt-gmaps](https://gitlab.com/broj42/nuxt-gmaps) - Easy integration of Google Maps with many setting options.
 - [nuxt-chatra-module](https://github.com/ceigh/nuxt-chatra-module) - Live chat support intagration with [Chatra](https://chatra.com).
+- [nuxt-fingerprint2](https://github.com/abakermi/nuxt-fingerprint2) - fingerprint2 integration
 - [nuxt-icon-font](https://github.com/omidbakhshi/nuxt-icon-font) - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font, Generator of fonts from SVG icons
 - [nuxt-highlightjs](https://github.com/Llang8/nuxt-highlightjs) - Highlight.js syntax highlighting for Nuxt JS.
+- [nuxt-userbase-module](https://github.com/ceigh/nuxt-userbase-module) - User authentication and data storage with [Userbase](https://userbase.com).
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
+- [nuxt-content-algolia](https://github.com/danielkellyio/nuxt-content-algolia) - Automatically sync content stored in your project with nuxt content to an Algolia index.
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
 - [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-blurhash](https://github.com/filsuck/nuxt-blurhash) - Nuxt module for simple integration with [BlurHash](https://blurha.sh/) Algorithm
+- [nuxt-google-sheets-parser](https://github.com/fureweb-com/nuxt-google-sheets-parser) - Easily import data from published Google Sheets.
+- [nuxt-web3](https://github.com/fauzan121002/nuxt-web3) - [Web3.js](https://github.com/ChainSafe/web3.js) module integration for Nuxt.js - Build dApps easier!
+- [nuxt-router-ui](https://github.com/richardeschloss/nuxt-router-ui) - A router UI for Nuxt and Vue applications. Ctrl+Shift+Space and you're good to navigate your routes asap!
+- [nuxt-paystack](https://github.com/ECJ222/nuxt-paystack) - Nuxt module to help integrate Paystack payment gateway.
+- [Storefront UI Module](https://www.npmjs.com/package/@storefront-ui/nuxt) - [Storefront UI](https://www.storefrontui.io/)
+- [nuxt-change-case](https://github.com/RadKod/nuxt-change-case) - change-case integration as nuxt module.
+- [nuxt-html2canvas-proxy](https://github.com/ChangJoo-Park/nuxt-html2canvas-proxy) - Provide html2canvas-proxy for Nuxt.js.
+- [vue-persian-datepicker](https://github.com/alireza-ab/vue-persian-datepicker) - A datepicker component for select date. [[example]](https://alireza-ab.ir/datepicker) **(single and range selection, select date and time, select with keyboard, customizable style, localization)**
+- [nuxt-assets-paths](https://github.com/victorgarciaesgi/nuxt-assets-paths) - Autocomplete for nuxt assets, icons and images paths
+- [nuxt-headway](https://github.com/l-portet/nuxt-headway) - Integrate the Headway changelog widget into your app.
+- [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - Adds easy JSON:API client integration to Nuxt.
+- [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
+- [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
 
 ### Tools
 
@@ -202,7 +219,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [acidjazz/aeonian](https://github.com/acidjazz/aeonian) - Automate the deployment of your Nuxt.js project on AWS S3 + CloudFront.
 - [nuxt-memwatch](https://github.com/pimlie/nuxt-memwatch) - Quickly watch real-time memory stats of your Nuxt app.
 - [create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Official scaffolding tool for Nuxt.js projects. Create a Nuxt.js project in seconds.
+- [create-nuxt-netlify-cms-docs](https://github.com/RoboMx/create-nuxt-netlify-cms-docs) - Create Nuxt based docs with Netlify CMS as content manager.
 - [fume](https://fume.app) - Deploy to AWS supporting both server and static hosting, custom domains, integrations, and much more.
+
 
 ### Mention of Nuxt.js
 
@@ -217,7 +236,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
-- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US.  Find or sell your home on HomeFinder!
+- [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US. Find or sell your home on HomeFinder!
 - [www.gamevix.com](https://www.gamevix.com/) - GameVix: Swap Video Game Discs - Spend much LESS 💰, play much MOAR 🎮! (Nuxt.js + Vuetify.js).
 - [netsells.co.uk](https://netsells.co.uk/) - Web agency website based on Nuxt.js powered by a Laravel backend.
 - [conf.vuejs.org](https://conf.vuejs.org) - Official Vue.js Conf 2017 website.
@@ -307,12 +326,14 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Muhaddis](https://muhaddis.info) ([Source](https://github.com/MuhaddiMu/Portfolio)) - Open Source Portfolio website based on Nuxt.js ✨ Moved from WordPress to Jamstack
 - [Outdoormix Festival](https://www.outdoormixfestival.com/) - A full history of 7 years of Ride & Party at Outdoormix Festival powered by Strapi and Nuxt.js
 - [lilomoino.fr](https://lilomoino.fr) - Blog photo, video and music. Full static and using Strapi as backend.
+- [Vue - The Road To Enterprise](https://theroadtoenterprise.com) - A website build with Nuxt for "Vue - The Road To Enterprise", which is a book that revolves around advanced concepts, patterns, and best practices, for building large-scale Vue applications.
+- [empire-admin](https://github.com/BroCode-Interactive/empire-admin) - An awesome, open-source admin panel template made with NuxtJS and bootstrap-vue. (It's still a work in progress, remember to check regularly for updates)
 
 ### Tutorials
 
-[nuxt-v1-label]: media/nuxt-v1-label.svg 'Nuxt.js v1'
-[nuxt-v2-label]: media/nuxt-v2-label.svg 'Nuxt.js v2'
-[nuxt-v3-label]: media/nuxt-v3-label.svg 'Nuxt.js v3'
+[nuxt-v1-label]: media/nuxt-v1-label.svg "Nuxt.js v1"
+[nuxt-v2-label]: media/nuxt-v2-label.svg "Nuxt.js v2"
+[nuxt-v3-label]: media/nuxt-v3-label.svg "Nuxt.js v3"
 
 > The labels show the Nuxt.js versions that were available at that time.
 
@@ -329,6 +350,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 #### 2020
 
 - [What to do when Vue hydration fails](https://blog.lichter.io/posts/vue-hydration-error/?ref=awesome-nuxt)
+- [When should you Use Nuxt.js instead of Vue.js?](https://medium.com/javascript-in-plain-english/when-should-you-use-nuxt-js-instead-of-vue-js-8558a33b91c6)
 
 #### 2019
 
@@ -381,7 +403,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Role Based Authorization for your Vue.js and Nuxt.js Applications Using vue-kindergarten](https://medium.com/@JiriChara/role-based-authorization-for-your-vue-js-and-nuxt-js-applications-using-vue-kindergarten-fd483e013ec5)
 - [Create and publish a Nuxt.js powered website on GitHub pages](https://hackernoon.com/create-and-publish-a-nuxt-powered-website-on-github-pages-3e922dfa7372)
 - [Introduction To Server Rendered Vue.js Apps With Nuxt](https://medium.com/codingthesmartway-com-blog/introduction-to-server-rendered-vue-js-apps-with-nuxt-91dbfd80795a)
-- [深入NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
+- [深入 NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
 - [用 nuxt 开发部署一个 v2ex](https://orangexc.xyz/2017/06/19/n2ex/)
 - [Integrate Vue InstantSearch with Nuxt.js for server side rendered search with Algolia](https://community.algolia.com/vue-instantsearch/advanced/integrate-with-nuxt.html)
 - [Handling server side rendering and SEO with nuxt.js](https://medium.com/@devlob/handling-server-side-rendering-and-seo-with-nuxt-js-fa8a2b0ae2ee)
@@ -450,6 +472,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [hex-digital/nuxtpress](https://github.com/hex-digital/nuxtpress) - A modern Nuxt + headless WordPress starter kit; dockerised, SEO-friendly and with development and testing tools pre-integrated.
 - [mmoollllee/nuxt-starter-template](https://github.com/mmoollllee/nuxt-starter-template) – Template for basic static site generated marketing website.
 - [vinayakkulkarni/module-template-ava](https://github.com/vinayakkulkarni/module-template-ava) - Starter template for Nuxt.js Modules using Ava instead of Jest.
+- [rk-nuxt-atomic-design-starter](https://github.com/RadKod/rk-nuxt-atomic-design-starter) - Atomic Design starter template for nuxt.js.
 
 ### Docker
 
@@ -471,7 +494,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 ### Projects Using Nuxt.js
 
 - [Amujamu](https://amujamu.com) - Amujamu has the largest collection of Thailand tours. Book your desired one for the best deal. Amujamu, the best of its kind, should be your first choice when it comes to booking tours for Thailand. Tourism Authority of Thailand (TAT) approved tours &amp; activity marketplace.
-- [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches  content from Strapi using Apollo.
+- [Via Montessori](http://via-montessori.com) - Collection of Montessori educational activities and articles; Nuxt fetches content from Strapi using Apollo.
 - [sum.cumo](https://www.sumcumo.com/en) - Sum.cumo® is a strongly growing, innovative company from Hamburg and as such the implementation partner of choice for corporate digitalization in the insurance and lotto industries.
 - [element-43](https://element-43.com/) - Element43 is an all-in-one site to track the markets, your industry jobs, trading, you name it.
 - [gustavo](https://github.com/eggplanetio/gustavo) - Headless blogging platform built atop Nuxt & Gist.
