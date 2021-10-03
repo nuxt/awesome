@@ -376,6 +376,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [How to reduce the size of Nuxt files in 10%-20% with Brotli + Cloudfront](https://www.linkedin.com/pulse/how-use-brotli-cloudfront-nuxt-serverless-edison-harada/)
 - [Working with Ghost and Nuxt.js](https://ghost.org/docs/api/nuxtjs/)
 - [Build a blog with Nuxt (Vue.js), Strapi and Apollo](https://strapi.io/blog/build-a-blog-using-nuxt-strapi-and-apollo/)
+- [Nuxt.js — Two super easy changes for starters that can dramatically improve the performance](https://lukeliutingchun.medium.com/nuxt-js-two-super-easy-change-that-can-dramatically-improve-the-performance-c954ee171d02)
 
 #### 2018
 
