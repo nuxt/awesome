@@ -504,18 +504,18 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ![Nuxt.js v3][nuxt-v3-label]
 
-| Name/Link | Description | Repo |
+| Name | Description | Repository |
 |---|---|---|
 
 ![Nuxt.js v2][nuxt-v2-label]
 
-| Name/Link | Description | Repo |
+| Name | Description | Repository |
 |---|---|---|
 | [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
 
 ![Nuxt.js v1][nuxt-v1-label]
 
-| Name/Link | Description | Repo |
+| Name | Description | Repository |
 |---|---|---|
 
 ### Projects Using Nuxt.js
