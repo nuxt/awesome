@@ -362,6 +362,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ![Nuxt.js v2][nuxt-v2-label] ![Nuxt.js v1][nuxt-v1-label]
 
+- [Nuxt.js — Two super easy changes for starters that can dramatically improve the performance](https://lukeliutingchun.medium.com/nuxt-js-two-super-easy-change-that-can-dramatically-improve-the-performance-c954ee171d02)
 - [Nuxt.js: A Universal Vue.js Application Framework](https://www.sitepoint.com/nuxt-js-universal-vue-js/)
 - [How to use a headless CMS with Nuxt](https://www.storyblok.com/tp/headless-cms-nuxtjs)
 - [The complete guide to build a full blown multilanguage website with Nuxt.js](https://www.storyblok.com/tp/nuxt-js-multilanguage-website-tutorial)
