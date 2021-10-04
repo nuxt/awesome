@@ -11,7 +11,8 @@
 
 Nuxt.js is a framework for creating Universal Vue.js Applications.
 
-Notice: We added a new section for [Open Source Projects Using Nuxt.js](#open-source-projects-using-nuxtjs), we urge you to move your projects to that section if you already have them in [Projects Using Nuxt.js](#projects-using-nuxtjs) section.
+> 💡 **Notice**: 
+> We added a new section for [Open source projects using Nuxt](#open-source-projects-using-nuxt), we urge you to move your projects to that section if you already have them in [Projects using Nuxt](#projects-using-nuxt) section.
 
 ## Contents
 
@@ -28,7 +29,7 @@ Notice: We added a new section for [Open Source Projects Using Nuxt.js](#open-so
 - [Docker](#docker)
 - [Official Examples](#official-examples)
 - [Community Examples](#community-examples)
-- [Open Source Projects Using Nuxt.js](#open-source-projects-using-nuxtjs)
+- [Open source projects using Nuxt](#open-source-projects-using-nuxt)
 - [Projects Using Nuxt.js](#projects-using-nuxtjs)
 
 ### Official Resources
@@ -494,14 +495,14 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [hex-digital/nuxt-cypress-example](https://github.com/hex-digital/nuxt-cypress-example) - Examples of Cypress tests on different Nuxt functionality, including Nuxt auth and more.
 
-### Open Source Projects Using Nuxt.js
+### Open source projects using Nuxt
 
-![Nuxt.js v3][nuxt-v3-label]
+![Nuxt v3][nuxt-v3-label]
 
 | Name | Description | Repository |
 |---|---|---|
 
-![Nuxt.js v2][nuxt-v2-label]
+![Nuxt v2][nuxt-v2-label]
 
 | Name | Description | Repository |
 |---|---|---|
@@ -527,7 +528,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 | [Dutch Art Daily](https://dutchartdaily.com) | A new Dutch Golden Age artwork displayed every day. | [github](https://github.com/patrickcate/dutch-art-daily) |
 
 
-![Nuxt.js v1][nuxt-v1-label]
+![Nuxt v1][nuxt-v1-label]
 
 | Name | Description | Repository |
 |---|---|---|
