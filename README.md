@@ -167,6 +167,7 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 - [nuxt-protected-mailto](https://github.com/mmoollllee/nuxt-protected-mailto) - Component to protect email from spam-bots without sacrificing usability.
 - [contentful-module](https://github.com/scaccogatto/contentful-module) - Multiple-env Contentful generator
 - [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache. 
+- [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website. 
 
 
 ### Tools
