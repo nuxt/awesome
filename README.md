@@ -320,6 +320,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Vue SoundCloud](https://vue-soundcloud.herokuapp.com) - A SoundCloud client built with Vue and Nuxt.
 - [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + Tailwind.
 - [theoddwave.co.nz](https://theoddwave.co.nz/) - website builder for business startups in New Zealand using Nuxt.js, Vue.js and headless CMS.
+- [HotTempMail.com](https://hottempmail.com/) - Temporary Disposable email address ID generator service.
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
 - [Freshworks Marketplace](https://www.freshworks.com/apps/) - Freshworks App Marketplace with over a 1000 apps trusted by over 30,000 businesses built using Nuxt.js.
 - [hurriyetemlak.com](https://hurriyetemlak.com) - The largest real estate portal in the Turkey. Over 18 billion traffic per month.
