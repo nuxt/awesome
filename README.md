@@ -60,7 +60,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Dotenv](https://github.com/nuxt-community/dotenv-module) - Loads your .env file into your application context.
 - [Google-analytics](https://github.com/nuxt-community/analytics-module) - Google Analytics integration for Nuxt.js with vue-analytics.
 - [Sitemap](https://github.com/nuxt-community/sitemap-module) - Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects.
-- [Nuxtent](https://github.com/nuxt-community/nuxtent-module) - Seamlessly use content files in your Nuxt.js sites.
 - [Blog](https://github.com/nuxt-community/blog-module) - Create a blog with Nuxt.
 - [Router](https://github.com/nuxt-community/router-module) - Nuxt.js module to use router.js instead of pages/ directory.
 - [OAuth](https://github.com/samtgarson/nuxt-oauth) - Simple OAuth2 integration for your Nuxt app.
