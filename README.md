@@ -608,7 +608,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
 - [nextkickerz](https://nextkickerz.de) - Soccer mass video competition platform in cooperation with Germany's largest retail chain with world champion goalkeeper testimonial - based on JAMstack technology
-- [KodaDot](https://kodadot.xyz) - NFT Marketplace on Polkadot funded as public good, written in Vue.js, [github](https://github.com/kodadot/nft-gallery)
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
