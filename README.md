@@ -60,7 +60,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Dotenv](https://github.com/nuxt-community/dotenv-module) - Loads your .env file into your application context.
 - [Google-analytics](https://github.com/nuxt-community/analytics-module) - Google Analytics integration for Nuxt.js with vue-analytics.
 - [Sitemap](https://github.com/nuxt-community/sitemap-module) - Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects.
-- [Nuxtent](https://github.com/nuxt-community/nuxtent-module) - Seamlessly use content files in your Nuxt.js sites.
 - [Blog](https://github.com/nuxt-community/blog-module) - Create a blog with Nuxt.
 - [Router](https://github.com/nuxt-community/router-module) - Nuxt.js module to use router.js instead of pages/ directory.
 - [OAuth](https://github.com/samtgarson/nuxt-oauth) - Simple OAuth2 integration for your Nuxt app.
@@ -219,9 +218,10 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - Adds easy JSON:API client integration to Nuxt.
 - [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
 - [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
-- [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website. 
-- [nuxt-adyen-module](https://github.com/Baroshem/nuxt-adyen-module) 
-- [Adyen](https://www.adyen.com/) Payment module for Nuxt.js
+- [nuxt-adyen-module](https://github.com/Baroshem/nuxt-adyen-module) [Adyen](https://www.adyen.com/) Payment module for Nuxt.js
+- [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website.
+- [nuxt-bigcommerce](https://github.com/Baroshem/nuxt-bigcommerce) - Easy BigCommerce integration for Nuxt.js
+
 
 ### Tools
 
