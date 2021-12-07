@@ -220,7 +220,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
 - [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
 - [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website. 
-- [nuxt-adyen-module](https://github.com/Baroshem/nuxt-adyen-module) - [Adyen](https://www.adyen.com/) Payment module for Nuxt.js
+- [nuxt-adyen-module](https://github.com/Baroshem/nuxt-adyen-module) 
+- [Adyen](https://www.adyen.com/) Payment module for Nuxt.js
 
 ### Tools
 
