@@ -422,7 +422,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 | [Holt Soundboard](https://nine-nine.now.sh/) | Soundboard app for all characters from the NBC show Brooklyn Nine-Nine. | [github](https://github.com/holt-soundboard/holt-soundboard-web) |
 | [Lammpee](https://lammpee.de/) | Old operating system as homepage. | [github](https://github.com/ThornWalli/web-workbench) |
 | [Muhaddis](https://muhaddis.info) | Open Source Portfolio website based on Nuxt.js ✨ Moved from WordPress to Jamstack | [github](https://github.com/MuhaddiMu/Portfolio) |
-| empire-admin | An awesome, open-source admin panel template made with NuxtJS and bootstrap-vue. (It's still a work in progress, remember to check regularly for updates) | [github](https://github.com/BroCode-Interactive/empire-admin) |
 | n2ex | Web app of v2ex built with Nuxt. | [github](https://github.com/OrangeXC/n2ex) |
 | ammobin.ca | Meta search site for ammo prices in Canada. | [github](https://github.com/ammobinDOTca/ammobin-client) |
 | Hare | Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js. 🐇 | [github](https://github.com/clarkdo/hare) |
