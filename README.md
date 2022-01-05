@@ -438,7 +438,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 | [tota.sk](https://tota.sk) | NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent. | [github](https://github.com/surfinzap/tota) |
 | mute.vc | Mute investors on Twitter. | [github](https://github.com/tmm/mute.vc) |
 | [Dutch Art Daily](https://dutchartdaily.com) | A new Dutch Golden Age artwork displayed every day. | [github](https://github.com/patrickcate/dutch-art-daily) |
-
+| [Nuxt stitches for tailblocks](https://nekdolan.github.io/nuxt-stitches-for-tailblocks/) | A simple, fast web app to generate html based on a collection of commonly used user interface patterns. | [github](https://github.com/nekdolan/nuxt-stitches-for-tailblocks) |
 
 ![Nuxt v1][nuxt-v1-label]
 
