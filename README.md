@@ -60,7 +60,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Dotenv](https://github.com/nuxt-community/dotenv-module) - Loads your .env file into your application context.
 - [Google-analytics](https://github.com/nuxt-community/analytics-module) - Google Analytics integration for Nuxt.js with vue-analytics.
 - [Sitemap](https://github.com/nuxt-community/sitemap-module) - Automatically generate or serve dynamic `sitemap.xml` for Nuxt.js projects.
-- [Nuxtent](https://github.com/nuxt-community/nuxtent-module) - Seamlessly use content files in your Nuxt.js sites.
 - [Blog](https://github.com/nuxt-community/blog-module) - Create a blog with Nuxt.
 - [Router](https://github.com/nuxt-community/router-module) - Nuxt.js module to use router.js instead of pages/ directory.
 - [OAuth](https://github.com/samtgarson/nuxt-oauth) - Simple OAuth2 integration for your Nuxt app.
@@ -219,7 +218,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - Adds easy JSON:API client integration to Nuxt.
 - [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
 - [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
-- [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website. 
+- [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website.
+- [nuxt-bigcommerce](https://github.com/Baroshem/nuxt-bigcommerce) - Easy BigCommerce integration for Nuxt.js
+- [@nuxt-commerce/algolia](https://github.com/nuxt-commerce/algolia) - Algolia integration for Nuxt 3
 
 ### Tools
 
@@ -417,12 +418,12 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| [KodaDot](https://kodadot.xyz) | NFT Marketplace on Polkadot funded as public good, written in Vue.js | [github](https://github.com/kodadot/nft-gallery) |
 | [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
 | [We Are Apartments](https://weareapartments.org/) | We Are Apartments - helping people live in a home that's right for them. | [github](https://github.com/acidjazz/waa) |
 | [Holt Soundboard](https://nine-nine.now.sh/) | Soundboard app for all characters from the NBC show Brooklyn Nine-Nine. | [github](https://github.com/holt-soundboard/holt-soundboard-web) |
 | [Lammpee](https://lammpee.de/) | Old operating system as homepage. | [github](https://github.com/ThornWalli/web-workbench) |
 | [Muhaddis](https://muhaddis.info) | Open Source Portfolio website based on Nuxt.js ✨ Moved from WordPress to Jamstack | [github](https://github.com/MuhaddiMu/Portfolio) |
-| empire-admin | An awesome, open-source admin panel template made with NuxtJS and bootstrap-vue. (It's still a work in progress, remember to check regularly for updates) | [github](https://github.com/BroCode-Interactive/empire-admin) |
 | n2ex | Web app of v2ex built with Nuxt. | [github](https://github.com/OrangeXC/n2ex) |
 | ammobin.ca | Meta search site for ammo prices in Canada. | [github](https://github.com/ammobinDOTca/ammobin-client) |
 | Hare | Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js. 🐇 | [github](https://github.com/clarkdo/hare) |
@@ -437,7 +438,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 | [tota.sk](https://tota.sk) | NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent. | [github](https://github.com/surfinzap/tota) |
 | mute.vc | Mute investors on Twitter. | [github](https://github.com/tmm/mute.vc) |
 | [Dutch Art Daily](https://dutchartdaily.com) | A new Dutch Golden Age artwork displayed every day. | [github](https://github.com/patrickcate/dutch-art-daily) |
-
+| [Nuxt stitches for tailblocks](https://nekdolan.github.io/nuxt-stitches-for-tailblocks/) | A simple, fast web app to generate html based on a collection of commonly used user interface patterns. | [github](https://github.com/nekdolan/nuxt-stitches-for-tailblocks) |
 
 ![Nuxt v1][nuxt-v1-label]
 
@@ -463,6 +464,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend.
 - [pro.ekiten.jp](https://pro.ekiten.jp) - Japanese matching website for professionals based on Nuxt.js powered by a Go backend on ECS.
 - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses.
+- [PayAnalytics](https://www.payanalytics.com) - Pay analysis software used around the world by HR and compensation managers.
 - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs.
 - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - Singapore-based real estate agent search engine based on Nuxt.js.
 - [tipe.io](https://tipe.io) - Meta CMS that allows you to create and manage your content with GraphQL or REST API.
@@ -608,6 +610,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
 - [nextkickerz](https://nextkickerz.de) - Soccer mass video competition platform in cooperation with Germany's largest retail chain with world champion goalkeeper testimonial - based on JAMstack technology
 - [coachkyubi.fr](https://coachkyubi.fr/) - Personal website of French sport coach. Built with Nuxt.js, Tailwind and Sanity.
+- [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
