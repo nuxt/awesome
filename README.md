@@ -464,6 +464,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [binbytes.com](https://www.binbytes.com) - Web & Mobile application development agency website based on Nuxt.js powered by a Laravel backend.
 - [pro.ekiten.jp](https://pro.ekiten.jp) - Japanese matching website for professionals based on Nuxt.js powered by a Go backend on ECS.
 - [homepinr.com](https://homepinr.com) - Dutch platform to show interest in houses.
+- [PayAnalytics](https://www.payanalytics.com) - Pay analysis software used around the world by HR and compensation managers.
 - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs.
 - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - Singapore-based real estate agent search engine based on Nuxt.js.
 - [tipe.io](https://tipe.io) - Meta CMS that allows you to create and manage your content with GraphQL or REST API.
