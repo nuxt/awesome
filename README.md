@@ -222,6 +222,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website.
 - [nuxt-bigcommerce](https://github.com/Baroshem/nuxt-bigcommerce) - Easy BigCommerce integration for Nuxt.js
 - [@nuxt-commerce/algolia](https://github.com/nuxt-commerce/algolia) - Algolia integration for Nuxt 3
+- [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 
 
 ### Tools
