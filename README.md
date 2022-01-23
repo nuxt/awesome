@@ -220,6 +220,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
 - [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website.
 - [@nuxt-commerce/algolia](https://github.com/nuxt-commerce/algolia) - Algolia integration for Nuxt 3
+- [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
 
 
