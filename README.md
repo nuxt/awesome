@@ -218,10 +218,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-jsonapi](https://github.com/patrickcate/nuxt-jsonapi) - Adds easy JSON:API client integration to Nuxt.
 - [nuxt-appwrite](https://github.com/Hrdtr/nuxt-appwrite) - [Appwrite](https://appwrite.io) module for Nuxt.
 - [nuxt-storybook](https://github.com/nuxt-community/storybook) - Storybook integration with NuxtJS.
-- [nuxt-adyen-module](https://github.com/Baroshem/nuxt-adyen-module) [Adyen](https://www.adyen.com/) Payment module for Nuxt.js
 - [nuxt-speedkit](https://github.com/GrabarzUndPartner/nuxt-speedkit) - nuxt-speedkit will help you to improve the lighthouse performance score (100/100) of your website.
-- [nuxt-bigcommerce](https://github.com/Baroshem/nuxt-bigcommerce) - Easy BigCommerce integration for Nuxt.js
-- [@nuxt-modules/algolia](https://github.com/nuxt-modules/algolia) - Algolia integration for Nuxt 3
+- [@nuxt-commerce/algolia](https://github.com/nuxt-commerce/algolia) - Algolia integration for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
 
 
