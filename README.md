@@ -455,6 +455,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Projects Using Nuxt
 
+- [RepoTracker](https://repo-tracker.com) - Easily keep track of multiple GitHub repositories (Nuxt 3).
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US. Find or sell your home on HomeFinder!
