@@ -11,7 +11,7 @@
 
 Nuxt.js is a framework for creating Universal Vue.js Applications.
 
-> 💡 **Notice**: 
+> 💡 **Notice**:
 > We added a new section for [Open source projects using Nuxt](#open-source-projects-using-nuxt), we urge you to move your projects to that section if you already have them in [Projects using Nuxt](#projects-using-nuxt) section.
 
 ## Contents
@@ -121,7 +121,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-neo](https://github.com/ezypeeze/nuxt-neo) - Create your middleware api using a universal access point approach from your vue pages.
 - [nuxt-viewport](https://github.com/mvrlin/nuxt-viewport) - Define custom viewports for your Nuxt project.
 - [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - Vue MQ module for Nuxt.js.
-- [nuxt-content-git](https://github.com/dword-design/nuxt-content-git) - Set @nuxt/content createdAt and updatedAt dates from Git history. 
+- [nuxt-content-git](https://github.com/dword-design/nuxt-content-git) - Set @nuxt/content createdAt and updatedAt dates from Git history.
 - [kentico-kontent-nuxt-module](https://github.com/Domitnator/kentico-kontent-nuxt-module) - Add Kentico Kontent super power to your Nuxt app.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
@@ -177,7 +177,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-mail](https://github.com/dword-design/nuxt-mail) - Send emails in your Nuxt app
 - [nuxt-protected-mailto](https://github.com/mmoollllee/nuxt-protected-mailto) - Component to protect email from spam-bots without sacrificing usability.
 - [contentful-module](https://github.com/scaccogatto/contentful-module) - Multiple-env Contentful generator
-- [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache. 
+- [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache.
 - [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache.
 - [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Publish your components as a vue-custom-element standalone build.
 - [nuxt-prune-html](https://github.com/LuXDAmore/nuxt-prune-html) - Module to prune html before sending it to the browser (it removes elements matching CSS selector(s)), useful for boosting performance showing a different HTML for bots.
@@ -202,7 +202,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-content-algolia](https://github.com/danielkellyio/nuxt-content-algolia) - Automatically sync content stored in your project with nuxt content to an Algolia index.
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
-- [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the [HumansTxt organization project](http://humanstxt.org/).
 - [nuxt-youtube-subscribe-module](https://github.com/jualoppaz/nuxt-youtube-subscribe-module) - Nuxt module for add the official Youtube Subscribe Button in your nuxt application.
 - [nuxt-blurhash](https://github.com/filsuck/nuxt-blurhash) - Nuxt module for simple integration with [BlurHash](https://blurha.sh/) Algorithm
 - [nuxt-google-sheets-parser](https://github.com/fureweb-com/nuxt-google-sheets-parser) - Easily import data from published Google Sheets.
@@ -223,7 +223,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
 
-
 ### Tools
 
 - [nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for Nuxt.js.
@@ -232,7 +231,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Official scaffolding tool for Nuxt.js projects. Create a Nuxt.js project in seconds.
 - [create-nuxt-netlify-cms-docs](https://github.com/RoboMx/create-nuxt-netlify-cms-docs) - Create Nuxt based docs with Netlify CMS as content manager.
 - [fume](https://fume.app) - Deploy to AWS supporting both server and static hosting, custom domains, integrations, and much more.
-
 
 ### Mention of Nuxt
 
@@ -391,6 +389,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [mmoollllee/nuxt-starter-template](https://github.com/mmoollllee/nuxt-starter-template) – Template for basic static site generated marketing website.
 - [vinayakkulkarni/module-template-ava](https://github.com/vinayakkulkarni/module-template-ava) - Starter template for Nuxt.js Modules using Ava instead of Jest.
 - [rk-nuxt-atomic-design-starter](https://github.com/RadKod/rk-nuxt-atomic-design-starter) - Atomic Design starter template for nuxt.js.
+- [brunogonzales/fcl-nuxt-starter](https://github.com/brunogonzales/fcl-nuxt-starter) Nuxt with [Flow](https://docs.onflow.org/) Client Library pre-installed that allows your application to interact with smart contracts on the Flow blockchain using JavaScript.
 
 ### Docker
 
@@ -414,44 +413,45 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 ![Nuxt v3][nuxt-v3-label]
 
 | Name | Description | Repository |
-|---|---|---|
+| ---- | ----------- | ---------- |
+
 
 ![Nuxt v2][nuxt-v2-label]
 
-| Name | Description | Repository |
-|---|---|---|
-| [KodaDot](https://kodadot.xyz) | NFT Marketplace on Polkadot funded as public good, written in Vue.js | [github](https://github.com/kodadot/nft-gallery) |
-| [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
-| [We Are Apartments](https://weareapartments.org/) | We Are Apartments - helping people live in a home that's right for them. | [github](https://github.com/acidjazz/waa) |
-| [Holt Soundboard](https://nine-nine.now.sh/) | Soundboard app for all characters from the NBC show Brooklyn Nine-Nine. | [github](https://github.com/holt-soundboard/holt-soundboard-web) |
-| [Lammpee](https://lammpee.de/) | Old operating system as homepage. | [github](https://github.com/ThornWalli/web-workbench) |
-| [Muhaddis](https://muhaddis.info) | Open Source Portfolio website based on Nuxt.js ✨ Moved from WordPress to Jamstack | [github](https://github.com/MuhaddiMu/Portfolio) |
-| n2ex | Web app of v2ex built with Nuxt. | [github](https://github.com/OrangeXC/n2ex) |
-| ammobin.ca | Meta search site for ammo prices in Canada. | [github](https://github.com/ammobinDOTca/ammobin-client) |
-| Hare | Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js. 🐇 | [github](https://github.com/clarkdo/hare) |
-| [moso.io](https://moso.io) | Personal SSR and PWA portfolio by [@moso](https://github.com/moso) built with Nuxt.js, [Strapi](https://strapi.io), and [Brutalism](https://brutalist-web.design).  | [github](https://github.com/moso/moso-vite) |
-| VueBlog | Blog system [@wmui](https://github.com/wmui). | [github](https://github.com/wmui/vueblog) |
-| DBAdventure | Simple PHP and VueJs game where players embody a Dragon Ball character. | [github](https://github.com/DBAdventure/web) |
-| NuxtDoc by Storyblok | The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.  | [github](https://github.com/storyblok/nuxtdoc) |
-| nuxt-elm | Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/). | [github](https://github.com/EasyTuan/nuxt-elm/) |
-| vue-org-chart | Manage and publish your interactive organization chart (orgchart), free and no webserver required. | [github](https://github.com/Hoogkamer/vue-org-chart) |
-| Opa | Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI. | [github](https://github.com/credija/opa) |
-| vue-soundcloud | Simple SoundCloud client built with Vue and Nuxt. | [github](https://github.com/soroushchehresa/vue-soundcloud) |
-| [tota.sk](https://tota.sk) | NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent. | [github](https://github.com/surfinzap/tota) |
-| mute.vc | Mute investors on Twitter. | [github](https://github.com/tmm/mute.vc) |
-| [Dutch Art Daily](https://dutchartdaily.com) | A new Dutch Golden Age artwork displayed every day. | [github](https://github.com/patrickcate/dutch-art-daily) |
-| [Nuxt stitches for tailblocks](https://nekdolan.github.io/nuxt-stitches-for-tailblocks/) | A simple, fast web app to generate html based on a collection of commonly used user interface patterns. | [github](https://github.com/nekdolan/nuxt-stitches-for-tailblocks) |
+| Name                                                                                     | Description                                                                                                                                                        | Repository                                                         |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [KodaDot](https://kodadot.xyz)                                                           | NFT Marketplace on Polkadot funded as public good, written in Vue.js                                                                                               | [github](https://github.com/kodadot/nft-gallery)                   |
+| [Sahem](https://ramadanathon.netlify.app/)                                               | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021.                       | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon)            |
+| [We Are Apartments](https://weareapartments.org/)                                        | We Are Apartments - helping people live in a home that's right for them.                                                                                           | [github](https://github.com/acidjazz/waa)                          |
+| [Holt Soundboard](https://nine-nine.now.sh/)                                             | Soundboard app for all characters from the NBC show Brooklyn Nine-Nine.                                                                                            | [github](https://github.com/holt-soundboard/holt-soundboard-web)   |
+| [Lammpee](https://lammpee.de/)                                                           | Old operating system as homepage.                                                                                                                                  | [github](https://github.com/ThornWalli/web-workbench)              |
+| [Muhaddis](https://muhaddis.info)                                                        | Open Source Portfolio website based on Nuxt.js ✨ Moved from WordPress to Jamstack                                                                                 | [github](https://github.com/MuhaddiMu/Portfolio)                   |
+| n2ex                                                                                     | Web app of v2ex built with Nuxt.                                                                                                                                   | [github](https://github.com/OrangeXC/n2ex)                         |
+| ammobin.ca                                                                               | Meta search site for ammo prices in Canada.                                                                                                                        | [github](https://github.com/ammobinDOTca/ammobin-client)           |
+| Hare                                                                                     | Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js. 🐇                                                                                   | [github](https://github.com/clarkdo/hare)                          |
+| [moso.io](https://moso.io)                                                               | Personal SSR and PWA portfolio by [@moso](https://github.com/moso) built with Nuxt.js, [Strapi](https://strapi.io), and [Brutalism](https://brutalist-web.design). | [github](https://github.com/moso/moso-vite)                        |
+| VueBlog                                                                                  | Blog system [@wmui](https://github.com/wmui).                                                                                                                      | [github](https://github.com/wmui/vueblog)                          |
+| DBAdventure                                                                              | Simple PHP and VueJs game where players embody a Dragon Ball character.                                                                                            | [github](https://github.com/DBAdventure/web)                       |
+| NuxtDoc by Storyblok                                                                     | The setup to build beautiful documentation with Nuxt and Storyblok deployed on Netlify for everyone - for Free.                                                    | [github](https://github.com/storyblok/nuxtdoc)                     |
+| nuxt-elm                                                                                 | Full-stack open source project based on vue2 + nuxt.[Performance demonstration](https://elm.caibowen.net/).                                                        | [github](https://github.com/EasyTuan/nuxt-elm/)                    |
+| vue-org-chart                                                                            | Manage and publish your interactive organization chart (orgchart), free and no webserver required.                                                                 | [github](https://github.com/Hoogkamer/vue-org-chart)               |
+| Opa                                                                                      | Modern XMPP Chat Client for the Web. Built with Nuxt and Element UI.                                                                                               | [github](https://github.com/credija/opa)                           |
+| vue-soundcloud                                                                           | Simple SoundCloud client built with Vue and Nuxt.                                                                                                                  | [github](https://github.com/soroushchehresa/vue-soundcloud)        |
+| [tota.sk](https://tota.sk)                                                               | NPO in Slovakia cherishing the Rusyn culture. Built with Nuxt.js and Kentico Kontent.                                                                              | [github](https://github.com/surfinzap/tota)                        |
+| mute.vc                                                                                  | Mute investors on Twitter.                                                                                                                                         | [github](https://github.com/tmm/mute.vc)                           |
+| [Dutch Art Daily](https://dutchartdaily.com)                                             | A new Dutch Golden Age artwork displayed every day.                                                                                                                | [github](https://github.com/patrickcate/dutch-art-daily)           |
+| [Nuxt stitches for tailblocks](https://nekdolan.github.io/nuxt-stitches-for-tailblocks/) | A simple, fast web app to generate html based on a collection of commonly used user interface patterns.                                                            | [github](https://github.com/nekdolan/nuxt-stitches-for-tailblocks) |
 
 ![Nuxt v1][nuxt-v1-label]
 
-| Name | Description | Repository |
-|---|---|---|
-| LibCrowds | Crowdsourcing platform built with Nuxt.js. | [github](https://github.com/LibCrowds/libcrowds) |
-| gustavo | Headless blogging platform built atop Nuxt & Gist. | [github](https://github.com/eggplanetio/gustavo) |
-| [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) | makes a digital Christmas card every year, and 2017's was built using Nuxt.js. | [github](https://github.com/awayken/2017-christmas-card) |
-| PWA Builder | Generate your Progressive Web App. | [github](https://github.com/pwa-builder/manifoldjs-site/tree/dev) |
-| 5se7en.com | 5se7en's Personal website. Built with Nuxt.js,express,vuex. | [github](https://github.com/se7en-1992/5se7en.com) |
-| [alainperrier.me](https://alainperrier.me) | Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS. | [github](https://github.com/alainperrier/portfolio-2018/) |
+| Name                                                                                | Description                                                                                                                                             | Repository                                                        |
+| ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| LibCrowds                                                                           | Crowdsourcing platform built with Nuxt.js.                                                                                                              | [github](https://github.com/LibCrowds/libcrowds)                  |
+| gustavo                                                                             | Headless blogging platform built atop Nuxt & Gist.                                                                                                      | [github](https://github.com/eggplanetio/gustavo)                  |
+| [2017 Rausch Family Christmas Card](https://awayken.github.io/2017-christmas-card/) | makes a digital Christmas card every year, and 2017's was built using Nuxt.js.                                                                          | [github](https://github.com/awayken/2017-christmas-card)          |
+| PWA Builder                                                                         | Generate your Progressive Web App.                                                                                                                      | [github](https://github.com/pwa-builder/manifoldjs-site/tree/dev) |
+| 5se7en.com                                                                          | 5se7en's Personal website. Built with Nuxt.js,express,vuex.                                                                                             | [github](https://github.com/se7en-1992/5se7en.com)                |
+| [alainperrier.me](https://alainperrier.me)                                          | Personal SSR and PWA portfolio by [@alainperrier](https://github.com/alainperrier/portfolio-2018/) built with Vue.js, Nuxt.js, Laravel and TailwindCSS. | [github](https://github.com/alainperrier/portfolio-2018/)         |
 
 ### Projects Using Nuxt
 
@@ -606,7 +606,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
 - [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
 - [Vokal.co](https://vokal.co/) - Create podcast video snippets for social media.
-- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc. 
+- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc.
 - [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
