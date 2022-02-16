@@ -415,6 +415,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| [OctaGAN](https://morozig.github.io/octagan) | A small browser game where you play as generator against discriminator | [github](https://github.com/morozig/octagan) |
 
 ![Nuxt v2][nuxt-v2-label]
 
