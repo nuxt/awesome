@@ -613,6 +613,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nextkickerz](https://nextkickerz.de) - Soccer mass video competition platform in cooperation with Germany's largest retail chain with world champion goalkeeper testimonial - based on JAMstack technology
 - [coachkyubi.fr](https://coachkyubi.fr/) - Personal website of French sport coach. Built with Nuxt.js, Tailwind and Sanity.
 - [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
+- [School Holidays](https://schoolholidays.com.au) - Discover your family’s next exciting adventure. Find the best kids activities, things to do on weekends and school holidays, kids’ competitions, online classes and much more
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
