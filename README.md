@@ -391,6 +391,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [mmoollllee/nuxt-starter-template](https://github.com/mmoollllee/nuxt-starter-template) – Template for basic static site generated marketing website.
 - [vinayakkulkarni/module-template-ava](https://github.com/vinayakkulkarni/module-template-ava) - Starter template for Nuxt.js Modules using Ava instead of Jest.
 - [rk-nuxt-atomic-design-starter](https://github.com/RadKod/rk-nuxt-atomic-design-starter) - Atomic Design starter template for nuxt.js.
+- [nuxt3-fast-starter](https://github.com/zhixXiang/nuxt3-fast-starter) - Nuxt 3 Starter template with Commonly used features.
 
 ### Docker
 
