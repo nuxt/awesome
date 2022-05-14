@@ -16,20 +16,30 @@ Nuxt.js is a framework for creating Universal Vue.js Applications.
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Modules](#modules)
-- [Tools](#tools)
-- [Mention of Nuxt](#mention-of-nuxt)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Starter Template](#starter-template)
-- [Docker](#docker)
-- [Official Examples](#official-examples)
-- [Community Examples](#community-examples)
-- [Open source projects using Nuxt](#open-source-projects-using-nuxt)
-- [Projects Using Nuxt](#projects-using-nuxt)
+- [Awesome Nuxt.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-nuxtjs-)
+- [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Modules](#modules)
+    - [Official](#official)
+    - [Community](#community-1)
+  - [Tools](#tools)
+  - [Mention of Nuxt](#mention-of-nuxt)
+  - [Tutorials](#tutorials)
+    - [2020](#2020)
+    - [2019](#2019)
+    - [2018](#2018)
+    - [2017](#2017)
+    - [2016](#2016)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Starter Template](#starter-template)
+  - [Docker](#docker)
+  - [Official Examples](#official-examples)
+  - [Community Examples](#community-examples)
+  - [Open source projects using Nuxt](#open-source-projects-using-nuxt)
+  - [Projects Using Nuxt](#projects-using-nuxt)
+- [License](#license)
 
 ### Official Resources
 
@@ -420,6 +430,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| NuxTube| Open Source YouTube app for privacy, made with NuxtJs | [github](https://github.com/joek85/NuxTube)
 | [KodaDot](https://kodadot.xyz) | NFT Marketplace on Polkadot funded as public good, written in Vue.js | [github](https://github.com/kodadot/nft-gallery) |
 | [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
 | [We Are Apartments](https://weareapartments.org/) | We Are Apartments - helping people live in a home that's right for them. | [github](https://github.com/acidjazz/waa) |
