@@ -415,6 +415,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| [CSS Gradient Text](https://www.cssgradienttext.com/) | CSS gradient text | free online gradient text generator | [github](https://github.com/KareemDa/gradient-text) |
 
 ![Nuxt v2][nuxt-v2-label]
 
