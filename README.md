@@ -144,6 +144,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-basic-auth-module](https://github.com/potato4d/nuxt-basic-auth-module) - Provide basic auth your Nuxt.js application.
 - [nuxt-wizard](https://www.npmjs.com/package/nuxt-wizard) - Command-line interface for scaffolding Nuxt projects.
 - [nuxt-payload-extractor](https://github.com/DreaMinder/nuxt-payload-extractor) - Module that saves external API data to static JSON files on 'nuxt generate' command, making your project fully static.
+- [`nuxt-proxy`](https://github.com/wobsoriano/nuxt-proxy) – Http-proxy middleware for Nuxt 3 and h3.
 - [nuxt-apis-to-file](https://github.com/LuXDAmore/nuxt-apis-to-file) - Module to merge and transform static API calls into a single file during the build process.
 - [cloudcms-nuxt](https://github.com/gitana/cloudcms-nuxt) - Cloud CMS Nuxt integration.
 - [nuxt-vue-multiselect](https://github.com/spektrummedia/nuxt-vue-multiselect) - Single / multiple select plugin for Nuxt.js using vue-multiselect.
