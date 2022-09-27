@@ -415,6 +415,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| [Slack Vuesualizer](https://slack-vuesualizer.vercel.app/) | A visualizer for your Slack export - view and search through archived messages | [github](https://github.com/4350pChris/slack-vuesualizer) |
 
 ![Nuxt v2][nuxt-v2-label]
 
