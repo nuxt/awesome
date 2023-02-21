@@ -476,7 +476,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [PayAnalytics](https://www.payanalytics.com) - Pay analysis software used around the world by HR and compensation managers.
 - [incassolink.nl](https://incassolink.nl) - Search for a dept collection agency that suits your needs.
 - [ZenEstate](https://bitbucket.org/timotheeHub/zenestate-client) - Singapore-based real estate agent search engine based on Nuxt.js.
-- [tipe.io](https://tipe.io) - Meta CMS that allows you to create and manage your content with GraphQL or REST API.
 - [BR Podcast](https://www.br.de/mediathek/podcast) - Podcast-Directory of the german broadcaster Bayerischer Rundfunk.
 - [Laboratório IMEC](https://www.laboratorioimec.com.br) - IMEC Pharmacy Website - Made in NuxtJS + WP-API.
 - [Koala](https://au.koala.com) - Ecommerce Progressive Web Application made with Nuxt.js on top of Shopify.
