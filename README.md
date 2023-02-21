@@ -11,25 +11,35 @@
 
 Nuxt.js is a framework for creating Universal Vue.js Applications.
 
-> 💡 **Notice**: 
+> 💡 **Notice**:
 > We added a new section for [Open source projects using Nuxt](#open-source-projects-using-nuxt), we urge you to move your projects to that section if you already have them in [Projects using Nuxt](#projects-using-nuxt) section.
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Modules](#modules)
-- [Tools](#tools)
-- [Mention of Nuxt](#mention-of-nuxt)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Starter Template](#starter-template)
-- [Docker](#docker)
-- [Official Examples](#official-examples)
-- [Community Examples](#community-examples)
-- [Open source projects using Nuxt](#open-source-projects-using-nuxt)
-- [Projects Using Nuxt](#projects-using-nuxt)
+- [Awesome Nuxt.js ](#awesome-nuxtjs-)
+- [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Modules](#modules)
+    - [Official](#official)
+    - [Community](#community-1)
+  - [Tools](#tools)
+  - [Mention of Nuxt](#mention-of-nuxt)
+  - [Tutorials](#tutorials)
+    - [2020](#2020)
+    - [2019](#2019)
+    - [2018](#2018)
+    - [2017](#2017)
+    - [2016](#2016)
+  - [Blogs](#blogs)
+  - [Books](#books)
+  - [Starter Template](#starter-template)
+  - [Docker](#docker)
+  - [Official Examples](#official-examples)
+  - [Community Examples](#community-examples)
+  - [Open source projects using Nuxt](#open-source-projects-using-nuxt)
+  - [Projects Using Nuxt](#projects-using-nuxt)
+- [License](#license)
 
 ### Official Resources
 
@@ -121,7 +131,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-neo](https://github.com/ezypeeze/nuxt-neo) - Create your middleware api using a universal access point approach from your vue pages.
 - [nuxt-viewport](https://github.com/mvrlin/nuxt-viewport) - Define custom viewports for your Nuxt project.
 - [nuxt-mq](https://github.com/vanhoofmaarten/nuxt-mq) - Vue MQ module for Nuxt.js.
-- [nuxt-content-git](https://github.com/dword-design/nuxt-content-git) - Set @nuxt/content createdAt and updatedAt dates from Git history. 
+- [nuxt-content-git](https://github.com/dword-design/nuxt-content-git) - Set @nuxt/content createdAt and updatedAt dates from Git history.
 - [kentico-kontent-nuxt-module](https://github.com/Domitnator/kentico-kontent-nuxt-module) - Add Kentico Kontent super power to your Nuxt app.
 - [nuxt-client-init-module](https://github.com/potato4d/nuxt-client-init-module) - Provide client version of nuxtServerInit.
 - [Nuxt Webpack Dashboard](https://github.com/paulgv/nuxt-webpackdashboard) - Webpack Dashboard integration for Nuxt.
@@ -177,7 +187,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-mail](https://github.com/dword-design/nuxt-mail) - Send emails in your Nuxt app
 - [nuxt-protected-mailto](https://github.com/mmoollllee/nuxt-protected-mailto) - Component to protect email from spam-bots without sacrificing usability.
 - [contentful-module](https://github.com/scaccogatto/contentful-module) - Multiple-env Contentful generator
-- [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache. 
+- [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache.
 - [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache.
 - [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Publish your components as a vue-custom-element standalone build.
 - [nuxt-prune-html](https://github.com/LuXDAmore/nuxt-prune-html) - Module to prune html before sending it to the browser (it removes elements matching CSS selector(s)), useful for boosting performance showing a different HTML for bots.
@@ -202,7 +212,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vue-notion](https://github.com/janniks/vue-notion) - Use Notion as a CMS for Nuxt JS, as seen in [this example](https://vue-notion.now.sh/basic-example).
 - [nuxt-content-algolia](https://github.com/danielkellyio/nuxt-content-algolia) - Automatically sync content stored in your project with nuxt content to an Algolia index.
 - [nuxt-fontagon](https://github.com/kdydesign/nuxt-fontagon) - Easy convert SVG from nuxt to icon font.
-- [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the  [HumansTxt organization project](http://humanstxt.org/).
+- [nuxt-humans-txt](https://github.com/LuXDAmore/nuxt-humans-txt) - An initiative to know the creators of a website. Contains the information about humans to the web building - A module to statically integrate and generate a `humans.txt` author file - Based on the [HumansTxt organization project](http://humanstxt.org/).
 - [nuxt-youtube-subscribe-module](https://github.com/jualoppaz/nuxt-youtube-subscribe-module) - Nuxt module for add the official Youtube Subscribe Button in your nuxt application.
 - [nuxt-blurhash](https://github.com/filsuck/nuxt-blurhash) - Nuxt module for simple integration with [BlurHash](https://blurha.sh/) Algorithm
 - [nuxt-google-sheets-parser](https://github.com/fureweb-com/nuxt-google-sheets-parser) - Easily import data from published Google Sheets.
@@ -223,7 +233,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
 
-
 ### Tools
 
 - [nuxt-generate-cluster](https://github.com/nuxt-community/nuxt-generate-cluster) - Multi-threaded generator command for Nuxt.js.
@@ -232,7 +241,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Official scaffolding tool for Nuxt.js projects. Create a Nuxt.js project in seconds.
 - [create-nuxt-netlify-cms-docs](https://github.com/RoboMx/create-nuxt-netlify-cms-docs) - Create Nuxt based docs with Netlify CMS as content manager.
 - [fume](https://fume.app) - Deploy to AWS supporting both server and static hosting, custom domains, integrations, and much more.
-
 
 ### Mention of Nuxt
 
@@ -245,9 +253,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 ### Tutorials
 
-[nuxt-v1-label]: media/nuxt-v1-label.svg "Nuxt.js v1"
-[nuxt-v2-label]: media/nuxt-v2-label.svg "Nuxt.js v2"
-[nuxt-v3-label]: media/nuxt-v3-label.svg "Nuxt.js v3"
+[nuxt-v1-label]: media/nuxt-v1-label.svg 'Nuxt.js v1'
+[nuxt-v2-label]: media/nuxt-v2-label.svg 'Nuxt.js v2'
+[nuxt-v3-label]: media/nuxt-v3-label.svg 'Nuxt.js v3'
 
 > The labels show the Nuxt.js versions that were available at that time.
 
@@ -606,7 +614,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
 - [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
 - [Vokal.co](https://vokal.co/) - Create podcast video snippets for social media.
-- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc. 
+- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc.
 - [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
