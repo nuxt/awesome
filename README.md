@@ -78,7 +78,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [AdSense](https://github.com/nuxt-community/adsense-module) - Google AdSense integration for Nuxt.js.
 - [Vuetify](https://github.com/nuxt-community/vuetify-module) - Material Component Framework.
 - [Browserconfig](https://github.com/nuxt-community/modules/tree/master/packages/browserconfig) - Adds XML browser configuration support.
-- [Bulma](https://github.com/nuxt-community/modules/tree/master/packages/bulma) - Leverage bulma CSS.
 - [Component-cache](https://github.com/nuxt-community/component-cache-module) - The vue-server-renderer has built-in support for component-level caching. This module automatically adds a LRU cache to project.
 - [Font-awesome](https://github.com/nuxt-community/fontawesome-module) - Leverage Font Awesome the iconic font and CSS toolkit.
 - [Font-awesome 5](https://github.com/Qonfucius/nuxt-fontawesome) - Use fontawesome 5 as a nuxtJS module.
