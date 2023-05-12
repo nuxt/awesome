@@ -222,6 +222,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [@nuxt-commerce/algolia](https://github.com/nuxt-commerce/algolia) - Algolia integration for Nuxt 3
 - [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
+- [nuxt-tailwind](https://tailwind-elements.com/docs/standard/integrations/nuxt-integration/) - Integrate Nuxt app with Tailwind
 
 
 ### Tools
