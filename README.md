@@ -340,7 +340,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [blog.Lichter.io](https://blog.lichter.io/?ref=awesome-nuxt) - Blog of core team member Alexander Lichter about Nuxt.js, JavaScript, Vue and more.
 - [Ship Shape Blog](https://shipshape.io/blog/?ref=awesome-nuxt) - Ship Shape's blog about Nuxt.js, Ember.js, JavaScript, Vue and more.
-
+- [Migrating from Nuxt 2 to Nuxt 3](https://debbie.codes/blog/migrating-nuxt2-nuxt3) 
+- [Nuxt 3 Migration Simplified: A Cheat Sheet](https://harlanzw.com/blog/nuxt-3-migration-cheatsheet)
 ### Books
 
 - [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma [@potato4d](https://github.com/potato4d)).
