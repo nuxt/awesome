@@ -223,6 +223,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
 - [klevu-nuxt](https://github.com/klevultd/frontend-sdk/tree/master/examples/nuxt3) - Klevu Discovery Suite example built with Nuxt 3, Pinia, Vite (server) and daisyui (styling) by Klevu.
+- [nuxt-tailwind](https://tailwind-elements.com/docs/standard/integrations/nuxt-integration/) - Integrate Nuxt app with Tailwind
 
 
 ### Tools
@@ -341,7 +342,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [blog.Lichter.io](https://blog.lichter.io/?ref=awesome-nuxt) - Blog of core team member Alexander Lichter about Nuxt.js, JavaScript, Vue and more.
 - [Ship Shape Blog](https://shipshape.io/blog/?ref=awesome-nuxt) - Ship Shape's blog about Nuxt.js, Ember.js, JavaScript, Vue and more.
-
+- [Migrating from Nuxt 2 to Nuxt 3](https://debbie.codes/blog/migrating-nuxt2-nuxt3) 
+- [Nuxt 3 Migration Simplified: A Cheat Sheet](https://harlanzw.com/blog/nuxt-3-migration-cheatsheet)
 ### Books
 
 - [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma [@potato4d](https://github.com/potato4d)).
