@@ -221,6 +221,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [@nuxt-commerce/algolia](https://github.com/nuxt-commerce/algolia) - Algolia integration for Nuxt 3
 - [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
+- [nuxt-block-russia-belarus](https://github.com/kevinl95/nuxt-block-russia-belarus) - Nuxt module to soft-block users from Russia and Belarus during the invasion of Ukraine.
 - [nuxt-openapi-docs-module](https://github.com/on-org/nuxt-openapi-docs-module) - Openapi docs generator for Nuxt 2 and 3
 - [klevu-nuxt](https://github.com/klevultd/frontend-sdk/tree/master/examples/nuxt3) - Klevu Discovery Suite example built with Nuxt 3, Pinia, Vite (server) and daisyui (styling) by Klevu.
 - [nuxt-tailwind](https://tailwind-elements.com/docs/standard/integrations/nuxt-integration/) - Integrate Nuxt app with Tailwind
