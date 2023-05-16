@@ -419,6 +419,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| [activist.org](https://activist.org) | Open-source, nonprofit activism platform. | [GitHub](https://github.com/activist-org/activist) |
+
 
 ![Nuxt v2][nuxt-v2-label]
 
