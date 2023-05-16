@@ -419,6 +419,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+| [V-Store](https://vue-ecom.vercel.app/) | Beautiful Open source StoreFront template built with Nuxt3. | [github](https://github.com/rash0/Vue-Ecom) |
 
 ![Nuxt v2][nuxt-v2-label]
 
