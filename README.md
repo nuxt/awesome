@@ -618,6 +618,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [coachkyubi.fr](https://coachkyubi.fr/) - Personal website of French sport coach. Built with Nuxt.js, Tailwind and Sanity.
 - [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
 - [Cuping font](https://cupingfont.com/) - Cool font generator made with nuxt3
+- [Lineup11.net](https://www.lineup11.net/) - Lineup11: Football lineup builder application to help users build football formations and share. Built with Nuxt.js.
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
