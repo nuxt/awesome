@@ -178,7 +178,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nuxt-protected-mailto](https://github.com/mmoollllee/nuxt-protected-mailto) - Component to protect email from spam-bots without sacrificing usability.
 - [contentful-module](https://github.com/scaccogatto/contentful-module) - Multiple-env Contentful generator
 - [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache. 
-- [nuxt-netlify-cache](https://github.com/DreaMinder/nuxt-netlify-cache) - Speed up Netlify redeployments using build-cache.
 - [nuxt-custom-elements](https://github.com/GrabarzUndPartner/nuxt-custom-elements) - Publish your components as a vue-custom-element standalone build.
 - [nuxt-prune-html](https://github.com/LuXDAmore/nuxt-prune-html) - Module to prune html before sending it to the browser (it removes elements matching CSS selector(s)), useful for boosting performance showing a different HTML for bots.
 - [nuxt-page-generator-helper](https://github.com/GrabarzUndPartner/nuxt-page-generator-helper) - Generate your pages statically without using payload extractors.
@@ -223,6 +222,9 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [@nuxt-modules/cache](https://github.com/nuxt-modules/cache) - Browser and Server Cache module for Nuxt 3
 - [@nuxt-commerce/nuxt-tailvue](https://github.com/acidjazz/nuxt-tailvue) - Out of the box Tailwind CSS components
 - [nuxt-block-russia-belarus](https://github.com/kevinl95/nuxt-block-russia-belarus) - Nuxt module to soft-block users from Russia and Belarus during the invasion of Ukraine.
+- [nuxt-openapi-docs-module](https://github.com/on-org/nuxt-openapi-docs-module) - Openapi docs generator for Nuxt 2 and 3
+- [klevu-nuxt](https://github.com/klevultd/frontend-sdk/tree/master/examples/nuxt3) - Klevu Discovery Suite example built with Nuxt 3, Pinia, Vite (server) and daisyui (styling) by Klevu.
+- [nuxt-tailwind](https://tailwind-elements.com/docs/standard/integrations/nuxt-integration/) - Integrate Nuxt app with Tailwind
 
 
 ### Tools
@@ -341,7 +343,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 - [blog.Lichter.io](https://blog.lichter.io/?ref=awesome-nuxt) - Blog of core team member Alexander Lichter about Nuxt.js, JavaScript, Vue and more.
 - [Ship Shape Blog](https://shipshape.io/blog/?ref=awesome-nuxt) - Ship Shape's blog about Nuxt.js, Ember.js, JavaScript, Vue and more.
-
+- [Migrating from Nuxt 2 to Nuxt 3](https://debbie.codes/blog/migrating-nuxt2-nuxt3) 
+- [Nuxt 3 Migration Simplified: A Cheat Sheet](https://harlanzw.com/blog/nuxt-3-migration-cheatsheet)
 ### Books
 
 - [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma [@potato4d](https://github.com/potato4d)).
@@ -614,6 +617,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [nextkickerz](https://nextkickerz.de) - Soccer mass video competition platform in cooperation with Germany's largest retail chain with world champion goalkeeper testimonial - based on JAMstack technology
 - [coachkyubi.fr](https://coachkyubi.fr/) - Personal website of French sport coach. Built with Nuxt.js, Tailwind and Sanity.
 - [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
+- [Cuping font](https://cupingfont.com/) - Cool font generator made with nuxt3
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
