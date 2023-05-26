@@ -395,6 +395,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [vinayakkulkarni/module-template-ava](https://github.com/vinayakkulkarni/module-template-ava) - Starter template for Nuxt.js Modules using Ava instead of Jest.
 - [rk-nuxt-atomic-design-starter](https://github.com/RadKod/rk-nuxt-atomic-design-starter) - Atomic Design starter template for nuxt.js.
 - [nuxt2-boilerplate](https://github.com/selimdoyranli/nuxt2-boilerplate) - 💚 Stable, compatible, powerful, clear, production ready. 📦👌
+- [nuxtwind-daisy](https://nuxtwind-daisy.ossph.org) - Nuxtwind Daisy. Nuxtwind Daisy is a starter template project for Nuxt.js 3 + Tailwind CSS + Daisy UI with additional installed setup for custom font, icons, animation, and more.
 
 ### Docker
 
@@ -620,6 +621,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
 - [Cuping font](https://cupingfont.com/) - Cool font generator made with nuxt3
 - [Lineup11.net](https://www.lineup11.net/) - Lineup11: Football lineup builder application to help users build football formations and share. Built with Nuxt.js.
+- [Faker.js UI](https://fakerjsui.com) - Faker.js UI. Use Faker.js UI to easiliy generate fake (but realistic) data for testing and development using Faker.js.
+- [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
