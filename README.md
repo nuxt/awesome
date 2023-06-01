@@ -96,7 +96,6 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Cloudinary](https://github.com/nuxt-community/cloudinary-module) - Cloudinary module for Nuxt.js for optimizing images and videos on the fly with Cloudinary.
 
 #### Community
-
 - [BootstrapVue](https://bootstrap-vue.org/docs/#nuxtjs-module) - Bootstrap v4 components and grid system for Nuxt.js.
 - [SocialMeta](https://github.com/AlekseyPleshkov/nuxt-social-meta) - Generate meta-tags for social network - Facebook and Twitter.
 - [Vue Material](https://github.com/vaso2/nuxt-vue-material) - Vue Material framework integration with Nuxt.
@@ -351,7 +350,7 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 - [Nuxt tech book(Japanese)](https://potato4d.booth.pm/items/824745)
 
 ### Starter Template
-
+- [mohammedmoutawakkil/old_MWK](https://github.com/mohammedmoutawakkil/old_MWK) - Open Source Portfolio website based on Nuxt.js + TailwindCss + Typescript.
 - [nuxt-community/adonuxt](https://github.com/nuxt-community/adonuxt-template) - Starter template for Nuxt.js with AdonisJS.
 - [nuxt-community/starter](https://github.com/nuxt-community/starter-template) - Nuxt.js starter project template.
 - [nuxt-community/express](https://github.com/nuxt-community/express-template) - Starter template for Nuxt.js with Express.
@@ -424,6 +423,8 @@ Discover the full list of Nuxt modules on https://modules.nuxtjs.org
 
 | Name | Description | Repository |
 |---|---|---|
+
+| [old-MWK](https://old-mwk.vercel.app) | Open Source Portfolio website based on Nuxt.js + TailwindCss + Typescript. | [github](https://github.com/mohammedmoutawakkil/old_MWK) |
 | [TaskPaw](https://taskpaw.com) | Productivity booster PWA that helps people fight procrastination. | [github](https://github.com/iAmShakil/taskpaw) |
 | [KodaDot](https://kodadot.xyz) | NFT Marketplace on Polkadot funded as public good, written in Vue.js | [github](https://github.com/kodadot/nft-gallery) |
 | [Sahem](https://ramadanathon.netlify.app/) | [Arabic] A demo charity solution which helps poor people obtain expensive tools and equipments. Presented in the Ramadanathon event of 2021. | [gitlab](https://gitlab.com/IbrahimBeladi/ramadanathon) |
