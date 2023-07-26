@@ -42,6 +42,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 - [Nuxt.new](https://nuxt.new)
 - [nuxt/starter repository](https://github.com/nuxt/starter)
+- [nuxtwind-daisy](https://nuxtwind-daisy.ossph.org) - Nuxtwind Daisy. Nuxtwind Daisy is a starter template project for Nuxt.js 3 + Tailwind CSS + Daisy UI with additional installed setup for custom font, icons, animation, and more.
 
 ### Official Examples
 
@@ -238,6 +239,8 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Perguidex](https://perguidex.io) - Perguidex lets you keep track of everything in one place, so you can get it all done and enjoy more peace of mind by living your life to the fullest ✨
 - [Cuping font](https://cupingfont.com/) - Cool font generator made with nuxt3
 - [Lineup11.net](https://www.lineup11.net/) - Lineup11: Football lineup builder application to help users build football formations and share. Built with Nuxt.js.
+- [Faker.js UI](https://fakerjsui.com) - Faker.js UI. Use Faker.js UI to easily generate fake (but realistic) data for testing and development using Faker.js.
+- [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 
 > Please don't hesitate to make a PR if you have more resources to share.
 
