@@ -241,7 +241,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Lineup11.net](https://www.lineup11.net/) - Lineup11: Football lineup builder application to help users build football formations and share. Built with Nuxt.js.
 - [Faker.js UI](https://fakerjsui.com) - Faker.js UI. Use Faker.js UI to easily generate fake (but realistic) data for testing and development using Faker.js.
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
-- [Cudo Compute](https://cudocompute.com/) - Democratized cloud platform built with nuxt3, @nuxt/content and tailwind
+- [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with nuxt3, @nuxt/content and tailwind
   
 > Please don't hesitate to make a PR if you have more resources to share.
 
