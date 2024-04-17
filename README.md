@@ -63,6 +63,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [Introducing Nuxt Devtools](https://nuxt.com/blog/introducing-nuxt-devtools) - Unleash the Developer Experience with Nuxt and understand your app better than ever, by @antfu
 - [24 Time Saving Tips for Nuxt 3](https://masteringnuxt.com/blog/24-time-saving-tips-for-nuxt3) - Nuxt has so many amazing features. This article is a compilation of 24 tips to help you save time and write better Nuxt apps.
 - [Running Nuxt 3 in a Docker Container](https://markus.oberlehner.net/blog/running-nuxt-3-in-a-docker-container/) - In this article, we’ll dive into the world of Nuxt 3 and Docker, exploring how they can work together to streamline our development and deployment processes.
+- [Nuxt 3 Courses - Turkish](https://www.youtube.com/playlist?list=PLf-6qk7szL-JUalfdUEqHeLnCTXi0DNB9) on Youtube by Abdullah Uğraşkan
 
 ### Books
 
@@ -244,6 +245,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 - [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with Nuxt 3, @nuxt/content and Tailwind CSS
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible! Nuxt Content used on [docs](https://pinx-docs.vercel.app/)
+- [Nuxt Ollama Chat UI](https://github.com/apoStyLEE/nuxt-ollama-chat) - Nuxt Ollama Chat is an open source and minimal chat UI for Ollama. UI Uses Ollama stream API. [Ollama](https://ollama.com) allows you to run open-source large language models, such as Llama 2, locally. Ollama bundles model weights, configuration, and data into a single package, defined by a Modelfile. 
   
 > Please don't hesitate to make a PR if you have more resources to share.
 
