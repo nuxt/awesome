@@ -44,7 +44,8 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [nuxt/starter repository](https://github.com/nuxt/starter)
 - [nuxtwind-daisy](https://nuxtwind-daisy.ossph.org) - Nuxtwind Daisy. Nuxtwind Daisy is a starter template project for Nuxt.js 3 + Tailwind CSS + Daisy UI with additional installed setup for custom font, icons, animation, and more.
 - [vitify-nuxt](https://github.com/kingyue737/vitify-nuxt) - Vuetify 3 + Nuxt 3, an opinionated admin starter template.
-
+ - [tailwind nuxt](https://github.com/breizhwave/nuxt-wave-tailwind) tailwind starter template with frontend custom VUE elements
+   
 ### Official Examples
 
 - [Hello World](https://nuxt.com/docs/examples/hello-world) - Simple Nuxt Hello World Example.
