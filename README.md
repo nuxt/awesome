@@ -14,6 +14,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [Community Examples](#community-examples)
 - [Articles](#articles)
 - [Books](#books)
+- [Companies Using Nuxt](#companies-using-nuxt)
 - [Open source projects using Nuxt](#open-source-projects-using-nuxt)
 - [Projects Using Nuxt](#projects-using-nuxt)
 
@@ -68,6 +69,10 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 - [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma [@potato4d](https://github.com/potato4d)).
 - [Nuxt tech book(Japanese)](https://potato4d.booth.pm/items/824745)
+
+### Companies Using Nuxt
+
+- [Companies Using Vue/Nuxt](https://github.com/cloydlau/companies-using-vue)
 
 ### Open source projects using Nuxt
 
