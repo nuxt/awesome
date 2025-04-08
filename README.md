@@ -12,6 +12,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [Starter Template](#starter-template)
 - [Official Examples](#official-examples)
 - [Community Examples](#community-examples)
+- [Charts](#charts)
 - [Articles](#articles)
 - [Books](#books)
 - [Open source projects using Nuxt](#open-source-projects-using-nuxt)
@@ -55,6 +56,10 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 ### Community Examples
 
 - Add yours by making a PR :heart:
+
+### Charts
+
+- [Nuxt Charts](https://nuxtcharts.com/) - A Vue.js chart library based on Unovis for Vue and Nuxt.
 
 ### Articles
 
