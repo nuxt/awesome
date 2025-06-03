@@ -33,7 +33,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [Twitter](https://twitter.com/nuxt_js)
 - [Discord](https://discord.com/invite/nuxt)
 - [Reddit](https://www.reddit.com/r/Nuxt/)
- 
+
 ### Modules
 
 - [Official listing](https://nuxt.com/modules)
@@ -79,7 +79,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [GitHub Nuxt Network dependents](https://github.com/nuxt/nuxt/network/dependents)
 
 | Name | Description | Repository |
-|---|---|---|
+| ---- | ----------- | ---------- |
 
 ### Projects Using Nuxt
 
@@ -236,7 +236,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [HHM Academy Hanoi](https://hhmacademy.vn) - HHM Academy Hanoi Technology training center (Viet Nam).
 - [GroovyPDF.com](https://www.groovypdf.com/?from=awesome-nuxt) - Your free and privacy-focused in-browser PDF toolsuite.
 - [Vokal.co](https://vokal.co/) - Create podcast video snippets for social media.
-- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc. 
+- [Roguediscs.com](https://roguediscs.com/?from-nuxt) - Modern Ecommerce site to buy disc golf discs and accessories. Making it easy for the user to find the right disc.
 - [Freatle](https://freatle.com) - The simplest to know who brings what. Built with Nuxt.js, Bulma and Tailwind.
 - [golifelog.com](https://golifelog.com/) - Goal writing platform built with Nuxt.js, Bulma, and Strapi.
 - [ClinicGeek.com](https://www.clinicgeek.com/) - Healthcare directory listing website built with Nuxt.js, TailwindCSS and Supabase.
@@ -249,7 +249,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 - [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with Nuxt 3, @nuxt/content and Tailwind CSS
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible! Nuxt Content used on [docs](https://pinx-docs.vercel.app/)
-  
+
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
