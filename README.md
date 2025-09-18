@@ -6,16 +6,19 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Modules](#modules)
-- [Starter Template](#starter-template)
-- [Official Examples](#official-examples)
-- [Community Examples](#community-examples)
-- [Articles](#articles)
-- [Books](#books)
-- [Open source projects using Nuxt](#open-source-projects-using-nuxt)
-- [Projects Using Nuxt](#projects-using-nuxt)
+- [Awesome Nuxt ](#awesome-nuxt-)
+- [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Modules](#modules)
+  - [Starter Template](#starter-template)
+  - [Official Examples](#official-examples)
+  - [Community Examples](#community-examples)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Open source projects using Nuxt](#open-source-projects-using-nuxt)
+  - [Projects Using Nuxt](#projects-using-nuxt)
+- [License](#license)
 
 ### Official Resources
 
@@ -245,7 +248,8 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 - [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with Nuxt 3, @nuxt/content and Tailwind CSS
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible! Nuxt Content used on [docs](https://pinx-docs.vercel.app/)
-  
+- [Litlyx](https://litlyx.com) - Litlyx is powerful,AI-powered web analytics solution. Fully self-hostable and GDPR compliant. Alternative to Google Analytics, MixPanel, Plausible, Umami & Matomo.
+
 > Please don't hesitate to make a PR if you have more resources to share.
 
 ## License
