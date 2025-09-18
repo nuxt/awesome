@@ -198,7 +198,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Ouestfrance-immo.com](https://www.ouestfrance-immo.com/) - OuestFrance-Immo.com is the first real estate portal in the west of France with more than 3,500,000 monthly. [The real estate directory](https://www.ouestfrance-immo.com/annuaire-immobilier/) is built with Nuxt.js, Axios and Bootstrap-vue.
 - [Statusfy](https://statusfy.co/) - Statusfy is a simple Open Source Status Page system designed to be built and maintained with minimum effort.
 - [Predictice](https://predictice.com/) - Predictice, Legal Intelligence solution build with NuxtJS and Elasticsearch.
-- [Beerbay](https://beerbay.net/) - Beerbay is a craft beer e-commerce built with NUXT and WP api.
+- [Beerbay](https://beerbay.es/) - Beerbay is a craft beer e-commerce built with NUXT and WP api.
 - [alibaba.aero](https://www.alibaba.aero) - Alibaba Travels Co is Iran's leading travel website built with Nuxt.js.
 - [Ide.ma](https://ide.ma/) - Personal blog built with Vue.js, Nuxt.js and a Laravel driven backend.
 - [i-consent.network](https://i-consent.network) - Master thesis driven by Nuxt.js and Storyblok.
@@ -245,6 +245,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 - [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with Nuxt 3, @nuxt/content and Tailwind CSS
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible! Nuxt Content used on [docs](https://pinx-docs.vercel.app/)
+- [Electric Magic Factory](https://electricmagicfactory.com/en/) - Frontend developer specialized in Nuxt. Created with a [Nuxt 3 based stack](https://electricmagicfactory.com/en/frontend-developer-specialized-in-nuxt), including Tailwind CSS and Nuxt Content.
   
 > Please don't hesitate to make a PR if you have more resources to share.
 
