@@ -160,6 +160,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + Tailwind.
 - [theoddwave.co.nz](https://theoddwave.co.nz/) - website builder for business startups in New Zealand using Nuxt.js, Vue.js and headless CMS.
 - [temp-mail.io](https://temp-mail.io/) - Disposable temporary email service.
+- [tempmail.so](https://tempmail.so) - Disposable temporary email service.
 - [Freshworks Marketplace](https://www.freshworks.com/apps/) - Freshworks App Marketplace with over a 1000 apps trusted by over 30,000 businesses built using Nuxt.js.
 - [hurriyetemlak.com](https://hurriyetemlak.com) - The largest real estate portal in the Turkey. Over 18 billion traffic per month.
 - [moebelland.de](https://www.moebelland.de) - German furniture shopping aggregation site.
