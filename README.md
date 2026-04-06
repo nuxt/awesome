@@ -4,6 +4,7 @@
 
 Nuxt's goal is to make web development intuitive and performant, with a great developer experience.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Nuxt.js development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Official Resources](#official-resources)
