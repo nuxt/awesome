@@ -37,6 +37,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 - [Official listing](https://nuxt.com/modules)
 - [nuxt-module topic on GitHub](https://github.com/topics/nuxt-module)
+- [@aeorank/nuxt](https://github.com/vinpatel/aeorank/tree/main/packages/nuxt) - Scores your site's AI visibility and generates the files (llms.txt, ai.txt, CLAUDE.md, and more) that help your pages get cited by ChatGPT, Perplexity, Claude, and Google AI Overviews.
 
 ### Starter Template
 
