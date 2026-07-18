@@ -37,6 +37,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 - [Official listing](https://nuxt.com/modules)
 - [nuxt-module topic on GitHub](https://github.com/topics/nuxt-module)
+- [tronche](https://github.com/rootasjey/tronche) - Generate unique SVG avatars from any username and color palette. Vue, Nuxt, React components with 6 visual styles.
 
 ### Starter Template
 
