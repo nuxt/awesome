@@ -243,6 +243,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Lineup11.net](https://www.lineup11.net/) - Lineup11: Football lineup builder application to help users build football formations and share. Built with Nuxt.js.
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 - [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with Nuxt 3, @nuxt/content and Tailwind CSS
+- [Arabizi.io](https://arabizi.io) - A free, fully responsive virtual Arabic keyboard and real-time phonetic transliteration engine built with Nuxt.js and Tailwind CSS.
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible! Nuxt Content used on [docs](https://pinx-docs.vercel.app/)
   
 > Please don't hesitate to make a PR if you have more resources to share.
