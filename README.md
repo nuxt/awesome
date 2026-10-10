@@ -215,7 +215,7 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [dota2sites.com](https://dota2sites.com) - Dota2 and CSGO case opening ranking site built by nuxt.
 - [postwoman.io](https://postwoman.io) - Lightweight, fast and open sourced API request builder. Built with NuxtJS.
 - [Whyp](https://whyp.it) - A free audio sharing website built with Nuxt + TailwindCSS.
-- [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer. Built with Nuxtjs + Vuetify.
+- [AwesomeTechStack](https://awesometechstack.com) - Website Tech Stack Analyzer. Built with Nuxt + TailwindCSS.
 - [Getform](https://getform.io) - Form backend platform for designers and developers.
 - [Best movies watch](https://best-movies.watch) - Free movies streaming site. Allows you to watch full movies online without registration.
 - [Tune.pk](https://tune.pk) - Tune.pk is one of the largest video sharing website with content from all over the world.
