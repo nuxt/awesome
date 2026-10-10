@@ -81,6 +81,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framework.slug=nuxtjs&_sort=lastDetectedAt:desc)
 
+- [Obolus](https://obolus.at) - Free Austrian cent-accurate gross-to-net and employer-cost calculators with a sourced tax glossary, built and optimized with Nuxt.
 - [U Can Stock](https://www.ucanstock.com/) - U.S. stock market information platform for Korean.
 - [readable.report](https://readable.report/) - View all of your stats from all of your apps with a single easy-to-read report.
 - [homefinder.com](https://homefinder.com) - Nation-wide real estate portal in the US. Find or sell your home on HomeFinder!
