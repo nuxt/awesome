@@ -70,12 +70,13 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 - [Nuxt.js beginners guide(Japanese)](https://github.com/potato4d/nuxt-beginners-guide) - Japan's first book that corresponds to Nuxt.js v2 and focuses on deep content(published by C&R Institute, author: HANATANI Takuma [@potato4d](https://github.com/potato4d)).
 - [Nuxt tech book(Japanese)](https://potato4d.booth.pm/items/824745)
 
-### Open source projects using Nuxt
+### Open Source Projects Using Nuxt
 
 - [GitHub Nuxt Network dependents](https://github.com/nuxt/nuxt/network/dependents)
 
 | Name | Description | Repository |
 |---|---|---|
+| [mdsite](https://life-and-dev.github.io/mdsite/) | Easily convert directory of Markdown files to Nuxt website with 1 CLI command. | [https://github.com/life-and-dev/mdsite](https://github.com/life-and-dev/mdsite) |
 
 ### Projects Using Nuxt
 
