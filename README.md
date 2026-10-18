@@ -6,16 +6,19 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 ## Contents
 
-- [Official Resources](#official-resources)
-- [Community](#community)
-- [Modules](#modules)
-- [Starter Template](#starter-template)
-- [Official Examples](#official-examples)
-- [Community Examples](#community-examples)
-- [Articles](#articles)
-- [Books](#books)
-- [Open source projects using Nuxt](#open-source-projects-using-nuxt)
-- [Projects Using Nuxt](#projects-using-nuxt)
+- [Awesome Nuxt ](#awesome-nuxt-)
+- [Contents](#contents)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Modules](#modules)
+  - [Starter Template](#starter-template)
+  - [Official Examples](#official-examples)
+  - [Community Examples](#community-examples)
+  - [Articles](#articles)
+  - [Books](#books)
+  - [Open source projects using Nuxt](#open-source-projects-using-nuxt)
+  - [Projects Using Nuxt](#projects-using-nuxt)
+- [License](#license)
 
 ### Official Resources
 
@@ -40,6 +43,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 ### Starter Template
 
+- [Craft CMS + Nuxt Starter](https://github.com/craftcms/starter-nuxt) - A headless starter integrating Nuxt with Craft CMS, featuring GraphQL support, pagination, and live preview functionality with draft sharing.
 - [Nuxt.new](https://nuxt.new)
 - [nuxt/starter repository](https://github.com/nuxt/starter)
 - [nuxtwind-daisy](https://nuxtwind-daisy.ossph.org) - Nuxtwind Daisy. Nuxtwind Daisy is a starter template project for Nuxt.js 3 + Tailwind CSS + Daisy UI with additional installed setup for custom font, icons, animation, and more.
