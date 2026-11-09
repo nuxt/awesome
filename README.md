@@ -76,6 +76,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 | Name | Description | Repository |
 |---|---|---|
+| Artifact Hub | Self-hosted hub for AI-generated pages and design canvases, with on-page comments the AI can read and fix | https://github.com/czepter/artifact-hub |
 
 ### Projects Using Nuxt
 
