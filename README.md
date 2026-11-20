@@ -59,6 +59,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 ### Articles
 
+- [Test OAuth sign-in in Nuxt with Mockatoo](https://mockatoo.globalunderdog.com/docs/nuxt) - Guide to running Auth.js in a Nitro server route against a hosted mock OAuth provider, with Playwright sign-in tests in CI.
 - [A guide to Nuxt server components](https://roe.dev/blog/nuxt-server-components) - 'Server components' are becoming increasingly common in the web development ecosystem, for good reason, by @danielroe
 - [Nuxt on the Edge](https://nuxt.com/blog/nuxt-on-the-edge) - Learn how we made Nuxt 3 capable of running on edge runtimes to run with server-side rendering close to your users, by @Atinux
 - [Introducing Nuxt Devtools](https://nuxt.com/blog/introducing-nuxt-devtools) - Unleash the Developer Experience with Nuxt and understand your app better than ever, by @antfu
