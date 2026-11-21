@@ -76,6 +76,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 | Name | Description | Repository |
 |---|---|---|
+| Serangkai | Open-source self-hosted workspace for interactive documents; AI agents write via MCP with scoped tokens. | [sewadahapp/serangkai](https://github.com/sewadahapp/serangkai) |
 
 ### Projects Using Nuxt
 
