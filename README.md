@@ -244,6 +244,8 @@ See a full list on [Vue Telescope](https://www.vuetelescope.com/explore?framewor
 - [Hippocrades](https://hippocrades.com/) - Enterprise-Grade Health Solutions Made Affordable
 - [Cudo Compute](https://www.cudocompute.com/) - Democratized cloud platform built with Nuxt 3, @nuxt/content and Tailwind CSS
 - [Pinx](https://themeforest.net/item/pinx-vuejs-admin-template/47799543?ref=DverseStudio&utm_source=awesomevue) - Pinx is an admin template crafted with Vue 3 + TypeScript, developer-friendly and designed with Naive UI and Tailwind CSS. Nuxt compatible! Nuxt Content used on [docs](https://pinx-docs.vercel.app/)
+- [MapperMate](https://mappermate.com) - Free-to-use tilemap editor used to create, edit, and manage tilemaps for 2D games
+- [Chris Courses](https://chriscourses.com) - JavaScript and 2D game dev learning platform with interactive videos, quizzes, and code challenges
   
 > Please don't hesitate to make a PR if you have more resources to share.
 
