@@ -55,6 +55,7 @@ Nuxt's goal is to make web development intuitive and performant, with a great de
 
 ### Community Examples
 
+- [FCaptcha for Nuxt 4](https://github.com/WebDecoy/FCaptcha/tree/v1.51.4/packages/nuxt) - Shows how to use a self-hosted CAPTCHA widget in a Nuxt form while keeping verification server-side.
 - Add yours by making a PR :heart:
 
 ### Articles
